@@ -1,0 +1,243 @@
+Pos,Player,Team,Opp,Salary,Proj,Value
+QB,Patrick Mahomes,KC,LAC,8.2k,26.3,3.2
+QB,Kyler Murray,ARI,@JAX,8.3k,26.3,3.2
+QB,Lamar Jackson,BAL,@DET,7.8k,25.6,3.3
+QB,Russell Wilson,SEA,@MIN,7.6k,23.6,3.1
+QB,Justin Herbert,LAC,@KC,6.5k,23.0,3.5
+QB,Josh Allen,BUF,WAS,7.0k,22.9,3.3
+RB,Derrick Henry,TEN,IND,8.6k,22.8,2.6
+RB,Dalvin Cook,MIN,SEA,8.4k,21.7,2.6
+QB,Tom Brady,TB,@LAR,6.8k,21.7,3.2
+QB,Matthew Stafford,LAR,TB,6.4k,20.6,3.2
+QB,Ryan Tannehill,TEN,IND,6.2k,20.1,3.2
+WR,Tyreek Hill,KC,LAC,8.4k,19.8,2.4
+QB,Daniel Jones,NYG,ATL,5.8k,19.7,3.4
+RB,Alvin Kamara,NO,@NE,8.2k,19.6,2.4
+WR,DeAndre Hopkins,ARI,@JAX,8.2k,19.4,2.4
+QB,Derek Carr,LV,MIA,5.9k,19.4,3.3
+TE,Travis Kelce,KC,LAC,8.2k,19.2,2.3
+QB,Kirk Cousins,MIN,SEA,6.3k,18.8,3.0
+WR,Stefon Diggs,BUF,WAS,7.6k,18.7,2.5
+RB,Austin Ekeler,LAC,@KC,7.2k,18.6,2.6
+WR,Cooper Kupp,LAR,TB,6.8k,18.6,2.7
+QB,Teddy Bridgewater,DEN,NYJ,5.8k,18.5,3.2
+WR,Calvin Ridley,ATL,@NYG,7.0k,18.4,2.6
+WR,Tyler Lockett,SEA,@MIN,7.4k,18.3,2.5
+QB,Matt Ryan,ATL,@NYG,5.4k,17.7,3.3
+WR,D.K. Metcalf,SEA,@MIN,7.3k,17.5,2.4
+WR,Keenan Allen,LAC,@KC,6.6k,17.4,2.6
+QB,Baker Mayfield,CLE,CHI,6.0k,17.4,2.9
+QB,Trevor Lawrence,JAX,ARI,5.5k,17.1,3.1
+QB,Joe Burrow,CIN,@PIT,5.5k,17.1,3.1
+TE,Darren Waller,LV,MIA,7.4k,16.9,2.3
+WR,Adam Thielen,MIN,SEA,6.7k,16.8,2.5
+RB,Nick Chubb,CLE,CHI,7.6k,16.8,2.2
+WR,Justin Jefferson,MIN,SEA,7.2k,16.6,2.3
+WR,A.J. Brown,TEN,IND,6.5k,16.5,2.5
+RB,Saquon Barkley,NYG,ATL,6.5k,16.4,2.5
+QB,Jameis Winston,NO,@NE,5.6k,16.4,2.9
+QB,Ben Roethlisberger,PIT,CIN,5.7k,16.3,2.9
+QB,Jared Goff,DET,BAL,5.2k,16.3,3.1
+RB,Chris Carson,SEA,@MIN,6.4k,16.2,2.5
+RB,Joe Mixon,CIN,@PIT,6.3k,16.0,2.5
+RB,Najee Harris,PIT,CIN,6.6k,16.0,2.4
+WR,Terry McLaurin,WAS,@BUF,6.9k,15.9,2.3
+RB,D'Andre Swift,DET,BAL,5.8k,15.8,2.7
+WR,Allen Robinson,CHI,@CLE,6.2k,15.7,2.5
+QB,Justin Fields,CHI,@CLE,5.2k,15.7,3.0
+WR,Robert Woods,LAR,TB,5.7k,15.5,2.7
+WR,Julio Jones,TEN,IND,6.5k,15.4,2.4
+WR,Courtland Sutton,DEN,NYJ,6.0k,15.4,2.6
+WR,Chris Godwin,TB,@LAR,6.1k,15.4,2.5
+QB,Mac Jones,NE,NO,5.1k,15.3,3.0
+RB,Jonathan Taylor,IND,@TEN,6.7k,15.3,2.3
+QB,Taylor Heinicke,WAS,@BUF,5.6k,15.1,2.7
+QB,Jacoby Brissett,MIA,@LV,4.9k,15.0,3.1
+QB,Carson Wentz,IND,@TEN,5.7k,15.0,2.6
+RB,Antonio Gibson,WAS,@BUF,5.9k,14.8,2.5
+WR,Sterling Shepard,NYG,ATL,5.9k,14.7,2.5
+RB,David Montgomery,CHI,@CLE,6.1k,14.5,2.4
+WR,Ja'Marr Chase,CIN,@PIT,5.4k,14.5,2.7
+WR,Marquise Brown,BAL,@DET,5.6k,14.5,2.6
+WR,Mike Evans,TB,@LAR,6.3k,14.4,2.3
+WR,Mike Williams,LAC,@KC,6.4k,14.2,2.2
+TE,T.J. Hockenson,DET,BAL,5.2k,14.2,2.7
+WR,Marvin Jones,JAX,ARI,4.9k,14.2,2.9
+WR,Chase Claypool,PIT,CIN,5.8k,14.1,2.4
+WR,Tee Higgins,CIN,@PIT,5.1k,14.1,2.8
+RB,Chase Edmonds,ARI,@JAX,5.7k,14.1,2.5
+QB,Zach Wilson,NYJ,@DEN,5.0k,14.0,2.8
+WR,Michael Pittman,IND,@TEN,5.5k,13.9,2.5
+RB,James Robinson,JAX,ARI,5.7k,13.9,2.4
+RB,Myles Gaskin,MIA,@LV,5.4k,13.8,2.6
+RB,Clyde Edwards-Helaire,KC,LAC,4.8k,13.6,2.8
+WR,Kenny Golladay,NYG,ATL,5.6k,13.0,2.3
+TE,Mark Andrews,BAL,@DET,5.0k,12.9,2.6
+RB,Mike Davis,ATL,@NYG,5.1k,12.8,2.5
+WR,JuJu Smith-Schuster,PIT,CIN,6.0k,12.8,2.1
+RB,Damien Harris,NE,NO,5.6k,12.6,2.3
+WR,Tyler Boyd,CIN,@PIT,4.7k,12.6,2.7
+RB,Melvin Gordon,DEN,NYJ,5.5k,12.6,2.3
+RB,Ty'Son Williams,BAL,@DET,5.8k,12.5,2.2
+TE,Kyle Pitts,ATL,@NYG,4.9k,12.5,2.6
+WR,Cole Beasley,BUF,WAS,4.8k,12.3,2.6
+RB,Kareem Hunt,CLE,CHI,5.6k,12.0,2.1
+WR,D.J. Chark,JAX,ARI,5.3k,12.0,2.3
+WR,Corey Davis,NYJ,@DEN,5.0k,11.8,2.4
+WR,Antonio Brown,TB,@LAR,5.2k,11.7,2.3
+WR,DeVante Parker,MIA,@LV,5.4k,11.7,2.2
+WR,Diontae Johnson,PIT,CIN,6.4k,11.7,1.8
+RB,Leonard Fournette,TB,@LAR,5.0k,11.7,2.3
+WR,Jakobi Meyers,NE,NO,5.0k,11.6,2.3
+WR,Darnell Mooney,CHI,@CLE,4.3k,11.6,2.7
+RB,Devin Singletary,BUF,WAS,4.9k,11.5,2.4
+RB,Darrell Henderson,LAR,TB,5.9k,11.5,1.9
+WR,Henry Ruggs,LV,MIA,5.2k,11.5,2.2
+WR,Odell Beckham Jr.,CLE,CHI,5.3k,11.4,2.2
+RB,James White,NE,NO,4.9k,11.4,2.3
+TE,Noah Fant,DEN,NYJ,4.8k,11.3,2.4
+TE,Rob Gronkowski,TB,@LAR,5.5k,11.3,2.0
+WR,Rondale Moore,ARI,@JAX,5.0k,11.2,2.2
+RB,Javonte Williams,DEN,NYJ,4.9k,11.2,2.3
+WR,Will Fuller,MIA,@LV,4.7k,11.1,2.4
+WR,Jaylen Waddle,MIA,@LV,4.6k,11.0,2.4
+WR,Zach Pascal,IND,@TEN,4.8k,10.9,2.3
+WR,Laviska Shenault,JAX,ARI,4.4k,10.9,2.5
+RB,Kenyan Drake,LV,MIA,5.5k,10.8,2.0
+WR,Sammy Watkins,BAL,@DET,5.5k,10.8,2.0
+RB,Jamaal Williams,DET,BAL,5.1k,10.7,2.1
+WR,Christian Kirk,ARI,@JAX,5.4k,10.7,2.0
+WR,Nelson Agholor,NE,NO,4.6k,10.7,2.3
+TE,Logan Thomas,WAS,@BUF,4.7k,10.4,2.2
+WR,Emmanuel Sanders,BUF,WAS,4.2k,10.3,2.4
+RB,Nyheim Hines,IND,@TEN,4.6k,10.2,2.2
+WR,Tim Patrick,DEN,NYJ,4.9k,10.2,2.1
+WR,Russell Gage,ATL,@NYG,4.3k,10.0,2.3
+WR,Hunter Renfrow,LV,MIA,4.0k,9.9,2.5
+WR,Tyrell Williams,DET,BAL,4.2k,9.9,2.4
+WR,Darius Slayton,NYG,ATL,4.6k,9.9,2.1
+RB,J.D. McKissic,WAS,@BUF,5.2k,9.7,1.9
+WR,K.J. Osborn,MIN,SEA,3.5k,9.6,2.7
+TE,Tyler Higbee,LAR,TB,4.0k,9.6,2.4
+WR,Marquez Callaway,NO,@NE,4.1k,9.5,2.3
+RB,James Conner,ARI,@JAX,5.0k,9.4,1.9
+RB,Cordarrelle Patterson,ATL,@NYG,4.6k,9.4,2.0
+TE,Jared Cook,LAC,@KC,3.9k,9.3,2.4
+WR,A.J. Green,ARI,@JAX,4.5k,9.0,2.0
+WR,Mecole Hardman,KC,LAC,3.9k,9.0,2.3
+TE,Austin Hooper,CLE,CHI,3.6k,8.9,2.5
+RB,Josh Jacobs,LV,MIA,6.2k,8.8,1.4
+WR,Quintez Cephus,DET,BAL,3.9k,8.7,2.2
+D,Broncos,DEN,NYJ,4.3k,8.6,2.0
+WR,Bryan Edwards,LV,MIA,3.8k,8.6,2.3
+WR,Elijah Moore,NYJ,@DEN,3.8k,8.6,2.3
+RB,Latavius Murray,BAL,@DET,5.3k,8.5,1.6
+WR,Gabriel Davis,BUF,WAS,3.7k,8.4,2.3
+TE,Jonnu Smith,NE,NO,4.1k,8.3,2.0
+TE,Cole Kmet,CHI,@CLE,3.2k,8.2,2.6
+WR,Jamison Crowder,NYJ,@DEN,4.5k,8.2,1.8
+D,Bills,BUF,WAS,3.8k,8.2,2.1
+TE,Evan Engram,NYG,ATL,3.6k,8.2,2.3
+RB,Michael Carter,NYJ,@DEN,4.6k,8.1,1.8
+WR,Van Jefferson,LAR,TB,3.4k,8.1,2.4
+D,Patriots,NE,NO,4.1k,8.1,2.0
+D,Steelers,PIT,CIN,3.9k,8.0,2.1
+WR,Rashard Higgins,CLE,CHI,4.2k,8.0,1.9
+TE,Mike Gesicki,MIA,@LV,3.8k,8.0,2.1
+TE,Hunter Henry,NE,NO,3.7k,7.9,2.1
+TE,Anthony Firkser,TEN,IND,3.1k,7.9,2.5
+D,Cardinals,ARI,@JAX,3.0k,7.8,2.6
+RB,Ronald Jones,TB,@LAR,4.8k,7.8,1.6
+RB,Sony Michel,LAR,TB,4.9k,7.5,1.5
+D,Ravens,BAL,@DET,3.6k,7.4,2.1
+TE,Tyler Conklin,MIN,SEA,2.9k,7.3,2.5
+WR,Braxton Berrios,NYJ,@DEN,3.9k,7.3,1.9
+TE,Jack Doyle,IND,@TEN,3.4k,7.3,2.1
+WR,Deonte Harris,NO,@NE,3.3k,7.3,2.2
+WR,Amon-Ra St. Brown,DET,BAL,3.3k,7.2,2.2
+D,Raiders,LV,MIA,3.4k,7.2,2.1
+D,Browns,CLE,CHI,3.2k,7.2,2.2
+WR,Adam Humphries,WAS,@BUF,3.7k,7.1,1.9
+TE,Gerald Everett,SEA,@MIN,3.0k,7.1,2.4
+WR,K.J. Hamler,DEN,NYJ,3.6k,7.1,2.0
+TE,Dawson Knox,BUF,WAS,3.4k,7.0,2.0
+RB,Zack Moss,BUF,WAS,4.7k,6.8,1.5
+WR,Freddie Swain,SEA,@MIN,4.0k,6.7,1.7
+D,Saints,NO,@NE,3.1k,6.6,2.1
+WR,Kalif Raymond,DET,BAL,4.0k,6.5,1.6
+D,Dolphins,MIA,@LV,2.7k,6.4,2.4
+D,Chiefs,KC,LAC,3.1k,6.4,2.1
+RB,Alexander Mattison,MIN,SEA,6.0k,6.4,1.1
+TE,David Njoku,CLE,CHI,3.5k,6.2,1.8
+WR,Anthony Schwartz,CLE,CHI,3.2k,6.2,1.9
+RB,Ty Johnson,NYJ,@DEN,4.3k,6.2,1.4
+D,Bucs,TB,@LAR,3.7k,6.2,1.7
+WR,Dyami Brown,WAS,@BUF,3.6k,6.1,1.7
+D,Giants,NYG,ATL,3.3k,6.1,1.8
+TE,Juwan Johnson,NO,@NE,3.3k,6.1,1.8
+WR,Chester Rogers,TEN,IND,3.0k,6.0,2.0
+D,Titans,TEN,IND,2.4k,6.0,2.5
+D,Rams,LAR,TB,3.5k,5.9,1.7
+TE,Maxx Williams,ARI,@JAX,3.2k,5.9,1.9
+TE,C.J. Uzomah,CIN,@PIT,2.7k,5.9,2.2
+TE,Hayden Hurst,ATL,@NYG,2.8k,5.8,2.1
+D,Seahawks,SEA,@MIN,2.8k,5.8,2.1
+WR,Donovan Peoples-Jones,CLE,CHI,3.0k,5.8,1.9
+D,Falcons,ATL,@NYG,2.5k,5.8,2.3
+RB,Darrel Williams,KC,LAC,4.7k,5.7,1.2
+WR,James Washington,PIT,CIN,4.0k,5.7,1.4
+D,Washington,WAS,@BUF,2.6k,5.6,2.2
+WR,Demarcus Robinson,KC,LAC,4.1k,5.6,1.4
+D,Colts,IND,@TEN,2.7k,5.5,2.0
+TE,Adam Trautman,NO,@NE,2.9k,5.5,1.9
+WR,DeSean Jackson,LAR,TB,3.0k,5.5,1.8
+TE,Eric Ebron,PIT,CIN,3.3k,5.5,1.7
+WR,Jalen Guyton,LAC,@KC,3.2k,5.4,1.7
+D,Vikings,MIN,SEA,2.9k,5.4,1.9
+D,Bears,CHI,@CLE,3.0k,5.3,1.8
+RB,Damien Williams,CHI,@CLE,4.3k,5.3,1.2
+TE,Albert Okwuegbunam,DEN,NYJ,3.0k,5.3,1.8
+RB,Giovani Bernard,TB,@LAR,4.2k,5.2,1.2
+RB,Carlos Hyde,JAX,ARI,4.0k,5.2,1.3
+TE,Pat Freiermuth,PIT,CIN,3.0k,5.1,1.7
+D,Bengals,CIN,@PIT,2.1k,5.1,2.4
+RB,Tony Jones,NO,@NE,4.0k,5.1,1.3
+RB,Salvon Ahmed,MIA,@LV,4.1k,5.0,1.2
+WR,Parris Campbell,IND,@TEN,3.3k,5.0,1.5
+WR,Marquise Goodwin,CHI,@CLE,3.2k,5.0,1.6
+D,Jets,NYJ,@DEN,2.2k,4.9,2.2
+RB,Justin Jackson,LAC,@KC,4.0k,4.9,1.2
+WR,Byron Pringle,KC,LAC,3.0k,4.8,1.6
+D,Lions,DET,BAL,2.0k,4.8,2.4
+WR,Olamide Zaccheaus,ATL,@NYG,3.5k,4.8,1.4
+WR,Damiere Byrd,CHI,@CLE,3.0k,4.8,1.6
+RB,Peyton Barber,LV,MIA,4.3k,4.7,1.1
+D,Jaguars,JAX,ARI,2.0k,4.6,2.3
+RB,Malcolm Brown,MIA,@LV,4.4k,4.6,1.0
+TE,Harrison Bryant,CLE,CHI,2.8k,4.5,1.6
+WR,Trinity Benson,DET,BAL,3.0k,4.5,1.5
+TE,Will Dissly,SEA,@MIN,2.9k,4.5,1.5
+TE,Kyle Rudolph,NYG,ATL,3.0k,4.4,1.5
+RB,Tevin Coleman,NYJ,@DEN,4.5k,4.3,0.9
+TE,O.J. Howard,TB,@LAR,2.8k,4.2,1.5
+RB,Marlon Mack,IND,@TEN,4.2k,3.9,0.9
+TE,Ryan Griffin,NYJ,@DEN,2.6k,3.9,1.5
+RB,Jacques Patrick,CIN,@PIT,4.0k,3.9,1.0
+TE,Tyler Kroft,NYJ,@DEN,2.7k,3.9,1.4
+RB,Jeremy McNichols,TEN,IND,4.8k,3.8,0.8
+WR,Joshua Palmer,LAC,@KC,3.0k,3.7,1.2
+RB,Devonta Freeman,BAL,@DET,4.4k,3.7,0.8
+TE,Jimmy Graham,CHI,@CLE,2.9k,3.6,1.2
+TE,Mo Alie-Cox,IND,@TEN,2.6k,3.6,1.4
+TE,Donald Parham,LAC,@KC,2.8k,3.6,1.3
+D,Chargers,LAC,@KC,2.3k,3.5,1.5
+RB,Larry Rountree,LAC,@KC,4.0k,3.4,0.8
+TE,MyCole Pruitt,TEN,IND,2.8k,3.4,1.2
+RB,Devontae Booker,NYG,ATL,4.6k,3.4,0.7
+RB,Samaje Perine,CIN,@PIT,4.0k,3.3,0.8
+TE,Chris Herndon,MIN,SEA,2.6k,3.2,1.2
+TE,Luke Farrell,JAX,ARI,2.5k,3.1,1.3
+RB,Benny Snell,PIT,CIN,4.0k,3.0,0.8
+TE,Geoff Swaim,TEN,IND,2.5k,2.9,1.2
+WR,Lil'Jordan Humphrey,NO,@NE,3.2k,2.7,0.8
+TE,Durham Smythe,MIA,@LV,2.5k,2.5,1.0
