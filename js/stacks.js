@@ -1,1 +1,187 @@
-class Player{constructor(a){this.position=a[0],this.name=a[1],this.team=a[2],this.opponent=a[3],this.salary=Number(a[4]),this.projection=Number(a[5])}}let isTableRendered=!1,globalData=new Array,globalHeaders=[];var playerMap=new Map;function reset(){globalData=new Array,playerMap=new Map}function loadData(a){reset();var e="draftKings"===a?"https://raw.githubusercontent.com/wetalkfantasysports/dfsstacking/main/www/NFLDK.csv":"https://raw.githubusercontent.com/wetalkfantasysports/dfsstacking/main/www/NFLFD.csv";$.ajax({type:"GET",url:e,dataType:"text",success:function(a){allData=$.csv.toArrays(a);let e=[];console.log(allData),$.each(allData,function(a,t){if(a>0){var n=new Player(t);e.push(n),playerMap.has(n.position)||playerMap.set(n.position,new Map),playerMap.get(n.position).has(n.team)||playerMap.get(n.position).set(n.team,new Array),playerMap.get(n.position).get(n.team).push(n)}}),console.log(playerMap),globalData=e,buildStack("QB","WR")}})}function buildStack(a,e,t,n){let o=[];console.log(globalData);var l=this.playerMap.get(a);for(const[a,r]of l.entries())r.forEach(l=>{var r=this.playerMap.get(e).get(a);if(r)for(let c=0;c<r.length;c++){let u=r[c];if(t)if("Opp"===t){var s=l.opponent.indexOf("@")>-1?l.opponent.substring(1):l.opponent,p=this.playerMap.get("WR").get(s);for(let e=0;e<p.length;e++){let t=p[e],n=Math.round(100*(l.projection+u.projection+t.projection)/100),r=Math.round(100*(l.salary+u.salary+t.salary)/100);o.push([a,l.opponent,l.name,u.name,t.name,n,r,Math.round(n/r*1e3*100)/100])}}else{var i=this.playerMap.get(t).get(a);for(let r=e===t?c+1:0;r<i.length;r++){let e=i[r];if(n){s=l.opponent.indexOf("@")>-1?l.opponent.substring(1):l.opponent,p=this.playerMap.get("WR").get(s);for(let t=0;t<p.length;t++){let n=p[t],r=Math.round(100*(l.projection+u.projection+e.projection+n.projection)/100),s=Math.round(100*(l.salary+u.salary+e.salary+n.salary)/100);o.push([a,l.opponent,l.name,u.name,e.name,n.name,r,s,Math.round(r/s*1e3*100)/100])}}else{let t=Math.round(100*(l.projection+u.projection+e.projection)/100),n=Math.round(100*(l.salary+u.salary+e.salary)/100);o.push([a,l.opponent,l.name,u.name,e.name,t,n,Math.round(t/n*1e3*100)/100])}}}else{let e=Math.round(100*(l.projection+u.projection)/100),t=Math.round(100*(l.salary+u.salary)/100);o.push([a,l.opponent,l.name,u.name,e,t,Math.round(e/t*1e3*100)/100])}}});renderTable(o,a,e,t,n)}function renderTable(a,e,t,n,o){isTableRendered&&($("#myTable").DataTable().clear().destroy(),$("#myTable").empty()),columns=[{sTitle:"Team"},{sTitle:"Opponent"},{sTitle:`${e} Name`},{sTitle:`${t} Name`}],n&&columns.push({sTitle:`${n} Name`}),o&&columns.push({sTitle:`${o} Name`}),columns=columns.concat([{sTitle:"Combined Projection"},{sTitle:"Combined Salary"},{sTitle:"Value"}]),$("#myTable").DataTable({pageLength:50,rowDefs:[{className:"dt-body-center"}],aaData:a,aoColumns:columns}),isTableRendered=!0}$(document).ready(function(){loadData("draftKings")});
+    class Player {
+        constructor(row) {
+            this.position = row[0];
+            this.name = row[1];
+            this.team = row[2];
+            this.opponent = row[3];
+            this.salary = Number(row[4]);
+            this.projection = Number(row[5]);
+        }
+    }
+
+    let isTableRendered = false;
+    let globalData = new Array();
+    let globalHeaders = [];
+    var playerMap = new Map(); // position => (team => [players])
+
+    $(document).ready( function () {
+        // load default
+        loadData('draftKings');
+    } );
+
+    function reset() {
+        globalData = new Array();
+        playerMap = new Map();
+    }
+
+    function loadData(source) {
+        reset();
+        var url = source === 'draftKings' ? "https://raw.githubusercontent.com/wetalkfantasysports/dfsstacking/main/www/NFLDK.csv" : "https://raw.githubusercontent.com/wetalkfantasysports/dfsstacking/main/www/NFLFD.csv"
+        var data;
+        $.ajax({
+            type: "GET",  
+            url,
+            dataType: "text",      
+            success: function(response) {
+                allData = $.csv.toArrays(response);
+                let data = [];
+                console.log(allData);
+                $.each(allData, function( index, row ) {
+                    if(index > 0) {
+                        var player = new Player(row);
+                        // player array
+                        data.push(player); 
+                        // player dict
+                        if (!playerMap.has(player.position)) {
+                            playerMap.set(player.position, new Map());
+                        }
+                        if (!playerMap.get(player.position).has(player.team)) {
+                            playerMap.get(player.position).set(player.team, new Array());
+                        }
+                        playerMap.get(player.position).get(player.team).push(player);
+                    }
+                });
+                console.log(playerMap);
+                globalData = data;
+                buildStack('QB', 'WR', 'WR');
+            }
+        });
+    }
+
+    function buildStack(positionOne, positionTwo, positionThree, positionFour) {
+        let rows = [];
+        console.log(globalData);
+        var player_teams_map = this.playerMap.get(positionOne);
+        for (const [team_key, player_list] of player_teams_map.entries()) {
+            player_list.forEach(playerOne => {
+                var player_two_list = this.playerMap.get(positionTwo).get(team_key);
+                if (player_two_list) {
+                    for (let i = 0; i < player_two_list.length; i++) {
+                        let playerTwo = player_two_list[i];
+
+                        if (!positionThree) {
+                            let projections = Math.round((playerOne.projection + playerTwo.projection) * 100 / 100);
+                            let salaries = Math.round((playerOne.salary + playerTwo.salary) * 100 / 100);
+                            rows.push([
+                                team_key,
+                                playerOne.opponent,
+                                playerOne.name,
+                                playerTwo.name,
+                                projections,
+                                salaries,
+                                Math.round(((projections/salaries) * 1000) * 100) / 100
+                            ]);
+                        } else if (positionThree === 'Opp') {
+                            var opponent = playerOne.opponent.indexOf('@') > -1 ? playerOne.opponent.substring(1) : playerOne.opponent;
+                            var player_list = this.playerMap.get('WR').get(opponent);
+                            for (let o = 0; o < player_list.length; o++) {
+                                let opp = player_list[o];
+                                let projections = Math.round((playerOne.projection + playerTwo.projection + opp.projection) * 100 / 100);
+                                let salaries = Math.round((playerOne.salary + playerTwo.salary + opp.salary) * 100 / 100);
+                                rows.push([
+                                    team_key,
+                                    playerOne.opponent,
+                                    playerOne.name,
+                                    playerTwo.name,
+                                    opp.name,
+                                    projections,
+                                    salaries,
+                                    Math.round(((projections/salaries) * 1000) * 100) / 100
+                                ]);
+                            }
+                        } else {
+                            var player_three_list = this.playerMap.get(positionThree).get(team_key);
+                            var startIndex = positionTwo === positionThree ? i + 1 : 0;
+                            for (let j = startIndex; j < player_three_list.length; j++) {
+                                let playerThree = player_three_list[j];
+
+                                if (!positionFour) {
+                                    let projections = Math.round((playerOne.projection + playerTwo.projection + playerThree.projection) * 100 / 100);
+                                    let salaries = Math.round((playerOne.salary + playerTwo.salary + playerThree.salary) * 100 / 100);
+                                    rows.push([
+                                        team_key,
+                                        playerOne.opponent,
+                                        playerOne.name,
+                                        playerTwo.name,
+                                        playerThree.name,
+                                        projections,
+                                        salaries,
+                                        Math.round(((projections/salaries) * 1000) * 100) / 100
+                                    ]);
+                                } else {
+                                    var opponent = playerOne.opponent.indexOf('@') > -1 ? playerOne.opponent.substring(1) : playerOne.opponent;
+                                    var player_list = this.playerMap.get('WR').get(opponent);
+                                    for (let o = 0; o < player_list.length; o++) {
+                                        let opp = player_list[o];
+                                        let projections = Math.round((playerOne.projection + playerTwo.projection + playerThree.projection + opp.projection) * 100 / 100);
+                                        let salaries = Math.round((playerOne.salary + playerTwo.salary + playerThree.salary + opp.salary) * 100 / 100);
+                                        rows.push([
+                                            team_key,
+                                            playerOne.opponent,
+                                            playerOne.name,
+                                            playerTwo.name,
+                                            playerThree.name,
+                                            opp.name,
+                                            projections,
+                                            salaries,
+                                            Math.round(((projections/salaries) * 1000) * 100) / 100
+                                        ]);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        renderTable(rows, positionOne, positionTwo, positionThree, positionFour);
+    }
+
+    function renderTable(rows, positionOne, positionTwo, positionThree, positionFour) {
+        if (isTableRendered) {
+            $('#myTable').DataTable().clear().destroy();
+            $('#myTable').empty();
+        }
+
+        columns = [
+            {'sTitle': 'Team'},
+            {'sTitle': 'Opp'},
+            {'sTitle': `${positionOne}`},
+            {'sTitle': `${positionTwo}`},
+        ]
+
+        if (positionThree) {
+            columns.push({'sTitle': `${positionThree}`})
+        }
+
+        if (positionFour) {
+            columns.push({'sTitle': `${positionFour}`})
+        }
+
+        columns = columns.concat(
+            [
+                {'sTitle': 'Proj'},
+                {'sTitle': '$'},
+                {'sTitle': 'Value'}
+            ]
+        )
+
+        $('#myTable').DataTable({
+            "pageLength": 50,
+            "rowDefs": [{ className: 'dt-body-center'}],
+            "aaData": rows,
+            "aoColumns": columns
+        });
+        isTableRendered = true;
+    }
