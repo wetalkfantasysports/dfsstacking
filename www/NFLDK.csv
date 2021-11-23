@@ -1,13 +1,13 @@
 "Pos","Player","Team","Opp","Salary","Proj","Value"
-"QB","Josh Allen","BUF","@NO",7800,24.11,3.1
-"QB","Dak Prescott","DAL","LV",6900,21.32,3.1
-"WR","Stefon Diggs","BUF","@NO",7900,18.46,2.3
-"QB","Derek Carr","LV","@DAL",5900,18.27,3.1
-"RB","Ezekiel Elliott","DAL","LV",8000,17.15,2.1
+"QB","Josh Allen","BUF","@NO",7800,24.2,3.1
+"QB","Dak Prescott","DAL","LV",6900,21.31,3.1
+"WR","Stefon Diggs","BUF","@NO",7900,18.47,2.3
+"QB","Derek Carr","LV","@DAL",5900,18.36,3.1
+"RB","Ezekiel Elliott","DAL","LV",8000,17.01,2.1
 "RB","D'Andre Swift","DET","CHI",7300,16.54,2.3
 "RB","Alvin Kamara","NO","BUF",7800,15.38,2
 "TE","Darren Waller","LV","@DAL",6400,15.36,2.4
-"WR","CeeDee Lamb","DAL","LV",6900,15.32,2.2
+"WR","CeeDee Lamb","DAL","LV",6900,15.31,2.2
 "RB","David Montgomery","CHI","@DET",6000,14.41,2.4
 "WR","Michael Gallup","DAL","LV",5900,14.16,2.4
 "RB","Josh Jacobs","LV","@DAL",5900,13.41,2.3
@@ -16,36 +16,36 @@
 "WR","Darnell Mooney","CHI","@DET",5700,12.8,2.2
 "QB","Trevor Siemian","NO","BUF",5600,12.62,2.3
 "WR","Cole Beasley","BUF","@NO",4500,11.84,2.6
-"TE","Dalton Schultz","DAL","LV",5300,11.47,2.2
+"TE","Dalton Schultz","DAL","LV",5300,11.45,2.2
 "RB","Mark Ingram","NO","BUF",6200,11.07,1.8
 "RB","Tony Pollard","DAL","LV",5600,10.92,2
-"WR","Emmanuel Sanders","BUF","@NO",4800,10.83,2.3
+"WR","Emmanuel Sanders","BUF","@NO",4800,10.84,2.3
 "WR","Cedrick Wilson","DAL","LV",3500,10.29,2.9
-"TE","T.J. Hockenson","DET","CHI",5200,10.21,2
-"QB","Tim Boyle","DET","CHI",4800,9.9,2.1
-"TE","Dawson Knox","BUF","@NO",4400,9.08,2.1
+"TE","T.J. Hockenson","DET","CHI",5200,10.22,2
+"QB","Tim Boyle","DET","CHI",4800,10.01,2.1
+"WR","Kalif Raymond","DET","CHI",4600,9.36,2
+"TE","Dawson Knox","BUF","@NO",4400,9.09,2.1
 "RB","Kenyan Drake","LV","@DAL",4600,9,2
 "TE","Cole Kmet","CHI","@DET",3700,8.93,2.4
-"WR","Tre'Quan Smith","NO","BUF",4400,8.51,1.9
+"WR","Tre'Quan Smith","NO","BUF",4400,8.52,1.9
 "WR","Amon-Ra St. Brown","DET","CHI",4200,8.51,2
 "WR","Bryan Edwards","LV","@DAL",3900,8.1,2.1
-"WR","Kalif Raymond","DET","CHI",4600,8,1.7
-"RB","Devin Singletary","BUF","@NO",4900,7.83,1.6
+"RB","Devin Singletary","BUF","@NO",4900,7.84,1.6
 "RB","Zack Moss","BUF","@NO",4700,7.69,1.6
 "RB","Jamaal Williams","DET","CHI",4000,7.44,1.9
-"WR","Deonte Harris","NO","BUF",3700,7.39,2
+"WR","Deonte Harris","NO","BUF",3700,7.4,2
 "WR","Marquez Callaway","NO","BUF",5000,7.29,1.5
 "D","Bears","CHI","@DET",3000,6.92,2.3
 "D","Bills","BUF","@NO",3100,6.82,2.2
-"D","Cowboys","DAL","LV",3300,6.38,1.9
+"D","Cowboys","DAL","LV",3300,6.42,1.9
+"D","Saints","NO","BUF",2900,6.28,2.2
 "WR","Marquise Goodwin","CHI","@DET",3800,6.26,1.6
-"D","Saints","NO","BUF",2900,6.23,2.1
 "D","Lions","DET","CHI",2400,5.16,2.2
 "WR","Gabriel Davis","BUF","@NO",3600,4.94,1.4
 "WR","Zay Jones","LV","@DAL",3000,4.9,1.6
 "WR","Josh Reynolds","DET","CHI",3000,4.87,1.6
+"D","Raiders","LV","@DAL",2400,4.85,2
 "RB","Khalil Herbert","CHI","@DET",4500,4.8,1.1
-"D","Raiders","LV","@DAL",2400,4.8,2
 "RB","Tony Jones","NO","BUF",4000,4.47,1.1
 "RB","Matt Breida","BUF","@NO",4800,3.98,0.8
 "QB","Taysom Hill","NO","BUF",4800,3.87,0.8
