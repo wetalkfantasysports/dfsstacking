@@ -1,55 +1,53 @@
 "Pos","Player","Team","Opp","Salary","Proj","Value"
-"QB","Josh Allen","BUF","@NO",8800,23.15,2.6
-"QB","Dak Prescott","DAL","LV",8200,20.85,2.5
-"QB","Derek Carr","LV","@DAL",7400,17.37,2.3
-"RB","Ezekiel Elliott","DAL","LV",8400,16.05,1.9
-"WR","Stefon Diggs","BUF","@NO",8300,14.57,1.8
+"QB","Josh Allen","BUF","@NO",8800,23.11,2.6
+"QB","Dak Prescott","DAL","LV",8200,21.04,2.6
+"QB","Derek Carr","LV","@DAL",7400,17.49,2.4
+"RB","Ezekiel Elliott","DAL","LV",8400,15.67,1.9
+"WR","Stefon Diggs","BUF","@NO",8300,14.56,1.8
 "RB","D'Andre Swift","DET","CHI",8000,14.31,1.8
-"RB","David Montgomery","CHI","@DET",7500,14.1,1.9
+"RB","David Montgomery","CHI","@DET",7500,14.18,1.9
 "QB","Andy Dalton","CHI","@DET",7200,13.5,1.9
-"QB","Trevor Siemian","NO","BUF",7000,13.08,1.9
-"TE","Darren Waller","LV","@DAL",7300,12.1,1.7
-"RB","Josh Jacobs","LV","@DAL",6700,12.04,1.8
-"WR","Michael Gallup","DAL","LV",6500,11.6,1.8
-"WR","Darnell Mooney","CHI","@DET",6800,11.13,1.6
-"WR","Hunter Renfrow","LV","@DAL",6200,10.63,1.7
-"WR","CeeDee Lamb","DAL","LV",7700,10.59,1.4
-"RB","Mark Ingram","NO","BUF",6600,10.34,1.6
-"RB","Tony Pollard","DAL","LV",5900,10.22,1.7
+"QB","Trevor Siemian","NO","BUF",7000,13.13,1.9
+"WR","CeeDee Lamb","DAL","LV",7700,12.28,1.6
+"TE","Darren Waller","LV","@DAL",7300,12.17,1.7
+"RB","Josh Jacobs","LV","@DAL",6700,12.09,1.8
+"WR","Michael Gallup","DAL","LV",6500,11.19,1.7
+"WR","Hunter Renfrow","LV","@DAL",6200,10.7,1.7
+"WR","Darnell Mooney","CHI","@DET",6800,10.69,1.6
 "QB","Jared Goff","DET","CHI",6700,10,1.5
-"RB","Alvin Kamara","NO","BUF",9000,9.88,1.1
-"TE","Dalton Schultz","DAL","LV",6000,9.75,1.6
-"WR","Cole Beasley","BUF","@NO",5700,8.74,1.5
-"WR","Emmanuel Sanders","BUF","@NO",5800,8.4,1.4
-"WR","Cedrick Wilson","DAL","LV",5600,8.13,1.5
+"RB","Tony Pollard","DAL","LV",5900,9.79,1.7
+"RB","Mark Ingram","NO","BUF",6600,9.66,1.5
+"TE","Dalton Schultz","DAL","LV",6000,9.31,1.6
+"WR","Cole Beasley","BUF","@NO",5700,8.73,1.5
+"WR","Emmanuel Sanders","BUF","@NO",5800,8.43,1.5
 "TE","T.J. Hockenson","DET","CHI",6100,8.09,1.3
-"TE","Dawson Knox","BUF","@NO",5900,7.8,1.3
-"RB","Kenyan Drake","LV","@DAL",5600,7.64,1.4
-"WR","Tre'Quan Smith","NO","BUF",5900,7.57,1.3
+"TE","Dawson Knox","BUF","@NO",5900,7.79,1.3
+"RB","Kenyan Drake","LV","@DAL",5600,7.66,1.4
+"WR","Cedrick Wilson","DAL","LV",5600,7.66,1.4
+"WR","Tre'Quan Smith","NO","BUF",5900,7.61,1.3
+"RB","Tony Jones","NO","BUF",4800,7.52,1.6
 "D","Bears","CHI","@DET",5000,7.35,1.5
-"RB","Devin Singletary","BUF","@NO",5800,7.02,1.2
-"TE","Cole Kmet","CHI","@DET",5000,6.99,1.4
-"D","Bills","BUF","@NO",4500,6.97,1.5
+"RB","Devin Singletary","BUF","@NO",5800,7.01,1.2
+"TE","Cole Kmet","CHI","@DET",5000,7.01,1.4
+"D","Bills","BUF","@NO",4500,6.99,1.6
 "WR","Amon-Ra St. Brown","DET","CHI",5500,6.9,1.3
-"D","Cowboys","DAL","LV",4000,6.77,1.7
-"WR","Bryan Edwards","LV","@DAL",5300,6.67,1.3
+"D","Cowboys","DAL","LV",4000,6.72,1.7
+"WR","Bryan Edwards","LV","@DAL",5300,6.7,1.3
 "RB","Jamaal Williams","DET","CHI",5200,6.64,1.3
-"WR","Deonte Harris","NO","BUF",5200,6.47,1.2
-"WR","Marquez Callaway","NO","BUF",5700,6.33,1.1
+"WR","Deonte Harris","NO","BUF",5200,6.51,1.3
+"WR","Marquez Callaway","NO","BUF",5700,6.36,1.1
 "WR","Kalif Raymond","DET","CHI",5100,6.33,1.2
-"D","Saints","NO","BUF",3800,6.21,1.6
-"RB","Zack Moss","BUF","@NO",5700,5.55,1
-"WR","Marquise Goodwin","CHI","@DET",5400,5.52,1
+"D","Saints","NO","BUF",3800,6.23,1.6
+"WR","Marquise Goodwin","CHI","@DET",5400,6.09,1.1
+"RB","Zack Moss","BUF","@NO",5700,5.54,1
 "D","Lions","DET","CHI",3700,5.49,1.5
-"RB","Matt Breida","BUF","@NO",5300,5.28,1
-"RB","Tony Jones","NO","BUF",4800,4.92,1
-"D","Raiders","LV","@DAL",3500,4.42,1.3
+"RB","Matt Breida","BUF","@NO",5300,5.26,1
 "WR","Josh Reynolds","DET","CHI",4900,4.41,0.9
-"TE","Juwan Johnson","NO","BUF",4500,4.28,1
-"WR","Gabriel Davis","BUF","@NO",4800,4.13,0.9
-"QB","Taysom Hill","NO","BUF",7000,3.96,0.6
+"D","Raiders","LV","@DAL",3500,4.41,1.3
+"TE","Juwan Johnson","NO","BUF",4500,4.34,1
+"WR","Gabriel Davis","BUF","@NO",4800,4.12,0.9
+"QB","Taysom Hill","NO","BUF",7000,4.09,0.6
 "RB","Khalil Herbert","CHI","@DET",4900,3.95,0.8
-"WR","Zay Jones","LV","@DAL",4900,3.86,0.8
-"WR","Noah Brown","DAL","LV",4700,3.77,0.8
-"TE","Foster Moreau","LV","@DAL",4700,3.16,0.7
-"TE","Jimmy Graham","CHI","@DET",4400,3.03,0.7
+"WR","Zay Jones","LV","@DAL",4900,3.9,0.8
+"TE","Foster Moreau","LV","@DAL",4700,3.19,0.7
+"TE","Jimmy Graham","CHI","@DET",4400,3.11,0.7
