@@ -1,10 +1,10 @@
 "Pos","Player","Team","Opp","Salary","Proj","Value"
-"WR","Cooper Kupp","LAR",NA,9000,25.74,2.9
+"WR","Cooper Kupp","LAR",NA,9000,25.76,2.9
 "QB","Kyler Murray","ARI","@DET",7900,25.15,3.2
 "QB","Josh Allen","BUF","CAR",8100,23.75,2.9
 "WR","Davante Adams","GB","@BAL",8900,22.49,2.5
-"QB","Matthew Stafford","LAR",NA,7000,21.08,3
-"QB","Jalen Hurts","PHI",NA,6600,20.99,3.2
+"QB","Matthew Stafford","LAR",NA,7000,21.11,3
+"QB","Jalen Hurts","PHI",NA,6600,20.97,3.2
 "QB","Aaron Rodgers","GB","@BAL",7500,20.89,2.8
 "QB","Dak Prescott","DAL","@NYG",6500,20.79,3.2
 "QB","Tua Tagovailoa","MIA","NYJ",5700,19.94,3.5
@@ -12,7 +12,7 @@
 "QB","Jimmy Garoppolo","SF","ATL",5800,18.66,3.2
 "QB","Lamar Jackson","BAL","GB",7200,18.48,2.6
 "QB","Joe Burrow","CIN","@DEN",6100,18.03,3
-"QB","Russell Wilson","SEA",NA,6400,18,2.8
+"QB","Russell Wilson","SEA",NA,6400,17.99,2.8
 "WR","Stefon Diggs","BUF","CAR",7700,17.81,2.3
 "QB","Ryan Tannehill","TEN","@PIT",5900,17.72,3
 "WR","Diontae Johnson","PIT","TEN",7500,17.62,2.3
@@ -28,7 +28,7 @@
 "QB","Matt Ryan","ATL","@SF",5300,15.88,3
 "RB","Ezekiel Elliott","DAL","@NYG",7300,15.68,2.1
 "RB","Cordarrelle Patterson","ATL","@SF",6900,15.63,2.3
-"WR","D.K. Metcalf","SEA",NA,6200,15.51,2.5
+"WR","D.K. Metcalf","SEA",NA,6200,15.5,2.5
 "RB","Saquon Barkley","NYG","DAL",6500,15.14,2.3
 "QB","Cam Newton","CAR","@BUF",5400,14.59,2.7
 "RB","Antonio Gibson","WAS",NA,6000,14.58,2.4
@@ -66,7 +66,7 @@
 "WR","Marvin Jones","JAX","HOU",4600,11.77,2.6
 "RB","A.J. Dillon","GB","@BAL",5700,11.69,2.1
 "WR","Jerry Jeudy","DEN","CIN",5400,11.69,2.2
-"RB","Rashaad Penny","SEA",NA,5400,11.68,2.2
+"RB","Rashaad Penny","SEA",NA,5400,11.66,2.2
 "RB","Jeff Wilson","SF","ATL",5000,11.66,2.3
 "WR","Michael Gallup","DAL","@NYG",5500,11.57,2.1
 "WR","Russell Gage","ATL","@SF",5800,11.46,2
@@ -76,7 +76,7 @@
 "WR","Odell Beckham Jr.","LAR",NA,5400,11.28,2.1
 "RB","Michael Carter","NYJ","@MIA",4700,11.27,2.4
 "WR","Julio Jones","TEN","@PIT",5400,11.16,2.1
-"RB","Sony Michel","LAR",NA,5800,11.05,1.9
+"RB","Sony Michel","LAR",NA,5800,11.07,1.9
 "RB","Devin Singletary","BUF","CAR",5000,10.72,2.1
 "TE","Dawson Knox","BUF","CAR",5100,10.69,2.1
 "WR","Laviska Shenault","JAX","HOU",4300,10.68,2.5
@@ -110,8 +110,8 @@
 "WR","Kalif Raymond","DET","ARI",4400,8.04,1.8
 "D","Packers","GB","@BAL",3300,8.02,2.4
 "WR","Laquon Treadwell","JAX","HOU",3300,7.86,2.4
-"D","Eagles","PHI",NA,3500,7.81,2.2
 "TE","Gerald Everett","SEA",NA,3500,7.8,2.2
+"D","Eagles","PHI",NA,3500,7.79,2.2
 "D","49ers","SF","ATL",3100,7.76,2.5
 "D","Jaguars","JAX","HOU",2800,7.76,2.8
 "WR","Nick Westbrook-Ikhine","TEN","@PIT",4200,7.72,1.8
@@ -155,7 +155,7 @@
 "WR","James Washington","PIT","TEN",3500,5.67,1.6
 "RB","Devontae Booker","NYG","DAL",4700,5.57,1.2
 "WR","Antoine Wesley","ARI","@DET",3000,5.5,1.8
-"WR","Curtis Samuel","WAS",NA,3700,5.46,1.5
+"WR","Curtis Samuel","WAS",NA,3700,5.48,1.5
 "RB","Kenneth Gainwell","PHI",NA,4500,5.42,1.2
 "TE","Geoff Swaim","TEN","@PIT",3000,5.4,1.8
 "WR","Mack Hollins","MIA","NYJ",3100,5.36,1.7
@@ -174,9 +174,9 @@
 "TE","Josiah Deguara","GB","@BAL",2700,4.84,1.8
 "WR","Jauan Jennings","SF","ATL",3600,4.81,1.3
 "D","Falcons","ATL","@SF",2700,4.73,1.8
-"D","Seahawks","SEA",NA,2600,4.71,1.8
 "TE","Anthony Firkser","TEN","@PIT",2800,4.69,1.7
 "TE","Hayden Hurst","ATL","@SF",2600,4.69,1.8
+"D","Seahawks","SEA",NA,2600,4.69,1.8
 "TE","Durham Smythe","MIA","NYJ",2500,4.67,1.9
 "RB","Latavius Murray","BAL","GB",4600,4.62,1
 "RB","Kyle Juszczyk","SF","ATL",4000,4.61,1.2
@@ -203,8 +203,8 @@
 "TE","MyCole Pruitt","TEN","@PIT",2500,3.34,1.3
 "WR","Ben Skowronek","LAR",NA,3000,3.27,1.1
 "TE","John Bates","WAS",NA,3000,3.23,1.1
-"WR","Greg Ward","PHI",NA,3000,3.2,1.1
 "TE","Tommy Tremble","CAR","@BUF",2600,3.2,1.2
+"WR","Greg Ward","PHI",NA,3000,3.18,1.1
 "WR","Isaiah McKenzie","BUF","CAR",3000,3.05,1
 "TE","Ian Thomas","CAR","@BUF",2500,3.05,1.2
 "RB","Travis Homer","SEA",NA,4300,2.83,0.7
