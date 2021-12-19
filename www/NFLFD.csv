@@ -1,203 +1,137 @@
 "Pos","Player","Team","Opp","Salary","Proj","Value"
-"QB","Kyler Murray","ARI","@DET",8800,24.06,2.7
-"QB","Josh Allen","BUF","CAR",8700,23.11,2.7
-"QB","Jalen Hurts","PHI",NA,7800,20.66,2.6
-"QB","Dak Prescott","DAL","@NYG",7500,20.2,2.7
-"QB","Aaron Rodgers","GB","@BAL",7600,20.02,2.6
-"QB","Matthew Stafford","LAR",NA,7700,19.93,2.6
-"QB","Tua Tagovailoa","MIA","NYJ",7400,19.45,2.6
-"WR","Cooper Kupp","LAR",NA,9000,18.39,2
-"QB","Jimmy Garoppolo","SF","ATL",6700,18.1,2.7
-"QB","Lamar Jackson","BAL","GB",7700,17.97,2.3
-"WR","Davante Adams","GB","@BAL",8500,17.73,2.1
-"QB","Russell Wilson","SEA",NA,7200,17.67,2.5
-"QB","Joe Burrow","CIN","@DEN",7300,17.57,2.4
-"QB","Ryan Tannehill","TEN","@PIT",7000,17.42,2.5
-"QB","Teddy Bridgewater","DEN","CIN",6600,16.49,2.5
-"RB","Najee Harris","PIT","TEN",8800,16.46,1.9
-"QB","Ben Roethlisberger","PIT","TEN",6600,16.2,2.5
-"QB","Trevor Lawrence","JAX","HOU",6500,15.76,2.4
-"QB","Matt Ryan","ATL","@SF",6500,15.53,2.4
-"WR","Deebo Samuel","SF","ATL",8200,14.78,1.8
-"RB","James Robinson","JAX","HOU",6300,14.74,2.3
-"RB","Joe Mixon","CIN","@DEN",8300,14.44,1.7
-"WR","Stefon Diggs","BUF","CAR",7800,14.34,1.8
-"QB","Cam Newton","CAR","@BUF",6900,14.32,2.1
-"QB","Davis Mills","HOU","@JAX",6800,14.16,2.1
-"WR","Diontae Johnson","PIT","TEN",7200,14.03,1.9
-"RB","Ezekiel Elliott","DAL","@NYG",6700,13.93,2.1
-"TE","George Kittle","SF","ATL",7800,13.87,1.8
-"RB","Cordarrelle Patterson","ATL","@SF",7000,13.67,2
-"QB","Zach Wilson","NYJ","@MIA",6500,13.59,2.1
-"WR","Ja'Marr Chase","CIN","@DEN",7500,13.35,1.8
-"WR","CeeDee Lamb","DAL","@NYG",7400,13.22,1.8
-"RB","Saquon Barkley","NYG","DAL",7300,13.17,1.8
-"RB","James Conner","ARI","@DET",8000,13.02,1.6
-"RB","Antonio Gibson","WAS",NA,6900,12.94,1.9
-"RB","Aaron Jones","GB","@BAL",7500,12.86,1.7
-"QB","Mike Glennon","NYG","DAL",6700,12.8,1.9
-"WR","D.K. Metcalf","SEA",NA,6800,12.73,1.9
-"QB","Jared Goff","DET","ARI",6400,12.58,2
-"QB","Tyler Huntley","BAL","GB",6400,12.2,1.9
-"RB","Myles Gaskin","MIA","NYJ",6600,11.9,1.8
-"RB","Javonte Williams","DEN","CIN",7000,11.88,1.7
-"WR","Brandon Aiyuk","SF","ATL",6600,11.67,1.8
-"RB","Melvin Gordon","DEN","CIN",7000,11.65,1.7
-"WR","Amari Cooper","DAL","@NYG",7000,11.63,1.7
-"WR","Brandin Cooks","HOU","@JAX",6900,11.6,1.7
-"WR","Tee Higgins","CIN","@DEN",6800,11.59,1.7
-"WR","Terry McLaurin","WAS",NA,6900,11.58,1.7
-"WR","DeVante Parker","MIA","NYJ",5800,11.43,2
-"RB","Devonta Freeman","BAL","GB",5900,11.39,1.9
-"WR","Christian Kirk","ARI","@DET",6000,11.13,1.9
-"RB","Darrell Henderson","LAR",NA,6800,11.03,1.6
-"WR","Van Jefferson","LAR",NA,6200,11.02,1.8
-"RB","Miles Sanders","PHI",NA,6500,10.99,1.7
-"WR","D.J. Moore","CAR","@BUF",6600,10.81,1.6
-"RB","Jeff Wilson","SF","ATL",5800,10.79,1.9
-"RB","Rashaad Penny","SEA",NA,6100,10.76,1.8
-"RB","A.J. Dillon","GB","@BAL",7500,10.67,1.4
-"TE","Mark Andrews","BAL","GB",7400,10.48,1.4
-"WR","Marquise Brown","BAL","GB",6700,10.39,1.6
-"WR","Chase Claypool","PIT","TEN",6400,10.37,1.6
-"RB","Chase Edmonds","ARI","@DET",6500,10.31,1.6
-"WR","A.J. Green","ARI","@DET",5700,10.29,1.8
-"WR","DeVonta Smith","PHI",NA,5900,10.14,1.7
-"RB","Sony Michel","LAR",NA,6800,9.95,1.5
-"RB","Michael Carter","NYJ","@MIA",5900,9.88,1.7
-"TE","Mike Gesicki","MIA","NYJ",6200,9.76,1.6
-"TE","Dallas Goedert","PHI",NA,6000,9.65,1.6
-"WR","Marvin Jones","JAX","HOU",5700,9.58,1.7
-"WR","Jerry Jeudy","DEN","CIN",6100,9.43,1.5
-"WR","Michael Gallup","DAL","@NYG",5900,9.42,1.6
-"RB","D'Onta Foreman","TEN","@PIT",5800,9.42,1.6
-"WR","Cole Beasley","BUF","CAR",5800,9.4,1.6
-"D","Bills","BUF","CAR",4900,9.38,1.9
-"WR","Odell Beckham Jr.","LAR",NA,6000,9.33,1.6
-"TE","Zach Ertz","ARI","@DET",5300,9.27,1.7
-"RB","Devin Singletary","BUF","CAR",5400,9.26,1.7
-"RB","David Johnson","HOU","@JAX",5500,9.19,1.7
-"WR","Julio Jones","TEN","@PIT",6000,9.13,1.5
-"TE","Kyle Pitts","ATL","@SF",5800,9.08,1.6
-"D","Dolphins","MIA","NYJ",5000,9.05,1.8
-"WR","Russell Gage","ATL","@SF",6000,9.01,1.5
-"TE","Dawson Knox","BUF","CAR",6500,8.79,1.4
-"D","Cowboys","DAL","@NYG",4600,8.78,1.9
-"RB","Chuba Hubbard","CAR","@BUF",6000,8.76,1.5
-"WR","Amon-Ra St. Brown","DET","ARI",5900,8.74,1.5
-"RB","Tony Pollard","DAL","@NYG",5800,8.68,1.5
-"D","Cardinals","ARI","@DET",4800,8.61,1.8
-"WR","Kenny Golladay","NYG","DAL",5400,8.57,1.6
-"WR","Laviska Shenault","JAX","HOU",5400,8.49,1.6
-"WR","Gabriel Davis","BUF","CAR",4900,8.19,1.7
-"WR","Tyler Boyd","CIN","@DEN",5700,8.15,1.4
-"WR","Rondale Moore","ARI","@DET",5500,8.06,1.5
-"RB","Jamaal Williams","DET","ARI",6000,8.02,1.3
-"D","Packers","GB","@BAL",4500,8.02,1.8
-"WR","Marquez Valdes-Scantling","GB","@BAL",5500,7.95,1.4
-"WR","Jamison Crowder","NYJ","@MIA",5700,7.91,1.4
-"RB","Royce Freeman","HOU","@JAX",5200,7.84,1.5
-"D","Eagles","PHI",NA,4300,7.79,1.8
-"D","49ers","SF","ATL",4300,7.76,1.8
-"D","Jaguars","JAX","HOU",3600,7.76,2.2
-"WR","Sterling Shepard","NYG","DAL",5600,7.73,1.4
-"RB","Craig Reynolds","DET","ARI",5300,7.67,1.4
-"D","Rams","LAR",NA,4200,7.67,1.8
-"RB","Mike Davis","ATL","@SF",5600,7.66,1.4
-"TE","Dalton Schultz","DAL","@NYG",5600,7.61,1.4
-"WR","Courtland Sutton","DEN","CIN",5600,7.6,1.4
-"WR","Tim Patrick","DEN","CIN",5500,7.57,1.4
-"TE","Pat Freiermuth","PIT","TEN",5300,7.46,1.4
-"WR","Robby Anderson","CAR","@BUF",5800,7.37,1.3
-"TE","Noah Fant","DEN","CIN",5600,7.36,1.3
-"WR","Allen Lazard","GB","@BAL",5300,7.23,1.4
-"D","Broncos","DEN","CIN",4000,7.13,1.8
-"WR","Rashod Bateman","BAL","GB",5800,7.07,1.2
-"WR","Josh Reynolds","DET","ARI",5100,7.03,1.4
-"D","Texans","HOU","@JAX",4000,6.85,1.7
-"WR","Albert Wilson","MIA","NYJ",5000,6.56,1.3
-"D","Steelers","PIT","TEN",3700,6.52,1.8
-"D","Titans","TEN","@PIT",4100,6.48,1.6
-"RB","Dontrell Hilliard","TEN","@PIT",5200,6.42,1.2
-"WR","Laquon Treadwell","JAX","HOU",5100,6.38,1.3
-"WR","Nick Westbrook-Ikhine","TEN","@PIT",5300,6.26,1.2
-"TE","Gerald Everett","SEA",NA,4900,6.06,1.2
-"RB","Jeremy McNichols","TEN","@PIT",5300,6.03,1.1
-"WR","Kalif Raymond","DET","ARI",5200,5.99,1.2
-"D","Bengals","CIN","@DEN",3400,5.94,1.7
-"RB","Ameer Abdullah","CAR","@BUF",4900,5.93,1.2
-"TE","Ricky Seals-Jones","WAS",NA,4500,5.93,1.3
-"WR","Keelan Cole Sr.","NYJ","@MIA",5000,5.9,1.2
-"RB","J.D. McKissic","WAS",NA,5300,5.84,1.1
-"TE","C.J. Uzomah","CIN","@DEN",5100,5.81,1.1
-"WR","Darius Slayton","NYG","DAL",5000,5.71,1.1
-"WR","Braxton Berrios","NYJ","@MIA",5300,5.54,1
-"RB","Matt Breida","BUF","CAR",5300,5.51,1
-"TE","Evan Engram","NYG","DAL",5000,5.48,1.1
-"WR","Freddie Swain","SEA",NA,4700,5.46,1.2
-"WR","Nico Collins","HOU","@JAX",5300,5.42,1
-"RB","JaMycal Hasty","SF","ATL",4900,5.35,1.1
-"D","Washington","WAS",NA,3900,5.32,1.4
-"RB","Tevin Coleman","NYJ","@MIA",5500,5.28,1
-"RB","Boston Scott","PHI",NA,5400,5.28,1
-"WR","Sammy Watkins","BAL","GB",5200,5.26,1
-"D","Panthers","CAR","@BUF",3500,5.24,1.5
-"TE","Brock Wright","DET","ARI",4500,5.22,1.2
-"WR","Jalen Reagor","PHI",NA,5000,5.2,1
-"D","Jets","NYJ","@MIA",3200,5.19,1.6
-"TE","James O'Shaughnessy","JAX","HOU",4600,5.13,1.1
-"RB","Salvon Ahmed","MIA","NYJ",5400,5.07,0.9
+"QB","Kyler Murray","ARI","@DET",8800,24.14,2.7
+"QB","Josh Allen","BUF","CAR",8700,23.61,2.7
+"QB","Dak Prescott","DAL","@NYG",7500,20.59,2.7
+"QB","Aaron Rodgers","GB","@BAL",7600,20.55,2.7
+"QB","Tua Tagovailoa","MIA","NYJ",7400,19.43,2.6
+"QB","Jimmy Garoppolo","SF","ATL",6700,18.23,2.7
+"WR","Davante Adams","GB","@BAL",8500,18.18,2.1
+"QB","Joe Burrow","CIN","@DEN",7300,16.92,2.3
+"RB","Najee Harris","PIT","TEN",8800,16.86,1.9
+"QB","Ryan Tannehill","TEN","@PIT",7000,16.7,2.4
+"QB","Ben Roethlisberger","PIT","TEN",6600,16.6,2.5
+"QB","Teddy Bridgewater","DEN","CIN",6600,16.24,2.5
+"QB","Trevor Lawrence","JAX","HOU",6500,15.92,2.4
+"WR","Deebo Samuel","SF","ATL",8200,15.13,1.8
+"QB","Matt Ryan","ATL","@SF",6500,14.73,2.3
+"WR","Stefon Diggs","BUF","CAR",7800,14.64,1.9
+"TE","George Kittle","SF","ATL",7800,14.51,1.9
+"RB","James Robinson","JAX","HOU",6300,14.51,2.3
+"WR","Diontae Johnson","PIT","TEN",7200,14.43,2
+"RB","Joe Mixon","CIN","@DEN",8300,14.19,1.7
+"RB","Cordarrelle Patterson","ATL","@SF",7000,14,2
+"QB","Zach Wilson","NYJ","@MIA",6500,13.81,2.1
+"QB","Cam Newton","CAR","@BUF",6900,13.8,2
+"QB","Davis Mills","HOU","@JAX",6800,13.55,2
+"RB","Ezekiel Elliott","DAL","@NYG",6700,13.51,2
+"WR","CeeDee Lamb","DAL","@NYG",7400,13.5,1.8
+"RB","Saquon Barkley","NYG","DAL",7300,13.5,1.8
+"QB","Jared Goff","DET","ARI",6400,13.22,2.1
+"RB","James Conner","ARI","@DET",8000,13.21,1.7
+"RB","Aaron Jones","GB","@BAL",7500,12.82,1.7
+"RB","Myles Gaskin","MIA","NYJ",6600,12.54,1.9
+"WR","Amari Cooper","DAL","@NYG",7000,12.07,1.7
+"RB","Devonta Freeman","BAL","GB",5900,12.05,2
+"WR","Brandon Aiyuk","SF","ATL",6600,11.98,1.8
+"RB","Melvin Gordon","DEN","CIN",7000,11.96,1.7
+"WR","DeVante Parker","MIA","NYJ",5800,11.61,2
+"WR","Tee Higgins","CIN","@DEN",6800,11.45,1.7
+"RB","Javonte Williams","DEN","CIN",7000,11.44,1.6
+"WR","Christian Kirk","ARI","@DET",6000,11.41,1.9
+"RB","A.J. Dillon","GB","@BAL",7500,11.3,1.5
+"WR","Brandin Cooks","HOU","@JAX",6900,11.24,1.6
+"TE","Mark Andrews","BAL","GB",7400,10.94,1.5
+"RB","Michael Carter","NYJ","@MIA",5900,10.89,1.8
+"WR","D.J. Moore","CAR","@BUF",6600,10.6,1.6
+"WR","Marquise Brown","BAL","GB",6700,10.54,1.6
+"RB","Jeff Wilson","SF","ATL",5800,10.51,1.8
+"WR","Chase Claypool","PIT","TEN",6400,10.48,1.6
+"WR","A.J. Green","ARI","@DET",5700,10.19,1.8
+"TE","Mike Gesicki","MIA","NYJ",6200,10.05,1.6
+"RB","Chase Edmonds","ARI","@DET",6500,9.9,1.5
+"TE","Zach Ertz","ARI","@DET",5300,9.85,1.9
+"WR","Michael Gallup","DAL","@NYG",5900,9.82,1.7
+"WR","Cole Beasley","BUF","CAR",5800,9.75,1.7
+"D","Dolphins","MIA","NYJ",5000,9.58,1.9
+"D","Cowboys","DAL","@NYG",4600,9.35,2
+"RB","David Johnson","HOU","@JAX",5500,9.32,1.7
+"D","Bills","BUF","CAR",4900,9.31,1.9
+"WR","Amon-Ra St. Brown","DET","ARI",5900,9.3,1.6
+"WR","Julio Jones","TEN","@PIT",6000,9.26,1.5
+"RB","Devin Singletary","BUF","CAR",5400,9.23,1.7
+"WR","Jerry Jeudy","DEN","CIN",6100,9.12,1.5
+"TE","Dawson Knox","BUF","CAR",6500,9.06,1.4
+"WR","Marvin Jones","JAX","HOU",5700,9.04,1.6
+"D","Cardinals","ARI","@DET",4800,8.9,1.9
+"WR","Russell Gage","ATL","@SF",6000,8.84,1.5
+"WR","Gabriel Davis","BUF","CAR",4900,8.6,1.8
+"WR","Laviska Shenault","JAX","HOU",5400,8.58,1.6
+"TE","Kyle Pitts","ATL","@SF",5800,8.56,1.5
+"RB","Craig Reynolds","DET","ARI",5300,8.5,1.6
+"WR","Kenny Golladay","NYG","DAL",5400,8.34,1.5
+"WR","Rondale Moore","ARI","@DET",5500,8.23,1.5
+"D","Packers","GB","@BAL",4500,8.19,1.8
+"D","49ers","SF","ATL",4300,8.03,1.9
+"WR","Sterling Shepard","NYG","DAL",5600,7.83,1.4
+"WR","Marquez Valdes-Scantling","GB","@BAL",5500,7.83,1.4
+"RB","Chuba Hubbard","CAR","@BUF",6000,7.79,1.3
+"WR","Tyler Boyd","CIN","@DEN",5700,7.75,1.4
+"D","Jaguars","JAX","HOU",3600,7.75,2.2
+"WR","Tim Patrick","DEN","CIN",5500,7.61,1.4
+"TE","Pat Freiermuth","PIT","TEN",5300,7.56,1.4
+"TE","Dalton Schultz","DAL","@NYG",5600,7.55,1.3
+"TE","Noah Fant","DEN","CIN",5600,7.47,1.3
+"WR","Rashod Bateman","BAL","GB",5800,7.42,1.3
+"WR","Josh Reynolds","DET","ARI",5100,7.42,1.5
+"WR","Allen Lazard","GB","@BAL",5300,7.36,1.4
+"WR","Robby Anderson","CAR","@BUF",5800,7.24,1.2
+"D","Broncos","DEN","CIN",4000,7.17,1.8
+"WR","Jamison Crowder","NYJ","@MIA",5700,7.14,1.3
+"WR","Courtland Sutton","DEN","CIN",5600,7.06,1.3
+"RB","Dontrell Hilliard","TEN","@PIT",5200,7.06,1.4
+"D","Steelers","PIT","TEN",3700,7.03,1.9
+"RB","Mike Davis","ATL","@SF",5600,7.02,1.3
+"D","Texans","HOU","@JAX",4000,6.92,1.7
+"RB","Royce Freeman","HOU","@JAX",5200,6.67,1.3
+"WR","Nick Westbrook-Ikhine","TEN","@PIT",5300,6.62,1.2
+"WR","Albert Wilson","MIA","NYJ",5000,6.59,1.3
+"WR","Laquon Treadwell","JAX","HOU",5100,6.53,1.3
+"D","Titans","TEN","@PIT",4100,6.38,1.6
+"D","Bengals","CIN","@DEN",3400,6.24,1.8
+"TE","C.J. Uzomah","CIN","@DEN",5100,6.04,1.2
+"WR","Darius Slayton","NYG","DAL",5000,6.02,1.2
+"RB","Ameer Abdullah","CAR","@BUF",4900,5.96,1.2
+"D","Jets","NYJ","@MIA",3200,5.78,1.8
+"WR","Keelan Cole Sr.","NYJ","@MIA",5000,5.64,1.1
+"WR","Nico Collins","HOU","@JAX",5300,5.62,1.1
+"RB","Matt Breida","BUF","CAR",5300,5.58,1.1
+"RB","Jeremy McNichols","TEN","@PIT",5300,5.56,1
+"TE","Evan Engram","NYG","DAL",5000,5.43,1.1
+"D","Panthers","CAR","@BUF",3500,5.37,1.5
+"RB","JaMycal Hasty","SF","ATL",4900,5.32,1.1
+"D","Falcons","ATL","@SF",3500,5.28,1.5
+"TE","Brevin Jordan","HOU","@JAX",4900,5.22,1.1
+"WR","Ray-Ray McCloud III","PIT","TEN",5000,5.14,1
+"RB","Ty Johnson","NYJ","@MIA",5400,5.02,0.9
 "D","Giants","NYG","DAL",3400,4.97,1.5
-"RB","Ty Johnson","NYJ","@MIA",5400,4.95,0.9
-"RB","Devontae Booker","NYG","DAL",5400,4.92,0.9
-"WR","DeAndre Carter","WAS",NA,5100,4.86,1
-"WR","Curtis Samuel","WAS",NA,4800,4.86,1
-"WR","Adam Humphries","WAS",NA,5200,4.83,0.9
-"TE","Brevin Jordan","HOU","@JAX",4900,4.83,1
-"D","Falcons","ATL","@SF",3500,4.73,1.4
-"WR","Tajae Sharpe","ATL","@SF",4900,4.71,1
-"WR","James Washington","PIT","TEN",5100,4.69,0.9
-"D","Seahawks","SEA",NA,3600,4.69,1.3
-"RB","Jordan Howard","PHI",NA,5700,4.67,0.8
-"TE","Albert Okwuegbunam","DEN","CIN",5200,4.64,0.9
-"RB","Zack Moss","BUF","CAR",5200,4.63,0.9
-"RB","Malcolm Brown","MIA","NYJ",5000,4.57,0.9
-"WR","Chester Rogers","TEN","@PIT",4900,4.56,0.9
-"RB","Kenneth Gainwell","PHI",NA,5200,4.53,0.9
-"RB","Raymond Calais","LAR",NA,4500,4.53,1
-"TE","Dax Raymond","PIT","TEN",4000,4.53,1.1
-"WR","Antoine Wesley","ARI","@DET",4700,4.48,1
-"RB","Samaje Perine","CIN","@DEN",5200,4.41,0.8
-"WR","Ray-Ray McCloud III","PIT","TEN",5000,4.39,0.9
-"RB","Godwin Igwebuike","DET","ARI",5000,4.35,0.9
-"WR","Jauan Jennings","SF","ATL",4900,4.35,0.9
-"D","Ravens","BAL","GB",3800,4.32,1.1
-"WR","Cedrick Wilson","DAL","@NYG",4900,4.26,0.9
-"TE","Geoff Swaim","TEN","@PIT",4600,4.26,0.9
-"RB","Latavius Murray","BAL","GB",5100,4.25,0.8
-"WR","Olamide Zaccheaus","ATL","@SF",5000,4.1,0.8
-"TE","Hayden Hurst","ATL","@SF",4600,4.07,0.9
-"WR","Chris Conley","HOU","@JAX",4900,4.01,0.8
-"RB","Jermar Jefferson","DET","ARI",5000,3.94,0.8
-"WR","Mack Hollins","MIA","NYJ",5100,3.93,0.8
-"TE","Josiah Deguara","GB","@BAL",4600,3.89,0.8
-"D","Lions","DET","ARI",3000,3.88,1.3
-"RB","Kyle Juszczyk","SF","ATL",4500,3.72,0.8
-"TE","Anthony Firkser","TEN","@PIT",4700,3.64,0.8
-"TE","Durham Smythe","MIA","NYJ",4700,3.62,0.8
-"TE","Ryan Griffin","NYJ","@MIA",4600,3.62,0.8
-"TE","Pharaoh Brown","HOU","@JAX",4400,3.59,0.8
-"WR","Tavon Austin","JAX","HOU",4900,3.58,0.7
-"TE","Shane Zylstra","DET","ARI",4300,3.54,0.8
-"RB","Dare Ogunbowale","JAX","HOU",4600,3.32,0.7
-"TE","Will Dissly","SEA",NA,4500,3.21,0.7
-"WR","Devin Duvernay","BAL","GB",5000,3.17,0.6
-"TE","Adam Shaheen","MIA","NYJ",4200,3.15,0.8
-"TE","Kyle Rudolph","NYG","DAL",4500,3.11,0.7
-"TE","Marcedes Lewis","GB","@BAL",4300,3.06,0.7
-"WR","Denzel Mims","NYJ","@MIA",4900,3.03,0.6
-"WR","Isaiah Ford","MIA","NYJ",4700,2.83,0.6
-"RB","DeeJay Dallas","SEA",NA,4700,2.75,0.6
-"TE","Tommy Tremble","CAR","@BUF",4600,2.68,0.6
-"WR","Ben Skowronek","LAR",NA,4800,2.67,0.6
-"RB","Travis Homer","SEA",NA,4900,2.28,0.5
+"RB","Godwin Igwebuike","DET","ARI",5000,4.96,1
+"WR","Kalif Raymond","DET","ARI",5200,4.94,1
+"WR","James Washington","PIT","TEN",5100,4.82,0.9
+"TE","Albert Okwuegbunam","DEN","CIN",5200,4.8,0.9
+"RB","Salvon Ahmed","MIA","NYJ",5400,4.78,0.9
+"TE","Geoff Swaim","TEN","@PIT",4600,4.71,1
+"D","Ravens","BAL","GB",3800,4.62,1.2
+"WR","Mack Hollins","MIA","NYJ",5100,4.61,0.9
+"WR","Jauan Jennings","SF","ATL",4900,4.46,0.9
+"RB","Samaje Perine","CIN","@DEN",5200,4.35,0.8
+"TE","Josiah Deguara","GB","@BAL",4600,4.25,0.9
+"RB","Devontae Booker","NYG","DAL",5400,4.17,0.8
+"RB","Latavius Murray","BAL","GB",5100,4.12,0.8
+"D","Lions","DET","ARI",3000,3.9,1.3
+"WR","Olamide Zaccheaus","ATL","@SF",5000,3.85,0.8
+"TE","Anthony Firkser","TEN","@PIT",4700,3.65,0.8
+"TE","Ryan Griffin","NYJ","@MIA",4600,3.61,0.8
+"RB","Dare Ogunbowale","JAX","HOU",4600,3.55,0.8
+"RB","Kyle Juszczyk","SF","ATL",4500,3.44,0.8
+"WR","Chris Conley","HOU","@JAX",4900,3.41,0.7
+"TE","Marcedes Lewis","GB","@BAL",4300,2.89,0.7
