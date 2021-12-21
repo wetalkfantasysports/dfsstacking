@@ -1,25 +1,28 @@
 "Pos","Player","Team","Opp","Salary","Proj","Value"
-"WR","Cooper Kupp","LAR","SEA",8800,25.85,2.9
-"QB","Matthew Stafford","LAR","SEA",6700,21.92,3.3
-"QB","Jalen Hurts","PHI","WAS",6500,21.46,3.3
-"QB","Russell Wilson","SEA","@LAR",6100,16.43,2.7
-"RB","Miles Sanders","PHI","WAS",5700,13.41,2.4
-"WR","Terry McLaurin","WAS","@PHI",6500,12.92,2
-"RB","Darrell Henderson","LAR","SEA",5500,12.25,2.2
-"WR","Van Jefferson","LAR","SEA",5400,12.25,2.3
-"TE","Dallas Goedert","PHI","WAS",4900,12.11,2.5
+"WR","Cooper Kupp","LAR","SEA",8800,26.28,3
+"QB","Matthew Stafford","LAR","SEA",6700,22.39,3.3
+"QB","Jalen Hurts","PHI","WAS",6500,21.67,3.3
+"QB","Russell Wilson","SEA","@LAR",6100,17.67,2.9
+"RB","Antonio Gibson","WAS","@PHI",6800,15.11,2.2
+"RB","Darrell Henderson","LAR","SEA",5500,13.78,2.5
+"RB","Miles Sanders","PHI","WAS",5700,13.26,2.3
+"WR","Terry McLaurin","WAS","@PHI",6500,12.99,2
+"WR","DeVonta Smith","PHI","WAS",5800,12.8,2.2
+"TE","Dallas Goedert","PHI","WAS",4900,12.23,2.5
 "WR","Odell Beckham Jr.","LAR","SEA",4900,11.99,2.4
-"RB","Rashaad Penny","SEA","@LAR",5400,10.86,2
-"RB","Sony Michel","LAR","SEA",5800,9.19,1.6
-"D","Eagles","PHI","WAS",3400,8.17,2.4
-"TE","Gerald Everett","SEA","@LAR",3600,7.54,2.1
-"D","Rams","LAR","SEA",3200,7.36,2.3
-"WR","Freddie Swain","SEA","@LAR",3400,6.95,2
-"WR","DeAndre Carter","WAS","@PHI",3600,6.86,1.9
-"TE","Ricky Seals-Jones","WAS","@PHI",3400,6.39,1.9
-"WR","Jalen Reagor","PHI","WAS",3400,6.27,1.8
-"WR","Adam Humphries","WAS","@PHI",3800,5.65,1.5
-"RB","Boston Scott","PHI","WAS",4100,5.34,1.3
-"D","Seahawks","SEA","@LAR",2400,5.13,2.1
-"RB","Jordan Howard","PHI","WAS",4200,3.76,0.9
-"TE","Will Dissly","SEA","@LAR",2500,3.43,1.4
+"RB","Rashaad Penny","SEA","@LAR",5400,11.12,2.1
+"RB","Sony Michel","LAR","SEA",5800,9.24,1.6
+"D","Eagles","PHI","WAS",3400,8.01,2.4
+"TE","Gerald Everett","SEA","@LAR",3600,7.81,2.2
+"WR","Freddie Swain","SEA","@LAR",3400,7.24,2.1
+"WR","Quez Watkins","PHI","WAS",3700,7.1,1.9
+"WR","DeAndre Carter","WAS","@PHI",3600,6.89,1.9
+"D","Rams","LAR","SEA",3200,6.84,2.1
+"TE","Ricky Seals-Jones","WAS","@PHI",3400,6.42,1.9
+"D","Seahawks","SEA","@LAR",2400,6.16,2.6
+"WR","Jalen Reagor","PHI","WAS",3400,5.74,1.7
+"WR","Adam Humphries","WAS","@PHI",3800,5.7,1.5
+"RB","Jaret Patterson","WAS","@PHI",4100,4.49,1.1
+"RB","Jordan Howard","PHI","WAS",4200,4.46,1.1
+"TE","Will Dissly","SEA","@LAR",2500,3.61,1.4
+"TE","John Bates","WAS","@PHI",2800,2.67,1
