@@ -1,0 +1,12 @@
+"Player","Pos","Team","Salary","Proj","projVal","OptPos","Pos2","Pos1","Opp","Actual","actVal"
+"Tyler Glasnow","P","TB",10700,40.85,3.8,"P","","P","KC - Minor (L)",61,5.7
+"Mike Minor","P","KC",7200,28.78,4,"P","","P","@TB - Glasnow (R)",39,5.4
+"Nick Pivetta","P","BOS",7800,26.57,3.4,"P","","P","ATL - Smyly (L)",39,5
+"Eric Lauer","P","MIL",7800,21.22,2.7,"P","","P","SD - Paddack (R)",37,4.7
+"Merrill Kelly","P","ARI",6800,25.49,3.7,"P","","P","SF - Cueto (R)",34,5
+"Triston McKenzie","P","CLE",6400,22.45,3.5,"P","","P","@DET - Urena (R)",30,4.7
+"Trevor Bauer","P","LAD",11500,43.18,3.8,"P","","P","@HOU - Garcia (R)",25,2.2
+"Chris Paddack","P","SD",7500,25.03,3.3,"P","","P","@MIL - Lauer (L)",25,3.3
+"Joe Ross","P","WSH",6200,23.62,3.8,"P","","P","CIN - Hoffman (R)",24,3.9
+"Jose Urena","P","DET",6000,21.37,3.6,"P","","P","CLE - McKenzie (R)",23,3.8
+"Johnny Cueto","P","SF",7300,24.72,3.4,"P","","P","@ARI - Kelly (R)",18,2.5
