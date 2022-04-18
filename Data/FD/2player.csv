@@ -28,48 +28,34 @@
 "PHI","@COL - Kuhl ( R )","Bryce Harper","Garrett Stubbs",6700,27.5,4.1
 "PHI","@COL - Kuhl ( R )","Johan Camargo","Nick Castellanos",6800,27.4,4
 "PHI","@COL - Kuhl ( R )","Bryce Harper","Bryson Stott",7300,27.4,3.8
-"WSH","ARI - Bumgarner ( L )","Juan Soto","Nelson Cruz",7200,27.4,3.8
 "SF","@NYM - Megill ( R )","Brandon Belt","Mike Yastrzemski",6400,27.4,4.3
 "PHI","@COL - Kuhl ( R )","Didi Gregorius","Jean Segura",6800,27.3,4
 "PHI","@COL - Kuhl ( R )","Kyle Schwarber","Matt Vierling",6400,27.2,4.3
 "PHI","@COL - Kuhl ( R )","Bryce Harper","Simon Muzziotti",6700,27.1,4
-"ARI","@WAS - Gray ( R )","Daulton Varsho","Ketel Marte",5400,27,5
 "SF","@NYM - Megill ( R )","Brandon Belt","Brandon Crawford",6400,27,4.2
 "PHI","@COL - Kuhl ( R )","Johan Camargo","Rhys Hoskins",6400,26.5,4.1
 "TB","@CHC - Hendricks ( R )","Brandon Lowe","Ji-Man Choi",7000,26.1,3.7
 "SF","@NYM - Megill ( R )","Brandon Belt","Darin Ruf",6500,26.1,4
 "TB","@CHC - Hendricks ( R )","Brandon Lowe","Wander Franco",7100,26,3.7
 "SF","@NYM - Megill ( R )","Brandon Belt","Joc Pederson",6900,26,3.8
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Nelson Cruz",5700,25.9,4.5
 "PHI","@COL - Kuhl ( R )","Jean Segura","Matt Vierling",6900,25.8,3.7
 "PHI","@COL - Kuhl ( R )","Johan Camargo","Kyle Schwarber",6000,25.8,4.3
 "LAA","@HOU - Garcia ( R )","Jared Walsh","Shohei Ohtani",7600,25.7,3.4
-"WSH","ARI - Bumgarner ( L )","Josh Bell","Nelson Cruz",6700,25.6,3.8
 "TB","@CHC - Hendricks ( R )","Brandon Lowe","Randy Arozarena",6300,25.6,4.1
-"WSH","ARI - Bumgarner ( L )","Lane Thomas","Nelson Cruz",5300,25.4,4.8
-"ARI","@WAS - Gray ( R )","Ketel Marte","Seth Beer",5500,25.3,4.6
 "PHI","@COL - Kuhl ( R )","Alec Bohm","Bryce Harper",7400,25.3,3.4
 "LAD","ATL - Ynoa ( R )","Mookie Betts","Will Smith",7500,25.3,3.4
 "TB","@CHC - Hendricks ( R )","Brandon Lowe","Mike Zunino",5700,25.2,4.4
-"ARI","@WAS - Gray ( R )","David Peralta","Ketel Marte",5500,25.2,4.6
 "LAD","ATL - Ynoa ( R )","Trea Turner","Will Smith",7600,25.2,3.3
 "SF","@NYM - Megill ( R )","Brandon Belt","Wilmer Flores",6200,25.1,4.1
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Juan Soto",6900,25.1,3.6
-"ARI","@WAS - Gray ( R )","Christian Walker","Ketel Marte",5400,25,4.6
 "COL","PHI - Nola ( R )","C.J. Cron","Kris Bryant",8400,24.8,3
 "LAD","ATL - Ynoa ( R )","Freddie Freeman","Will Smith",7300,24.8,3.4
 "LAD","ATL - Ynoa ( R )","Mookie Betts","Trea Turner",7700,24.8,3.2
 "OAK","BAL - Watkins ( R )","Sean Murphy","Seth Brown",5100,24.7,4.9
 "SF","@NYM - Megill ( R )","Brandon Belt","Thairo Estrada",6600,24.7,3.7
-"WSH","ARI - Bumgarner ( L )","Josh Bell","Juan Soto",7900,24.7,3.1
 "TB","@CHC - Hendricks ( R )","Brandon Lowe","Josh Lowe",6000,24.6,4.1
 "SF","@NYM - Megill ( R )","Brandon Crawford","Mike Yastrzemski",5400,24.6,4.6
-"WSH","ARI - Bumgarner ( L )","Maikel Franco","Nelson Cruz",5700,24.6,4.3
 "OAK","BAL - Watkins ( R )","Seth Brown","Tony Kemp",5200,24.6,4.7
-"WSH","ARI - Bumgarner ( L )","Juan Soto","Lane Thomas",6500,24.6,3.8
-"ARI","@WAS - Gray ( R )","Daulton Varsho","Seth Beer",4900,24.6,5
 "OAK","BAL - Watkins ( R )","Sean Murphy","Tony Kemp",5300,24.6,4.6
-"ARI","@WAS - Gray ( R )","Daulton Varsho","David Peralta",4900,24.5,5
 "TB","@CHC - Hendricks ( R )","Brandon Lowe","Kevin Kiermaier",5600,24.4,4.4
 "TB","@CHC - Hendricks ( R )","Brandon Lowe","Yandy Diaz",6000,24.4,4.1
 "LAD","ATL - Ynoa ( R )","Freddie Freeman","Mookie Betts",7400,24.4,3.3
@@ -78,10 +64,7 @@
 "PHI","@COL - Kuhl ( R )","Bryson Stott","J.T. Realmuto",7200,24.3,3.4
 "SF","@NYM - Megill ( R )","Brandon Belt","Steven Duggar",6100,24.3,4
 "LAD","ATL - Ynoa ( R )","Freddie Freeman","Trea Turner",7500,24.3,3.2
-"WSH","ARI - Bumgarner ( L )","Keibert Ruiz","Nelson Cruz",5700,24.3,4.3
 "COL","PHI - Nola ( R )","Connor Joe","Kris Bryant",7800,24.3,3.1
-"ARI","@WAS - Gray ( R )","Christian Walker","Daulton Varsho",4800,24.2,5
-"ARI","@WAS - Gray ( R )","Ketel Marte","Pavin Smith",5300,24.2,4.6
 "SF","@NYM - Megill ( R )","Brandon Belt","Joey Bart",6800,24.2,3.6
 "OAK","BAL - Watkins ( R )","Jed Lowrie","Seth Brown",5200,24.1,4.6
 "OAK","BAL - Watkins ( R )","Jed Lowrie","Sean Murphy",5300,24.1,4.5
@@ -94,34 +77,25 @@
 "PHI","@COL - Kuhl ( R )","Bryson Stott","Nick Castellanos",7400,23.8,3.2
 "MIL","PIT - Thompson ( R )","Christian Yelich","Hunter Renfroe",5800,23.8,4.1
 "SF","@NYM - Megill ( R )","Darin Ruf","Mike Yastrzemski",5500,23.8,4.3
-"WSH","ARI - Bumgarner ( L )","Juan Soto","Maikel Franco",6900,23.7,3.4
 "SF","@NYM - Megill ( R )","Joc Pederson","Mike Yastrzemski",5900,23.6,4
-"ARI","@WAS - Gray ( R )","Carson Kelly","Ketel Marte",5100,23.6,4.6
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Nelson Cruz",5300,23.6,4.4
 "PHI","@COL - Kuhl ( R )","Nick Castellanos","Simon Muzziotti",6800,23.6,3.5
 "LAD","ATL - Ynoa ( R )","Chris Taylor","Will Smith",6900,23.5,3.4
 "LAA","@HOU - Garcia ( R )","Anthony Rendon","Shohei Ohtani",7400,23.5,3.2
 "TB","@CHC - Hendricks ( R )","Ji-Man Choi","Wander Franco",7100,23.5,3.3
-"WSH","ARI - Bumgarner ( L )","Juan Soto","Keibert Ruiz",6900,23.4,3.4
-"ARI","@WAS - Gray ( R )","Daulton Varsho","Pavin Smith",4700,23.4,5
 "NYM","SF - Cobb ( R )","Pete Alonso","Starling Marte",8000,23.4,2.9
 "SD","CIN - Lodolo ( L )","Manny Machado","Trent Grisham",6700,23.4,3.5
 "COL","PHI - Nola ( R )","Kris Bryant","Ryan McMahon",8000,23.4,2.9
 "SF","@NYM - Megill ( R )","Brandon Crawford","Darin Ruf",5500,23.4,4.2
-"ARI","@WAS - Gray ( R )","Ketel Marte","Sergio Alcantara",5100,23.4,4.6
 "MIL","PIT - Thompson ( R )","Andrew McCutchen","Hunter Renfroe",5600,23.3,4.2
 "SF","@NYM - Megill ( R )","Brandon Crawford","Joc Pederson",5900,23.2,3.9
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Josh Bell",6400,23.2,3.6
 "NYM","SF - Cobb ( R )","Francisco Lindor","Starling Marte",7900,23.2,2.9
 "ATL","@LAD - Kershaw ( L )","Matt Olson","Ozzie Albies",7900,23.2,2.9
 "SD","CIN - Lodolo ( L )","Luke Voit","Manny Machado",7000,23.2,3.3
 "LAD","ATL - Ynoa ( R )","Chris Taylor","Mookie Betts",7000,23.1,3.3
 "LAD","ATL - Ynoa ( R )","Justin Turner","Will Smith",7100,23.1,3.3
 "MIL","PIT - Thompson ( R )","Hunter Renfroe","Willy Adames",5800,23.1,4
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Lane Thomas",5000,23.1,4.6
 "HOU","LAA - Lorenzen ( R )","Jose Altuve","Yordan Alvarez",7100,23.1,3.3
 "SD","CIN - Lodolo ( L )","Manny Machado","Wil Myers",6800,23.1,3.4
-"WSH","ARI - Bumgarner ( L )","Nelson Cruz","Victor Robles",5200,23,4.4
 "TB","@CHC - Hendricks ( R )","Brandon Lowe","Taylor Walls",5600,23,4.1
 "LAD","ATL - Ynoa ( R )","Chris Taylor","Trea Turner",7100,23,3.2
 "COL","PHI - Nola ( R )","C.J. Cron","Ryan McMahon",8200,23,2.8
@@ -140,16 +114,11 @@
 "TB","@CHC - Hendricks ( R )","Randy Arozarena","Wander Franco",6400,22.9,3.6
 "LAD","ATL - Ynoa ( R )","Cody Bellinger","Will Smith",6800,22.9,3.4
 "MIL","PIT - Thompson ( R )","Hunter Renfroe","Kolten Wong",5400,22.9,4.2
-"ARI","@WAS - Gray ( R )","Carson Kelly","Daulton Varsho",4500,22.9,5.1
 "COL","PHI - Nola ( R )","Kris Bryant","Randal Grichuk",7300,22.8,3.1
-"ARI","@WAS - Gray ( R )","Geraldo Perdomo","Ketel Marte",5400,22.8,4.2
 "OAK","BAL - Watkins ( R )","Billy McKinney","Tony Kemp",5100,22.8,4.5
 "MIL","PIT - Thompson ( R )","Andrew McCutchen","Christian Yelich",5800,22.8,3.9
-"ARI","@WAS - Gray ( R )","David Peralta","Seth Beer",5000,22.8,4.6
 "SF","@NYM - Megill ( R )","Mike Yastrzemski","Wilmer Flores",5200,22.8,4.4
-"WSH","ARI - Bumgarner ( L )","Josh Bell","Lane Thomas",6000,22.8,3.8
 "LAD","ATL - Ynoa ( R )","Justin Turner","Mookie Betts",7200,22.8,3.2
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Juan Soto",6500,22.7,3.5
 "TB","@CHC - Hendricks ( R )","Ji-Man Choi","Mike Zunino",5700,22.7,4
 "LAD","ATL - Ynoa ( R )","Chris Taylor","Freddie Freeman",6800,22.7,3.3
 "LAD","ATL - Ynoa ( R )","Justin Turner","Trea Turner",7300,22.6,3.1
@@ -160,19 +129,16 @@
 "COL","PHI - Nola ( R )","C.J. Cron","Charlie Blackmon",7700,22.6,2.9
 "MIL","PIT - Thompson ( R )","Christian Yelich","Willy Adames",6000,22.6,3.8
 "TB","@CHC - Hendricks ( R )","Mike Zunino","Wander Franco",5800,22.6,3.9
-"ARI","@WAS - Gray ( R )","Daulton Varsho","Sergio Alcantara",4500,22.6,5
 "ATL","@LAD - Kershaw ( L )","Ozzie Albies","Travis d'Arnaud",7200,22.6,3.1
 "PHI","@COL - Kuhl ( R )","Didi Gregorius","Johan Camargo",5300,22.6,4.3
 "MIL","PIT - Thompson ( R )","Hunter Renfroe","Rowdy Tellez",5200,22.6,4.3
 "HOU","LAA - Lorenzen ( R )","Alex Bregman","Yordan Alvarez",7300,22.6,3.1
-"ARI","@WAS - Gray ( R )","Christian Walker","Seth Beer",4900,22.5,4.6
 "LAD","ATL - Ynoa ( R )","Cody Bellinger","Mookie Betts",6900,22.5,3.3
 "SD","CIN - Lodolo ( L )","Austin Nola","Manny Machado",6900,22.5,3.3
 "COL","PHI - Nola ( R )","C.J. Cron","Randal Grichuk",7500,22.5,3
 "OAK","BAL - Watkins ( R )","Elvis Andrus","Seth Brown",5300,22.5,4.2
 "COL","PHI - Nola ( R )","Connor Joe","Ryan McMahon",7600,22.4,3
 "COL","PHI - Nola ( R )","Brendan Rodgers","Kris Bryant",7000,22.4,3.2
-"ARI","@WAS - Gray ( R )","Christian Walker","David Peralta",4900,22.4,4.6
 "OAK","BAL - Watkins ( R )","Elvis Andrus","Sean Murphy",5400,22.4,4.2
 "SD","CIN - Lodolo ( L )","Ha-Seong Kim","Manny Machado",6600,22.4,3.4
 "ATL","@LAD - Kershaw ( L )","Austin Riley","Ozzie Albies",7900,22.4,2.8
@@ -186,14 +152,12 @@
 "LAD","ATL - Ynoa ( R )","Freddie Freeman","Justin Turner",7000,22.3,3.2
 "OAK","BAL - Watkins ( R )","Elvis Andrus","Tony Kemp",5500,22.3,4.1
 "PHI","@COL - Kuhl ( R )","Garrett Stubbs","Kyle Schwarber",6000,22.3,3.7
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Maikel Franco",5400,22.3,4.1
 "LAD","ATL - Ynoa ( R )","Edwin Rios","Mookie Betts",5800,22.2,3.8
 "HOU","LAA - Lorenzen ( R )","Chas McCormick","Yordan Alvarez",6100,22.2,3.6
 "SD","CIN - Lodolo ( L )","Luke Voit","Trent Grisham",5500,22.2,4
 "PIT","@MIL - Lauer ( L )","Bryan Reynolds","Ke'Bryan Hayes",6300,22.2,3.5
 "PHI","@COL - Kuhl ( R )","Bryson Stott","Kyle Schwarber",6600,22.2,3.4
 "PHI","@COL - Kuhl ( R )","Alec Bohm","J.T. Realmuto",7300,22.2,3
-"WSH","ARI - Bumgarner ( L )","Juan Soto","Victor Robles",6400,22.2,3.5
 "LAA","@HOU - Garcia ( R )","Shohei Ohtani","Tyler Wade",6500,22.2,3.4
 "LAA","@HOU - Garcia ( R )","Shohei Ohtani","Taylor Ward",6800,22.2,3.3
 "SD","CIN - Lodolo ( L )","Trent Grisham","Wil Myers",5300,22.1,4.2
@@ -212,10 +176,8 @@
 "HOU","LAA - Lorenzen ( R )","Jose Altuve","Kyle Tucker",6900,22,3.2
 "TB","@CHC - Hendricks ( R )","Ji-Man Choi","Josh Lowe",6000,22,3.7
 "MIL","PIT - Thompson ( R )","Christian Yelich","Rowdy Tellez",5400,22,4.1
-"ARI","@WAS - Gray ( R )","Daulton Varsho","Geraldo Perdomo",4800,22,4.6
 "COL","PHI - Nola ( R )","Charlie Blackmon","Connor Joe",7100,22,3.1
 "LAA","@HOU - Garcia ( R )","Andrew Velazquez","Shohei Ohtani",6500,22,3.4
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Keibert Ruiz",5400,22,4.1
 "SF","@NYM - Megill ( R )","Mike Yastrzemski","Steven Duggar",5100,22,4.3
 "ATL","@LAD - Kershaw ( L )","Adam Duvall","Matt Olson",7100,22,3.1
 "SF","@NYM - Megill ( R )","Brandon Crawford","Thairo Estrada",5600,21.9,3.9
@@ -223,7 +185,6 @@
 "SD","CIN - Lodolo ( L )","Luke Voit","Wil Myers",5600,21.9,3.9
 "PHI","@COL - Kuhl ( R )","Kyle Schwarber","Simon Muzziotti",6000,21.9,3.7
 "OAK","BAL - Watkins ( R )","Chad Pinder","Tony Kemp",5500,21.9,4
-"WSH","ARI - Bumgarner ( L )","Josh Bell","Maikel Franco",6400,21.9,3.4
 "HOU","LAA - Lorenzen ( R )","Kyle Tucker","Michael Brantley",6300,21.9,3.5
 "COL","PHI - Nola ( R )","Connor Joe","Randal Grichuk",6900,21.9,3.2
 "TB","@CHC - Hendricks ( R )","Ji-Man Choi","Kevin Kiermaier",5600,21.9,3.9
@@ -238,17 +199,13 @@
 "HOU","LAA - Lorenzen ( R )","Jose Altuve","Yuli Gurriel",6200,21.8,3.5
 "LAD","ATL - Ynoa ( R )","Edwin Rios","Freddie Freeman",5600,21.8,3.9
 "SD","CIN - Lodolo ( L )","Jake Cronenworth","Wil Myers",5800,21.8,3.8
-"WSH","ARI - Bumgarner ( L )","Lane Thomas","Maikel Franco",5000,21.8,4.4
 "LAA","@HOU - Garcia ( R )","Anthony Rendon","Jared Walsh",6200,21.8,3.5
 "PHI","@COL - Kuhl ( R )","Alec Bohm","Nick Castellanos",7500,21.7,2.9
-"ARI","@WAS - Gray ( R )","Pavin Smith","Seth Beer",4800,21.7,4.5
 "HOU","LAA - Lorenzen ( R )","Alex Bregman","Jose Altuve",7000,21.7,3.1
 "MIL","PIT - Thompson ( R )","Kolten Wong","Willy Adames",5600,21.7,3.9
 "HOU","LAA - Lorenzen ( R )","Michael Brantley","Yuli Gurriel",5600,21.6,3.9
 "NYM","SF - Cobb ( R )","Eduardo Escobar","Starling Marte",7600,21.6,2.8
 "MIL","PIT - Thompson ( R )","Christian Yelich","Lorenzo Cain",5300,21.6,4.1
-"WSH","ARI - Bumgarner ( L )","Josh Bell","Keibert Ruiz",6400,21.6,3.4
-"ARI","@WAS - Gray ( R )","David Peralta","Pavin Smith",4800,21.6,4.5
 "HOU","LAA - Lorenzen ( R )","Kyle Tucker","Yuli Gurriel",6300,21.6,3.4
 "ATL","@LAD - Kershaw ( L )","Matt Olson","Travis d'Arnaud",7100,21.6,3
 "MIL","PIT - Thompson ( R )","Andrew McCutchen","Rowdy Tellez",5200,21.6,4.1
@@ -262,7 +219,6 @@
 "OAK","BAL - Watkins ( R )","Sean Murphy","Sheldon Neuse",4800,21.5,4.5
 "SD","CIN - Lodolo ( L )","Ha-Seong Kim","Trent Grisham",5100,21.5,4.2
 "TB","@CHC - Hendricks ( R )","Josh Lowe","Randy Arozarena",5300,21.5,4
-"WSH","ARI - Bumgarner ( L )","Keibert Ruiz","Lane Thomas",5000,21.5,4.3
 "OAK","BAL - Watkins ( R )","Chad Pinder","Jed Lowrie",5500,21.5,3.9
 "ATL","@LAD - Kershaw ( L )","Austin Riley","Matt Olson",7800,21.4,2.7
 "LAD","ATL - Ynoa ( R )","Gavin Lux","Mookie Betts",7000,21.4,3.1
@@ -272,7 +228,6 @@
 "MIL","PIT - Thompson ( R )","Rowdy Tellez","Willy Adames",5400,21.4,4
 "PIT","@MIL - Lauer ( L )","Bryan Reynolds","Michael Chavis",5600,21.4,3.8
 "HOU","LAA - Lorenzen ( R )","Chas McCormick","Jose Altuve",5800,21.4,3.7
-"ARI","@WAS - Gray ( R )","Christian Walker","Pavin Smith",4700,21.4,4.5
 "ATL","@LAD - Kershaw ( L )","Adam Duvall","Travis d'Arnaud",6400,21.4,3.3
 "OAK","BAL - Watkins ( R )","Sheldon Neuse","Tony Kemp",4900,21.3,4.4
 "NYM","SF - Cobb ( R )","Eduardo Escobar","Pete Alonso",7600,21.3,2.8
@@ -284,7 +239,6 @@
 "NYM","SF - Cobb ( R )","Robinson Cano","Starling Marte",6600,21.3,3.2
 "SD","CIN - Lodolo ( L )","Ha-Seong Kim","Luke Voit",5400,21.3,3.9
 "SD","CIN - Lodolo ( L )","Austin Nola","Wil Myers",5500,21.2,3.9
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Cesar Hernandez",5000,21.2,4.2
 "HOU","LAA - Lorenzen ( R )","Alex Bregman","Yuli Gurriel",6400,21.2,3.3
 "HOU","LAA - Lorenzen ( R )","Chas McCormick","Michael Brantley",5200,21.2,4.1
 "ATL","@LAD - Kershaw ( L )","Eddie Rosario","Ozzie Albies",6400,21.2,3.3
@@ -297,7 +251,6 @@
 "CHC","TB - McClanahan ( L )","Frank Schwindel","Willson Contreras",6200,21.1,3.4
 "PHI","@COL - Kuhl ( R )","Johan Camargo","Matt Vierling",5400,21.1,3.9
 "TB","@CHC - Hendricks ( R )","Josh Lowe","Mike Zunino",4700,21.1,4.5
-"ARI","@WAS - Gray ( R )","Carson Kelly","Seth Beer",4600,21.1,4.6
 "COL","PHI - Nola ( R )","Charlie Blackmon","Ryan McMahon",7300,21.1,2.9
 "MIL","PIT - Thompson ( R )","Andrew McCutchen","Lorenzo Cain",5100,21.1,4.1
 "ATL","@LAD - Kershaw ( L )","Marcell Ozuna","Matt Olson",7000,21.1,3
@@ -306,7 +259,6 @@
 "SF","@NYM - Megill ( R )","Darin Ruf","Thairo Estrada",5700,21.1,3.7
 "SD","CIN - Lodolo ( L )","Ha-Seong Kim","Jake Cronenworth",5600,21.1,3.8
 "CHC","TB - McClanahan ( L )","Clint Frazier","Willson Contreras",5900,21.1,3.6
-"ARI","@WAS - Gray ( R )","Carson Kelly","David Peralta",4600,21,4.6
 "MIL","PIT - Thompson ( R )","Hunter Renfroe","Jace Peterson",5200,21,4
 "COL","PHI - Nola ( R )","Randal Grichuk","Ryan McMahon",7100,21,3
 "SF","@NYM - Megill ( R )","Joc Pederson","Thairo Estrada",6100,21,3.4
@@ -323,37 +275,30 @@
 "MIL","PIT - Thompson ( R )","Hunter Renfroe","Omar Narvaez",4900,20.9,4.3
 "HOU","LAA - Lorenzen ( R )","Chas McCormick","Yuli Gurriel",5200,20.9,4
 "ATL","@LAD - Kershaw ( L )","Adam Duvall","Marcell Ozuna",6300,20.9,3.3
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Josh Bell",6000,20.9,3.5
 "LAA","@HOU - Garcia ( R )","Jared Walsh","Max Stassi",6000,20.9,3.5
 "OAK","BAL - Watkins ( R )","Jed Lowrie","Sheldon Neuse",4900,20.9,4.3
-"ARI","@WAS - Gray ( R )","Sergio Alcantara","Seth Beer",4600,20.9,4.5
 "PHI","@COL - Kuhl ( R )","Garrett Stubbs","Jean Segura",6500,20.9,3.2
 "ATL","@LAD - Kershaw ( L )","Austin Riley","Travis d'Arnaud",7100,20.8,2.9
 "HOU","LAA - Lorenzen ( R )","Alex Bregman","Chas McCormick",6000,20.8,3.5
 "CIN","@SD - Manaea ( L )","Aristides Aquino","Jonathan India",5600,20.8,3.7
 "SD","CIN - Lodolo ( L )","Jurickson Profar","Manny Machado",6900,20.8,3
 "PHI","@COL - Kuhl ( R )","Bryson Stott","Jean Segura",7100,20.8,2.9
-"ARI","@WAS - Gray ( R )","Carson Kelly","Christian Walker",4500,20.8,4.6
 "NYM","SF - Cobb ( R )","Francisco Lindor","Robinson Cano",6500,20.8,3.2
 "CHC","TB - McClanahan ( L )","Ian Happ","Willson Contreras",6300,20.8,3.3
-"ARI","@WAS - Gray ( R )","David Peralta","Sergio Alcantara",4600,20.8,4.5
 "PHI","@COL - Kuhl ( R )","Alec Bohm","Rhys Hoskins",7100,20.8,2.9
 "LAD","ATL - Ynoa ( R )","Chris Taylor","Cody Bellinger",6300,20.8,3.3
 "NYM","SF - Cobb ( R )","Jeff McNeil","Starling Marte",6900,20.8,3
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Lane Thomas",4600,20.7,4.5
 "CHC","TB - McClanahan ( L )","Nick Madrigal","Willson Contreras",5800,20.7,3.6
 "LAD","ATL - Ynoa ( R )","Max Muncy","Will Smith",7100,20.7,2.9
 "SF","@NYM - Megill ( R )","Darin Ruf","Steven Duggar",5200,20.7,4
 "MIL","PIT - Thompson ( R )","Kolten Wong","Lorenzo Cain",4900,20.7,4.2
 "BAL","@OAK - Montas ( R )","Cedric Mullins","Trey Mancini",5500,20.7,3.8
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Victor Robles",4900,20.7,4.2
 "BAL","@OAK - Montas ( R )","Cedric Mullins","Ryan Mountcastle",6100,20.7,3.4
 "OAK","BAL - Watkins ( R )","Cristian Pache","Seth Brown",4800,20.7,4.3
 "OAK","BAL - Watkins ( R )","Billy McKinney","Elvis Andrus",5200,20.7,4
 "OAK","BAL - Watkins ( R )","Cristian Pache","Sean Murphy",4900,20.6,4.2
 "PIT","@MIL - Lauer ( L )","Ke'Bryan Hayes","Michael Chavis",6100,20.6,3.4
 "COL","PHI - Nola ( R )","Brendan Rodgers","Ryan McMahon",6800,20.6,3
-"WSH","ARI - Bumgarner ( L )","Keibert Ruiz","Maikel Franco",5400,20.6,3.8
 "SF","@NYM - Megill ( R )","Joc Pederson","Steven Duggar",5600,20.6,3.7
 "TB","@CHC - Hendricks ( R )","Brandon Lowe","Francisco Mejia",5900,20.6,3.5
 "COL","PHI - Nola ( R )","Charlie Blackmon","Randal Grichuk",6600,20.6,3.1
@@ -361,7 +306,6 @@
 "CIN","@SD - Manaea ( L )","Aristides Aquino","Tommy Pham",5400,20.6,3.8
 "NYM","SF - Cobb ( R )","Dominic Smith","Starling Marte",6200,20.6,3.3
 "SF","@NYM - Megill ( R )","Darin Ruf","Joey Bart",5900,20.5,3.5
-"ARI","@WAS - Gray ( R )","Christian Walker","Sergio Alcantara",4500,20.5,4.6
 "ATL","@LAD - Kershaw ( L )","Marcell Ozuna","Travis d'Arnaud",6300,20.5,3.3
 "PIT","@MIL - Lauer ( L )","Bryan Reynolds","Jake Marisnick",5200,20.5,3.9
 "MIL","PIT - Thompson ( R )","Christian Yelich","Jace Peterson",5400,20.5,3.8
@@ -382,22 +326,18 @@
 "ATL","@LAD - Kershaw ( L )","Austin Riley","Marcell Ozuna",7000,20.4,2.9
 "LAA","@HOU - Garcia ( R )","Jared Walsh","Jo Adell",5700,20.4,3.6
 "TB","@CHC - Hendricks ( R )","Taylor Walls","Wander Franco",5700,20.4,3.6
-"WSH","ARI - Bumgarner ( L )","Josh Bell","Victor Robles",5900,20.4,3.4
 "LAD","ATL - Ynoa ( R )","Max Muncy","Mookie Betts",7200,20.4,2.8
 "TB","@CHC - Hendricks ( R )","Josh Lowe","Kevin Kiermaier",4600,20.3,4.4
 "TB","@CHC - Hendricks ( R )","Josh Lowe","Yandy Diaz",5000,20.3,4.1
 "CHC","TB - McClanahan ( L )","Seiya Suzuki","Willson Contreras",6700,20.3,3
-"ARI","@WAS - Gray ( R )","Geraldo Perdomo","Seth Beer",4900,20.3,4.1
 "OAK","BAL - Watkins ( R )","Billy McKinney","Chad Pinder",5200,20.3,3.9
 "NYM","SF - Cobb ( R )","James McCann","Starling Marte",6500,20.3,3.1
 "LAA","@HOU - Garcia ( R )","Andrew Velazquez","Jared Walsh",5300,20.3,3.8
 "NYM","SF - Cobb ( R )","Francisco Lindor","Jeff McNeil",6800,20.3,3
 "NYM","SF - Cobb ( R )","Dominic Smith","Pete Alonso",6200,20.3,3.3
 "LAD","ATL - Ynoa ( R )","Max Muncy","Trea Turner",7300,20.2,2.8
-"ARI","@WAS - Gray ( R )","David Peralta","Geraldo Perdomo",4900,20.2,4.1
 "HOU","LAA - Lorenzen ( R )","Jeremy Pena","Yordan Alvarez",6300,20.2,3.2
 "COL","PHI - Nola ( R )","Brendan Rodgers","Charlie Blackmon",6300,20.2,3.2
-"WSH","ARI - Bumgarner ( L )","Lane Thomas","Victor Robles",4500,20.2,4.5
 "ATL","@LAD - Kershaw ( L )","Eddie Rosario","Matt Olson",6300,20.2,3.2
 "TB","@CHC - Hendricks ( R )","Kevin Kiermaier","Yandy Diaz",4600,20.2,4.4
 "CIN","@SD - Manaea ( L )","Tommy Pham","Tyler Stephenson",6100,20.2,3.3
@@ -414,13 +354,10 @@
 "PIT","@MIL - Lauer ( L )","Bryan Reynolds","Diego Castillo",5200,20,3.9
 "NYM","SF - Cobb ( R )","James McCann","Pete Alonso",6500,20,3.1
 "BAL","@OAK - Montas ( R )","Cedric Mullins","Ramon Urias",5300,20,3.8
-"ARI","@WAS - Gray ( R )","Carson Kelly","Pavin Smith",4400,20,4.5
-"ARI","@WAS - Gray ( R )","Christian Walker","Geraldo Perdomo",4800,20,4.2
 "ATL","@LAD - Kershaw ( L )","Adam Duvall","Eddie Rosario",5600,20,3.6
 "ATL","@LAD - Kershaw ( L )","Dansby Swanson","Matt Olson",6500,20,3.1
 "NYM","SF - Cobb ( R )","Starling Marte","Travis Jankowski",6500,20,3.1
 "MIL","PIT - Thompson ( R )","Andrew McCutchen","Omar Narvaez",4900,19.9,4.1
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Maikel Franco",5000,19.9,4
 "ATL","@LAD - Kershaw ( L )","Orlando Arcia","Ozzie Albies",6400,19.9,3.1
 "LAD","ATL - Ynoa ( R )","Freddie Freeman","Max Muncy",7000,19.9,2.8
 "TB","@CHC - Hendricks ( R )","Randy Arozarena","Taylor Walls",4900,19.9,4.1
@@ -439,12 +376,10 @@
 "ATL","@LAD - Kershaw ( L )","Adam Duvall","Dansby Swanson",5800,19.7,3.4
 "CIN","@SD - Manaea ( L )","Joey Votto","Jonathan India",6200,19.7,3.2
 "OAK","BAL - Watkins ( R )","Billy McKinney","Sheldon Neuse",4600,19.7,4.3
-"ARI","@WAS - Gray ( R )","Pavin Smith","Sergio Alcantara",4400,19.7,4.5
 "SF","@NYM - Megill ( R )","Steven Duggar","Wilmer Flores",4900,19.7,4
 "SD","CIN - Lodolo ( L )","Jurickson Profar","Luke Voit",5700,19.6,3.4
 "NYM","SF - Cobb ( R )","Pete Alonso","Travis Jankowski",6500,19.6,3
 "LAD","ATL - Ynoa ( R )","Chris Taylor","Gavin Lux",6400,19.6,3.1
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Keibert Ruiz",5000,19.6,3.9
 "MIL","PIT - Thompson ( R )","Jace Peterson","Kolten Wong",5000,19.6,3.9
 "ATL","@LAD - Kershaw ( L )","Eddie Rosario","Travis d'Arnaud",5600,19.6,3.5
 "SD","CIN - Lodolo ( L )","Jurickson Profar","Wil Myers",5500,19.6,3.6
@@ -463,10 +398,8 @@
 "ATL","@LAD - Kershaw ( L )","Austin Riley","Eddie Rosario",6300,19.4,3.1
 "BAL","@OAK - Montas ( R )","Austin Hays","Ryan Mountcastle",5600,19.4,3.5
 "CHC","TB - McClanahan ( L )","Clint Frazier","Frank Schwindel",5300,19.4,3.7
-"ARI","@WAS - Gray ( R )","Ketel Marte","Yonny Hernandez",5000,19.4,3.9
 "ATL","@LAD - Kershaw ( L )","Dansby Swanson","Travis d'Arnaud",5800,19.4,3.3
 "HOU","LAA - Lorenzen ( R )","Jeremy Pena","Jose Altuve",6000,19.4,3.2
-"WSH","ARI - Bumgarner ( L )","Maikel Franco","Victor Robles",4900,19.4,4
 "CHC","TB - McClanahan ( L )","Frank Schwindel","Patrick Wisdom",5300,19.3,3.6
 "MIL","PIT - Thompson ( R )","Jace Peterson","Rowdy Tellez",4800,19.3,4
 "SF","@NYM - Megill ( R )","Steven Duggar","Thairo Estrada",5300,19.3,3.6
@@ -485,8 +418,6 @@
 "HOU","LAA - Lorenzen ( R )","Jeremy Pena","Kyle Tucker",6100,19.2,3.1
 "COL","PHI - Nola ( R )","C.J. Cron","Sam Hilliard",6800,19.2,2.8
 "CIN","@SD - Manaea ( L )","Aristides Aquino","Joey Votto",5400,19.2,3.6
-"ARI","@WAS - Gray ( R )","Geraldo Perdomo","Pavin Smith",4700,19.2,4.1
-"ARI","@WAS - Gray ( R )","Carson Kelly","Sergio Alcantara",4200,19.1,4.6
 "SD","CIN - Lodolo ( L )","Jorge Alfaro","Wil Myers",4900,19.1,3.9
 "ATL","@LAD - Kershaw ( L )","Eddie Rosario","Marcell Ozuna",5500,19.1,3.5
 "CHC","TB - McClanahan ( L )","Frank Schwindel","Ian Happ",5700,19.1,3.4
@@ -496,7 +427,6 @@
 "PIT","@MIL - Lauer ( L )","Ke'Bryan Hayes","Kevin Newman",6100,19.1,3.1
 "CHC","TB - McClanahan ( L )","Frank Schwindel","Nick Madrigal",5200,19.1,3.7
 "COL","PHI - Nola ( R )","Charlie Blackmon","Elias Diaz",6600,19.1,2.9
-"WSH","ARI - Bumgarner ( L )","Keibert Ruiz","Victor Robles",4900,19.1,3.9
 "SD","CIN - Lodolo ( L )","Jake Cronenworth","Jorge Alfaro",5300,19.1,3.6
 "CHC","TB - McClanahan ( L )","Clint Frazier","Ian Happ",5400,19.1,3.5
 "LAD","ATL - Ynoa ( R )","Cody Bellinger","Gavin Lux",6300,19,3
@@ -545,10 +475,8 @@
 "PHI","@COL - Kuhl ( R )","Alec Bohm","Jean Segura",7200,18.7,2.6
 "LAA","@HOU - Garcia ( R )","Anthony Rendon","Max Stassi",5800,18.7,3.2
 "ATL","@LAD - Kershaw ( L )","Adam Duvall","Orlando Arcia",5600,18.7,3.3
-"ARI","@WAS - Gray ( R )","Daulton Varsho","Yonny Hernandez",4400,18.6,4.2
 "PIT","@MIL - Lauer ( L )","Bryan Reynolds","Roberto Perez",5200,18.6,3.6
 "BAL","@OAK - Montas ( R )","Rougned Odor","Trey Mancini",4700,18.6,4
-"ARI","@WAS - Gray ( R )","Carson Kelly","Geraldo Perdomo",4500,18.6,4.1
 "LAA","@HOU - Garcia ( R )","Andrew Velazquez","Jose Rojas",4100,18.6,4.5
 "COL","PHI - Nola ( R )","Connor Joe","Sam Hilliard",6200,18.6,3
 "HOU","LAA - Lorenzen ( R )","Martin Maldonado","Yordan Alvarez",5900,18.6,3.2
@@ -569,13 +497,10 @@
 "CIN","@SD - Manaea ( L )","Jonathan India","Mike Moustakas",5400,18.5,3.4
 "PIT","@MIL - Lauer ( L )","Diego Castillo","Michael Chavis",5000,18.4,3.7
 "MIL","PIT - Thompson ( R )","Christian Yelich","Tyrone Taylor",5100,18.4,3.6
-"WSH","ARI - Bumgarner ( L )","Nelson Cruz","Yadiel Hernandez",5600,18.4,3.3
 "CIN","@SD - Manaea ( L )","Aristides Aquino","Kyle Farmer",4900,18.4,3.8
 "OAK","BAL - Watkins ( R )","Cristian Pache","Elvis Andrus",5100,18.4,3.6
 "BAL","@OAK - Montas ( R )","Anthony Santander","Trey Mancini",5300,18.4,3.5
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Victor Robles",4500,18.3,4.1
 "COL","PHI - Nola ( R )","Jose Iglesias","Ryan McMahon",7000,18.3,2.6
-"ARI","@WAS - Gray ( R )","Geraldo Perdomo","Sergio Alcantara",4500,18.3,4.1
 "NYM","SF - Cobb ( R )","Jeff McNeil","Robinson Cano",5500,18.3,3.3
 "BAL","@OAK - Montas ( R )","Anthony Santander","Ryan Mountcastle",5900,18.3,3.1
 "CHC","TB - McClanahan ( L )","Ian Happ","Seiya Suzuki",6200,18.3,3
@@ -629,7 +554,6 @@
 "CHC","TB - McClanahan ( L )","Rafael Ortega","Willson Contreras",5800,17.8,3.1
 "CHC","TB - McClanahan ( L )","Michael Hermosillo","Patrick Wisdom",4800,17.8,3.7
 "MIL","PIT - Thompson ( R )","Tyrone Taylor","Willy Adames",5100,17.8,3.5
-"WSH","ARI - Bumgarner ( L )","Nelson Cruz","Riley Adams",5000,17.7,3.5
 "BAL","@OAK - Montas ( R )","Anthony Santander","Rougned Odor",5000,17.7,3.5
 "HOU","LAA - Lorenzen ( R )","Jose Altuve","Martin Maldonado",5600,17.7,3.2
 "SF","@NYM - Megill ( R )","Brandon Belt","Luke Williams",5700,17.7,3.1
@@ -654,7 +578,6 @@
 "CIN","@SD - Manaea ( L )","Aristides Aquino","Brandon Drury",4900,17.6,3.6
 "CIN","@SD - Manaea ( L )","Jake Fraley","Tommy Pham",5400,17.6,3.3
 "HOU","LAA - Lorenzen ( R )","Kyle Tucker","Martin Maldonado",5700,17.6,3.1
-"WSH","ARI - Bumgarner ( L )","Juan Soto","Yadiel Hernandez",6800,17.5,2.6
 "PHI","@COL - Kuhl ( R )","Bryson Stott","Matt Vierling",6000,17.5,2.9
 "OAK","BAL - Watkins ( R )","Kevin Smith","Seth Brown",4600,17.5,3.8
 "NYM","SF - Cobb ( R )","Robinson Cano","Travis Jankowski",5100,17.5,3.4
@@ -676,8 +599,6 @@
 "OAK","BAL - Watkins ( R )","Kevin Smith","Tony Kemp",4800,17.4,3.6
 "BAL","@OAK - Montas ( R )","Robinson Chirinos","Ryan Mountcastle",5300,17.4,3.3
 "LAA","@HOU - Garcia ( R )","Max Stassi","Tyler Wade",4900,17.4,3.5
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Nelson Cruz",5000,17.3,3.5
-"WSH","ARI - Bumgarner ( L )","Lucius Fox","Nelson Cruz",5000,17.3,3.5
 "LAA","@HOU - Garcia ( R )","Max Stassi","Taylor Ward",5200,17.3,3.3
 "NYM","SF - Cobb ( R )","James McCann","Jeff McNeil",5400,17.3,3.2
 "PIT","@MIL - Lauer ( L )","Cole Tucker","Michael Chavis",5000,17.3,3.5
@@ -706,9 +627,6 @@
 "COL","PHI - Nola ( R )","Dom Nunez","Ryan McMahon",6400,17.1,2.7
 "CHC","TB - McClanahan ( L )","Frank Schwindel","Nico Hoerner",5200,17.1,3.3
 "CHC","TB - McClanahan ( L )","Michael Hermosillo","Seiya Suzuki",5600,17.1,3.1
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Ketel Marte",5600,17.1,3.1
-"ARI","@WAS - Gray ( R )","Jake McCarthy","Ketel Marte",5000,17.1,3.4
-"ARI","@WAS - Gray ( R )","Jose Herrera","Ketel Marte",5000,17.1,3.4
 "HOU","LAA - Lorenzen ( R )","Michael Brantley","Niko Goodrum",4800,17.1,3.6
 "PIT","@MIL - Lauer ( L )","Michael Chavis","Roberto Perez",5000,17,3.4
 "CHC","TB - McClanahan ( L )","Clint Frazier","Nico Hoerner",4900,17,3.5
@@ -719,7 +637,6 @@
 "NYM","SF - Cobb ( R )","Jeff McNeil","Travis Jankowski",5400,17,3.1
 "CHC","TB - McClanahan ( L )","Nico Hoerner","Patrick Wisdom",4900,17,3.5
 "PIT","@MIL - Lauer ( L )","Diego Castillo","Yoshi Tsutsugo",5100,16.9,3.3
-"ARI","@WAS - Gray ( R )","Seth Beer","Yonny Hernandez",4500,16.9,3.8
 "SD","CIN - Lodolo ( L )","Eric Hosmer","Luke Voit",5700,16.9,3
 "BAL","@OAK - Montas ( R )","Jorge Mateo","Ramon Urias",4800,16.9,3.5
 "LAA","@HOU - Garcia ( R )","Taylor Ward","Tyler Wade",4500,16.9,3.8
@@ -727,7 +644,6 @@
 "CIN","@SD - Manaea ( L )","Tommy Pham","Tyler Naquin",5700,16.9,3
 "OAK","BAL - Watkins ( R )","Jed Lowrie","Kevin Smith",4800,16.9,3.5
 "PIT","@MIL - Lauer ( L )","Diego Castillo","Kevin Newman",5000,16.9,3.4
-"WSH","ARI - Bumgarner ( L )","Juan Soto","Riley Adams",6200,16.9,2.7
 "SD","CIN - Lodolo ( L )","Jorge Alfaro","Jurickson Profar",5000,16.9,3.4
 "HOU","LAA - Lorenzen ( R )","Chas McCormick","Martin Maldonado",4600,16.9,3.7
 "LAD","ATL - Ynoa ( R )","Gavin Lux","Max Muncy",6600,16.9,2.6
@@ -735,7 +651,6 @@
 "CIN","@SD - Manaea ( L )","Jake Fraley","Tyler Stephenson",5500,16.9,3.1
 "SD","CIN - Lodolo ( L )","Eric Hosmer","Wil Myers",5500,16.9,3.1
 "LAA","@HOU - Garcia ( R )","Jo Adell","Tyler Wade",4600,16.8,3.7
-"ARI","@WAS - Gray ( R )","David Peralta","Yonny Hernandez",4500,16.8,3.7
 "LAA","@HOU - Garcia ( R )","Jo Adell","Taylor Ward",4900,16.8,3.4
 "PHI","@COL - Kuhl ( R )","Alec Bohm","Didi Gregorius",6000,16.8,2.8
 "CIN","@SD - Manaea ( L )","Joey Votto","Mike Moustakas",5200,16.8,3.2
@@ -755,7 +670,6 @@
 "PIT","@MIL - Lauer ( L )","Bryan Reynolds","Hoy Park",5200,16.7,3.2
 "SD","CIN - Lodolo ( L )","Matt Beaty","Wil Myers",4700,16.7,3.6
 "CHC","TB - McClanahan ( L )","Nick Madrigal","Nico Hoerner",4800,16.7,3.5
-"ARI","@WAS - Gray ( R )","Jordan Luplow","Ketel Marte",5000,16.7,3.3
 "PIT","@MIL - Lauer ( L )","Dan Vogelbach","Ke'Bryan Hayes",6100,16.7,2.7
 "COL","PHI - Nola ( R )","Charlie Blackmon","Dom Nunez",5900,16.7,2.8
 "LAA","@HOU - Garcia ( R )","Andrew Velazquez","Jo Adell",4600,16.7,3.6
@@ -768,13 +682,10 @@
 "SD","CIN - Lodolo ( L )","Jake Cronenworth","Matt Beaty",5100,16.6,3.3
 "ATL","@LAD - Kershaw ( L )","Adam Duvall","Alex Dickerson",5400,16.6,3.1
 "CIN","@SD - Manaea ( L )","Aristides Aquino","Tyler Naquin",5100,16.6,3.3
-"ARI","@WAS - Gray ( R )","Christian Walker","Yonny Hernandez",4400,16.6,3.8
 "COL","PHI - Nola ( R )","Dom Nunez","Randal Grichuk",5700,16.6,2.9
 "NYM","SF - Cobb ( R )","James McCann","Travis Jankowski",5000,16.5,3.3
 "BAL","@OAK - Montas ( R )","Anthony Santander","Robinson Chirinos",5000,16.5,3.3
 "TB","@CHC - Hendricks ( R )","Francisco Mejia","Josh Lowe",4900,16.5,3.4
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Juan Soto",6200,16.5,2.7
-"WSH","ARI - Bumgarner ( L )","Juan Soto","Lucius Fox",6200,16.5,2.7
 "PIT","@MIL - Lauer ( L )","Cole Tucker","Jake Marisnick",4600,16.5,3.6
 "CIN","@SD - Manaea ( L )","Brandon Drury","Joey Votto",5500,16.5,3
 "ATL","@LAD - Kershaw ( L )","Manny Pina","Matt Olson",5900,16.5,2.8
@@ -785,9 +696,6 @@
 "HOU","LAA - Lorenzen ( R )","Chas McCormick","Niko Goodrum",4400,16.3,3.7
 "TB","@CHC - Hendricks ( R )","Francisco Mejia","Kevin Kiermaier",4500,16.3,3.6
 "TB","@CHC - Hendricks ( R )","Francisco Mejia","Yandy Diaz",4900,16.3,3.3
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Daulton Varsho",5000,16.3,3.3
-"ARI","@WAS - Gray ( R )","Daulton Varsho","Jake McCarthy",4400,16.3,3.7
-"ARI","@WAS - Gray ( R )","Daulton Varsho","Jose Herrera",4400,16.3,3.7
 "LAA","@HOU - Garcia ( R )","Kurt Suzuki","Shohei Ohtani",6400,16.3,2.6
 "CHC","TB - McClanahan ( L )","Nico Hoerner","Seiya Suzuki",5700,16.3,2.9
 "LAA","@HOU - Garcia ( R )","Jack Mayfield","Shohei Ohtani",7300,16.3,2.2
@@ -808,7 +716,6 @@
 "PHI","@COL - Kuhl ( R )","Bryson Stott","Johan Camargo",5600,16.1,2.9
 "SD","CIN - Lodolo ( L )","Austin Nola","Matt Beaty",4800,16.1,3.4
 "ATL","@LAD - Kershaw ( L )","Alex Dickerson","Austin Riley",6100,16.1,2.6
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Yadiel Hernandez",5300,16.1,3
 "CHC","TB - McClanahan ( L )","Jonathan Villar","Patrick Wisdom",5000,16.1,3.2
 "CHC","TB - McClanahan ( L )","Clint Frazier","Rafael Ortega",4900,16.1,3.3
 "SD","CIN - Lodolo ( L )","Ha-Seong Kim","Matt Beaty",4500,16,3.6
@@ -816,7 +723,6 @@
 "PIT","@MIL - Lauer ( L )","Hoy Park","Ke'Bryan Hayes",5700,16,2.8
 "CHC","TB - McClanahan ( L )","Patrick Wisdom","Rafael Ortega",4900,16,3.3
 "PIT","@MIL - Lauer ( L )","Cole Tucker","Diego Castillo",4600,16,3.5
-"ARI","@WAS - Gray ( R )","Daulton Varsho","Jordan Luplow",4400,15.9,3.6
 "TB","@CHC - Hendricks ( R )","Brett Phillips","Ji-Man Choi",5500,15.9,2.9
 "ATL","@LAD - Kershaw ( L )","Manny Pina","Travis d'Arnaud",5200,15.9,3.1
 "CHC","TB - McClanahan ( L )","Ian Happ","Jonathan Villar",5400,15.9,2.9
@@ -834,12 +740,10 @@
 "OAK","BAL - Watkins ( R )","Sean Murphy","Stephen Vogt",4600,15.8,3.4
 "PIT","@MIL - Lauer ( L )","Cole Tucker","Kevin Newman",5000,15.8,3.2
 "SF","@NYM - Megill ( R )","Austin Slater","Mike Yastrzemski",4900,15.8,3.2
-"ARI","@WAS - Gray ( R )","Pavin Smith","Yonny Hernandez",4300,15.8,3.7
 "OAK","BAL - Watkins ( R )","Billy McKinney","Kevin Smith",4500,15.7,3.5
 "SD","CIN - Lodolo ( L )","Austin Nola","C.J. Abrams",5200,15.7,3
 "OAK","BAL - Watkins ( R )","Drew Jackson","Seth Brown",4500,15.7,3.5
 "CHC","TB - McClanahan ( L )","Nick Madrigal","Rafael Ortega",4800,15.7,3.3
-"WSH","ARI - Bumgarner ( L )","Josh Bell","Yadiel Hernandez",6300,15.7,2.5
 "ATL","@LAD - Kershaw ( L )","Austin Riley","Manny Pina",5900,15.7,2.7
 "OAK","BAL - Watkins ( R )","Drew Jackson","Sean Murphy",4600,15.7,3.4
 "TB","@CHC - Hendricks ( R )","Manuel Margot","Taylor Walls",4800,15.7,3.3
@@ -854,7 +758,6 @@
 "OAK","BAL - Watkins ( R )","Seth Brown","Stephen Piscotty",4700,15.6,3.3
 "OAK","BAL - Watkins ( R )","Sean Murphy","Stephen Piscotty",4800,15.6,3.2
 "MIL","PIT - Thompson ( R )","Omar Narvaez","Tyrone Taylor",4200,15.6,3.7
-"WSH","ARI - Bumgarner ( L )","Lane Thomas","Yadiel Hernandez",4900,15.6,3.2
 "LAD","ATL - Ynoa ( R )","Hanser Alberto","Will Smith",5800,15.6,2.7
 "OAK","BAL - Watkins ( R )","Drew Jackson","Tony Kemp",4700,15.6,3.3
 "SF","@NYM - Megill ( R )","Mike Yastrzemski","Tommy La Stella",4900,15.6,3.2
@@ -868,7 +771,6 @@
 "PIT","@MIL - Lauer ( L )","Kevin Newman","Roberto Perez",5000,15.5,3.1
 "OAK","BAL - Watkins ( R )","Stephen Piscotty","Tony Kemp",4900,15.5,3.2
 "ATL","@LAD - Kershaw ( L )","Manny Pina","Marcell Ozuna",5100,15.4,3
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Riley Adams",4700,15.4,3.3
 "CHC","TB - McClanahan ( L )","Jonathan Villar","Seiya Suzuki",5800,15.4,2.7
 "PHI","@COL - Kuhl ( R )","Alec Bohm","Matt Vierling",6100,15.4,2.5
 "OAK","BAL - Watkins ( R )","Austin Allen","Seth Brown",4500,15.4,3.4
@@ -891,7 +793,6 @@
 "SF","@NYM - Megill ( R )","Mauricio Dubon","Mike Yastrzemski",4800,15.2,3.2
 "OAK","BAL - Watkins ( R )","Elvis Andrus","Kevin Smith",4900,15.2,3.1
 "CIN","@SD - Manaea ( L )","Brandon Drury","Mike Moustakas",4700,15.2,3.2
-"ARI","@WAS - Gray ( R )","Carson Kelly","Yonny Hernandez",4100,15.2,3.7
 "OAK","BAL - Watkins ( R )","Austin Allen","Tony Kemp",4700,15.2,3.2
 "LAD","ATL - Ynoa ( R )","Hanser Alberto","Mookie Betts",5900,15.2,2.6
 "OAK","BAL - Watkins ( R )","Jed Lowrie","Stephen Vogt",4700,15.2,3.2
@@ -905,14 +806,11 @@
 "ATL","@LAD - Kershaw ( L )","Guillermo Heredia","Ozzie Albies",6000,15.1,2.5
 "CHC","TB - McClanahan ( L )","Clint Frazier","Jason Heyward",4800,15.1,3.1
 "NYM","SF - Cobb ( R )","Francisco Lindor","Tomas Nido",5900,15.1,2.6
-"WSH","ARI - Bumgarner ( L )","Josh Bell","Riley Adams",5700,15.1,2.6
 "COL","PHI - Nola ( R )","Dom Nunez","Elias Diaz",5700,15,2.6
 "NYM","SF - Cobb ( R )","Brandon Nimmo","Pete Alonso",7500,15,2
 "NYM","SF - Cobb ( R )","Mark Canha","Pete Alonso",6900,15,2.2
 "OAK","BAL - Watkins ( R )","Christian Bethancourt","Jed Lowrie",4700,15,3.2
 "COL","PHI - Nola ( R )","C.J. Cron","Yonathan Daza",6800,15,2.2
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Donovan Casey",4700,15,3.2
-"WSH","ARI - Bumgarner ( L )","Cesar Hernandez","Lucius Fox",4700,15,3.2
 "TB","@CHC - Hendricks ( R )","Brett Phillips","Mike Zunino",4200,15,3.6
 "PIT","@MIL - Lauer ( L )","Dan Vogelbach","Jake Marisnick",5000,15,3
 "CHC","TB - McClanahan ( L )","Jason Heyward","Patrick Wisdom",4800,15,3.1
@@ -920,9 +818,7 @@
 "LAD","ATL - Ynoa ( R )","Austin Barnes","Justin Turner",5400,15,2.8
 "SD","CIN - Lodolo ( L )","Jose Azocar","Manny Machado",6100,15,2.5
 "SF","@NYM - Megill ( R )","Brandon Crawford","Luke Williams",4700,14.9,3.2
-"ARI","@WAS - Gray ( R )","Sergio Alcantara","Yonny Hernandez",4100,14.9,3.6
 "TB","@CHC - Hendricks ( R )","Harold Ramirez","Ji-Man Choi",5700,14.9,2.6
-"WSH","ARI - Bumgarner ( L )","Lane Thomas","Riley Adams",4300,14.9,3.5
 "CIN","@SD - Manaea ( L )","Jake Fraley","Mike Moustakas",4600,14.9,3.2
 "TB","@CHC - Hendricks ( R )","Francisco Mejia","Taylor Walls",4500,14.9,3.3
 "ATL","@LAD - Kershaw ( L )","Alex Dickerson","Eddie Rosario",4600,14.9,3.2
@@ -942,7 +838,6 @@
 "HOU","LAA - Lorenzen ( R )","Jason Castro","Yordan Alvarez",5700,14.8,2.6
 "CHC","TB - McClanahan ( L )","Jason Heyward","Nick Madrigal",4700,14.8,3.1
 "LAD","ATL - Ynoa ( R )","Austin Barnes","Cody Bellinger",5100,14.7,2.9
-"WSH","ARI - Bumgarner ( L )","Maikel Franco","Yadiel Hernandez",5300,14.7,2.8
 "OAK","BAL - Watkins ( R )","Austin Allen","Jed Lowrie",4700,14.7,3.1
 "LAD","ATL - Ynoa ( R )","Freddie Freeman","Hanser Alberto",5700,14.7,2.6
 "NYM","SF - Cobb ( R )","Nick Plummer","Starling Marte",6000,14.7,2.5
@@ -950,17 +845,12 @@
 "NYM","SF - Cobb ( R )","Matt Reynolds","Starling Marte",6000,14.7,2.5
 "PIT","@MIL - Lauer ( L )","Ben Gamel","Jake Marisnick",5200,14.7,2.8
 "LAA","@HOU - Garcia ( R )","Jared Walsh","Matt Duffy",5500,14.7,2.7
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Josh Bell",5700,14.7,2.6
-"WSH","ARI - Bumgarner ( L )","Josh Bell","Lucius Fox",5700,14.7,2.6
 "CHC","TB - McClanahan ( L )","Jonathan Villar","Michael Hermosillo",4800,14.7,3.1
 "ATL","@LAD - Kershaw ( L )","Alex Dickerson","Dansby Swanson",4800,14.7,3.1
 "MIL","PIT - Thompson ( R )","Keston Hiura","Willy Adames",5200,14.6,2.8
 "HOU","LAA - Lorenzen ( R )","Joe Perez","Yordan Alvarez",5700,14.6,2.6
 "CIN","@SD - Manaea ( L )","Aramis Garcia","Jonathan India",5200,14.6,2.8
 "MIL","PIT - Thompson ( R )","Christian Yelich","Victor Caratini",5100,14.6,2.9
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Seth Beer",5100,14.6,2.9
-"ARI","@WAS - Gray ( R )","Jake McCarthy","Seth Beer",4500,14.6,3.2
-"ARI","@WAS - Gray ( R )","Jose Herrera","Seth Beer",4500,14.6,3.2
 "LAA","@HOU - Garcia ( R )","Jared Walsh","Kurt Suzuki",5200,14.6,2.8
 "SD","CIN - Lodolo ( L )","Eric Hosmer","Jurickson Profar",5600,14.6,2.6
 "NYM","SF - Cobb ( R )","J.D. Davis","Pete Alonso",6600,14.6,2.2
@@ -970,11 +860,6 @@
 "NYM","SF - Cobb ( R )","Luis Guillorme","Pete Alonso",6000,14.6,2.4
 "LAA","@HOU - Garcia ( R )","Jack Mayfield","Jared Walsh",6100,14.5,2.4
 "SF","@NYM - Megill ( R )","Austin Slater","Darin Ruf",5000,14.5,2.9
-"ARI","@WAS - Gray ( R )","Cooper Hummel","David Peralta",5100,14.5,2.8
-"ARI","@WAS - Gray ( R )","David Peralta","Jake McCarthy",4500,14.5,3.2
-"ARI","@WAS - Gray ( R )","David Peralta","Jose Herrera",4500,14.5,3.2
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Lane Thomas",4300,14.5,3.4
-"WSH","ARI - Bumgarner ( L )","Lane Thomas","Lucius Fox",4300,14.5,3.4
 "HOU","LAA - Lorenzen ( R )","Jose Altuve","Jose Siri",5400,14.5,2.7
 "CHC","TB - McClanahan ( L )","Willson Contreras","Yan Gomes",5400,14.5,2.7
 "COL","PHI - Nola ( R )","Jose Iglesias","Sam Hilliard",5600,14.5,2.6
@@ -983,13 +868,11 @@
 "LAD","ATL - Ynoa ( R )","Austin Barnes","Edwin Rios",4000,14.5,3.6
 "COL","PHI - Nola ( R )","Connor Joe","Yonathan Daza",6200,14.4,2.3
 "SD","CIN - Lodolo ( L )","Jurickson Profar","Matt Beaty",4800,14.4,3
-"WSH","ARI - Bumgarner ( L )","Keibert Ruiz","Yadiel Hernandez",5300,14.4,2.7
 "NYM","SF - Cobb ( R )","Nick Plummer","Pete Alonso",6000,14.4,2.4
 "SF","@NYM - Megill ( R )","Austin Slater","Joc Pederson",5400,14.4,2.7
 "NYM","SF - Cobb ( R )","Matt Reynolds","Pete Alonso",6000,14.4,2.4
 "MIL","PIT - Thompson ( R )","Keston Hiura","Kolten Wong",4800,14.4,3
 "NYM","SF - Cobb ( R )","Francisco Lindor","J.D. Davis",6500,14.4,2.2
-"ARI","@WAS - Gray ( R )","Geraldo Perdomo","Yonny Hernandez",4400,14.4,3.3
 "CIN","@SD - Manaea ( L )","Aramis Garcia","Tommy Pham",5000,14.4,2.9
 "HOU","LAA - Lorenzen ( R )","Jose Siri","Michael Brantley",4800,14.4,3
 "NYM","SF - Cobb ( R )","Francisco Lindor","Luis Guillorme",5900,14.4,2.4
@@ -1004,16 +887,12 @@
 "PIT","@MIL - Lauer ( L )","Dan Vogelbach","Kevin Newman",5400,14.3,2.6
 "PIT","@MIL - Lauer ( L )","Hoy Park","Jake Marisnick",4600,14.3,3.1
 "OAK","BAL - Watkins ( R )","Kevin Smith","Sheldon Neuse",4300,14.3,3.3
-"ARI","@WAS - Gray ( R )","Christian Walker","Cooper Hummel",5000,14.3,2.9
-"ARI","@WAS - Gray ( R )","Christian Walker","Jake McCarthy",4400,14.3,3.2
-"ARI","@WAS - Gray ( R )","Christian Walker","Jose Herrera",4400,14.3,3.2
 "ATL","@LAD - Kershaw ( L )","Dansby Swanson","Manny Pina",4600,14.3,3.1
 "SF","@NYM - Megill ( R )","Curt Casali","Darin Ruf",4800,14.3,3
 "CIN","@SD - Manaea ( L )","Mike Moustakas","Tyler Naquin",4900,14.2,2.9
 "NYM","SF - Cobb ( R )","Francisco Lindor","Nick Plummer",5900,14.2,2.4
 "NYM","SF - Cobb ( R )","Francisco Lindor","Matt Reynolds",5900,14.2,2.4
 "PIT","@MIL - Lauer ( L )","Bryan Reynolds","Josh VanMeter",4900,14.2,2.9
-"ARI","@WAS - Gray ( R )","Jordan Luplow","Seth Beer",4500,14.2,3.2
 "SF","@NYM - Megill ( R )","Joc Pederson","Tommy La Stella",5400,14.2,2.6
 "TB","@CHC - Hendricks ( R )","Brett Phillips","Kevin Kiermaier",4100,14.2,3.5
 "TB","@CHC - Hendricks ( R )","Brett Phillips","Yandy Diaz",4500,14.2,3.2
@@ -1021,11 +900,9 @@
 "SF","@NYM - Megill ( R )","Curt Casali","Joc Pederson",5200,14.2,2.7
 "SD","CIN - Lodolo ( L )","Eric Hosmer","Jorge Alfaro",5000,14.1,2.8
 "MIL","PIT - Thompson ( R )","Andrew McCutchen","Victor Caratini",4900,14.1,2.9
-"ARI","@WAS - Gray ( R )","David Peralta","Jordan Luplow",4500,14.1,3.1
 "SF","@NYM - Megill ( R )","Darin Ruf","Luke Williams",4800,14.1,2.9
 "MIL","PIT - Thompson ( R )","Keston Hiura","Rowdy Tellez",4600,14.1,3.1
 "ATL","@LAD - Kershaw ( L )","Guillermo Heredia","Matt Olson",5900,14.1,2.4
-"WSH","ARI - Bumgarner ( L )","Maikel Franco","Riley Adams",4700,14.1,3
 "SD","CIN - Lodolo ( L )","C.J. Abrams","Jurickson Profar",5200,14.1,2.7
 "CIN","@SD - Manaea ( L )","Aramis Garcia","Aristides Aquino",4400,14.1,3.2
 "BAL","@OAK - Montas ( R )","Anthony Bemboom","Austin Hays",4500,14.1,3.1
@@ -1049,7 +926,6 @@
 "COL","PHI - Nola ( R )","Dom Nunez","Jose Iglesias",5600,13.9,2.5
 "OAK","BAL - Watkins ( R )","Billy McKinney","Christian Bethancourt",4400,13.9,3.2
 "SF","@NYM - Megill ( R )","Joc Pederson","Mauricio Dubon",5300,13.9,2.6
-"ARI","@WAS - Gray ( R )","Christian Walker","Jordan Luplow",4400,13.9,3.2
 "HOU","LAA - Lorenzen ( R )","Aledmys Diaz","Michael Brantley",4900,13.9,2.8
 "ATL","@LAD - Kershaw ( L )","Adam Duvall","Guillermo Heredia",5200,13.8,2.7
 "CHC","TB - McClanahan ( L )","Jonathan Villar","Nico Hoerner",4900,13.8,2.8
@@ -1063,18 +939,14 @@
 "BAL","@OAK - Montas ( R )","Cedric Mullins","Chris Owings",5000,13.8,2.8
 "PIT","@MIL - Lauer ( L )","Diego Castillo","Hoy Park",4600,13.8,3
 "HOU","LAA - Lorenzen ( R )","Joe Perez","Jose Altuve",5400,13.8,2.6
-"WSH","ARI - Bumgarner ( L )","Keibert Ruiz","Riley Adams",4700,13.8,2.9
 "HOU","LAA - Lorenzen ( R )","Jason Castro","Michael Brantley",4800,13.8,2.9
 "CHC","TB - McClanahan ( L )","Nico Hoerner","Rafael Ortega",4800,13.8,2.9
 "SD","CIN - Lodolo ( L )","Jose Azocar","Wil Myers",4700,13.7,2.9
 "COL","PHI - Nola ( R )","Alan Trejo","Elias Diaz",5700,13.7,2.4
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Yadiel Hernandez",4900,13.7,2.8
 "HOU","LAA - Lorenzen ( R )","Jason Castro","Kyle Tucker",5500,13.7,2.5
 "MIL","PIT - Thompson ( R )","Kolten Wong","Victor Caratini",4700,13.7,2.9
 "MIL","PIT - Thompson ( R )","Keston Hiura","Lorenzo Cain",4500,13.7,3
 "CIN","@SD - Manaea ( L )","Aramis Garcia","Tyler Stephenson",5100,13.7,2.7
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Maikel Franco",4700,13.7,2.9
-"WSH","ARI - Bumgarner ( L )","Lucius Fox","Maikel Franco",4700,13.7,2.9
 "SD","CIN - Lodolo ( L )","Jake Cronenworth","Jose Azocar",5100,13.7,2.7
 "SD","CIN - Lodolo ( L )","C.J. Abrams","Jorge Alfaro",4600,13.6,3
 "MIL","PIT - Thompson ( R )","Mike Brosseau","Willy Adames",5200,13.6,2.6
@@ -1096,9 +968,6 @@
 "NYM","SF - Cobb ( R )","Eduardo Escobar","Tomas Nido",5600,13.5,2.4
 "ATL","@LAD - Kershaw ( L )","Guillermo Heredia","Travis d'Arnaud",5200,13.5,2.6
 "PIT","@MIL - Lauer ( L )","Josh VanMeter","Ke'Bryan Hayes",5400,13.5,2.5
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Pavin Smith",4900,13.4,2.7
-"ARI","@WAS - Gray ( R )","Jake McCarthy","Pavin Smith",4300,13.4,3.1
-"ARI","@WAS - Gray ( R )","Jose Herrera","Pavin Smith",4300,13.4,3.1
 "HOU","LAA - Lorenzen ( R )","Aledmys Diaz","Alex Bregman",5700,13.4,2.4
 "OAK","BAL - Watkins ( R )","Cristian Pache","Kevin Smith",4400,13.4,3.1
 "HOU","LAA - Lorenzen ( R )","Jason Castro","Yuli Gurriel",4800,13.4,2.8
@@ -1109,8 +978,6 @@
 "BAL","@OAK - Montas ( R )","Cedric Mullins","Kelvin Gutierrez",5200,13.4,2.6
 "TB","@CHC - Hendricks ( R )","Harold Ramirez","Josh Lowe",4700,13.4,2.8
 "PIT","@MIL - Lauer ( L )","Cole Tucker","Dan Vogelbach",5000,13.4,2.7
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Keibert Ruiz",4700,13.4,2.8
-"WSH","ARI - Bumgarner ( L )","Keibert Ruiz","Lucius Fox",4700,13.4,2.8
 "OAK","BAL - Watkins ( R )","Christian Bethancourt","Elvis Andrus",4800,13.4,2.8
 "HOU","LAA - Lorenzen ( R )","Alex Bregman","Jason Castro",5600,13.3,2.4
 "ATL","@LAD - Kershaw ( L )","Austin Riley","Guillermo Heredia",5900,13.3,2.3
@@ -1130,7 +997,6 @@
 "TB","@CHC - Hendricks ( R )","Harold Ramirez","Yandy Diaz",4700,13.2,2.8
 "BAL","@OAK - Montas ( R )","Anthony Bemboom","Rougned Odor",4200,13.2,3.1
 "ATL","@LAD - Kershaw ( L )","Manny Pina","Orlando Arcia",4400,13.2,3
-"WSH","ARI - Bumgarner ( L )","Victor Robles","Yadiel Hernandez",4800,13.2,2.7
 "COL","PHI - Nola ( R )","Charlie Blackmon","Yonathan Daza",5900,13.1,2.2
 "OAK","BAL - Watkins ( R )","Chad Pinder","Stephen Vogt",4800,13.1,2.7
 "SD","CIN - Lodolo ( L )","Austin Nola","Jose Azocar",4800,13.1,2.7
@@ -1145,8 +1011,6 @@
 "PIT","@MIL - Lauer ( L )","Ben Gamel","Cole Tucker",5200,13.1,2.5
 "OAK","BAL - Watkins ( R )","Austin Allen","Elvis Andrus",4800,13.1,2.7
 "OAK","BAL - Watkins ( R )","Chad Pinder","Drew Jackson",4800,13.1,2.7
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Riley Adams",4300,13,3
-"ARI","@WAS - Gray ( R )","Jordan Luplow","Pavin Smith",4300,13,3
 "LAD","ATL - Ynoa ( R )","Hanser Alberto","Justin Turner",5500,13,2.4
 "ATL","@LAD - Kershaw ( L )","Guillermo Heredia","Marcell Ozuna",5100,13,2.6
 "HOU","LAA - Lorenzen ( R )","Chas McCormick","Jason Castro",4400,13,3
@@ -1165,9 +1029,6 @@
 "LAA","@HOU - Garcia ( R )","Jose Rojas","Kurt Suzuki",4000,12.9,3.2
 "HOU","LAA - Lorenzen ( R )","Chas McCormick","Joe Perez",4400,12.9,2.9
 "SF","@NYM - Megill ( R )","Thairo Estrada","Tommy La Stella",5100,12.9,2.5
-"ARI","@WAS - Gray ( R )","Carson Kelly","Cooper Hummel",4700,12.9,2.7
-"ARI","@WAS - Gray ( R )","Carson Kelly","Jake McCarthy",4100,12.9,3.1
-"ARI","@WAS - Gray ( R )","Carson Kelly","Jose Herrera",4100,12.9,3.1
 "CHC","TB - McClanahan ( L )","Jonathan Villar","Rafael Ortega",4900,12.9,2.6
 "LAA","@HOU - Garcia ( R )","Jack Mayfield","Jose Rojas",4900,12.9,2.6
 "SF","@NYM - Megill ( R )","Curt Casali","Thairo Estrada",4900,12.8,2.6
@@ -1188,14 +1049,9 @@
 "PIT","@MIL - Lauer ( L )","Cole Tucker","Hoy Park",4600,12.7,2.8
 "CHC","TB - McClanahan ( L )","Patrick Wisdom","Yan Gomes",4500,12.7,2.8
 "NYM","SF - Cobb ( R )","Eduardo Escobar","Nick Plummer",5600,12.7,2.3
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Donovan Casey",4300,12.6,2.9
-"WSH","ARI - Bumgarner ( L )","Alcides Escobar","Lucius Fox",4300,12.6,2.9
 "NYM","SF - Cobb ( R )","Eduardo Escobar","Matt Reynolds",5600,12.6,2.3
 "PIT","@MIL - Lauer ( L )","Josh VanMeter","Michael Chavis",4700,12.6,2.7
 "COL","PHI - Nola ( R )","Brendan Rodgers","Yonathan Daza",5400,12.6,2.3
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Sergio Alcantara",4700,12.6,2.7
-"ARI","@WAS - Gray ( R )","Jake McCarthy","Sergio Alcantara",4100,12.6,3.1
-"ARI","@WAS - Gray ( R )","Jose Herrera","Sergio Alcantara",4100,12.6,3.1
 "NYM","SF - Cobb ( R )","Jeff McNeil","Tomas Nido",4900,12.6,2.6
 "BAL","@OAK - Montas ( R )","Austin Hays","Ryan McKenna",4500,12.6,2.8
 "CIN","@SD - Manaea ( L )","Donovan Solano","Tyler Stephenson",5100,12.6,2.5
@@ -1208,9 +1064,7 @@
 "BAL","@OAK - Montas ( R )","Austin Hays","Chris Owings",4500,12.6,2.8
 "SF","@NYM - Megill ( R )","Austin Slater","Joey Bart",5300,12.5,2.4
 "LAD","ATL - Ynoa ( R )","Edwin Rios","Hanser Alberto",4100,12.5,3.1
-"WSH","ARI - Bumgarner ( L )","Riley Adams","Victor Robles",4200,12.5,3
 "SF","@NYM - Megill ( R )","Steven Duggar","Tommy La Stella",4600,12.5,2.7
-"ARI","@WAS - Gray ( R )","Carson Kelly","Jordan Luplow",4100,12.5,3
 "OAK","BAL - Watkins ( R )","Drew Jackson","Sheldon Neuse",4200,12.5,3
 "CHC","TB - McClanahan ( L )","Ian Happ","Yan Gomes",4900,12.5,2.5
 "LAA","@HOU - Garcia ( R )","Anthony Rendon","Matt Duffy",5300,12.5,2.4
@@ -1240,7 +1094,6 @@
 "BAL","@OAK - Montas ( R )","Chris Owings","Ryan Mountcastle",5100,12.3,2.4
 "PHI","@COL - Kuhl ( R )","Garrett Stubbs","Simon Muzziotti",5000,12.3,2.5
 "BAL","@OAK - Montas ( R )","Anthony Bemboom","Jorge Mateo",4500,12.2,2.7
-"ARI","@WAS - Gray ( R )","Jordan Luplow","Sergio Alcantara",4100,12.2,3
 "PHI","@COL - Kuhl ( R )","Bryson Stott","Simon Muzziotti",5600,12.2,2.2
 "NYM","SF - Cobb ( R )","Brandon Nimmo","Dominic Smith",5700,12.2,2.1
 "NYM","SF - Cobb ( R )","Dominic Smith","Mark Canha",5100,12.2,2.4
@@ -1250,12 +1103,7 @@
 "BAL","@OAK - Montas ( R )","Austin Hays","Kelvin Gutierrez",4700,12.1,2.6
 "SF","@NYM - Megill ( R )","Joey Bart","Luke Williams",5100,12.1,2.4
 "OAK","BAL - Watkins ( R )","Austin Allen","Sheldon Neuse",4200,12.1,2.9
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Victor Robles",4200,12.1,2.9
-"WSH","ARI - Bumgarner ( L )","Lucius Fox","Victor Robles",4200,12.1,2.9
 "ATL","@LAD - Kershaw ( L )","Eddie Rosario","Guillermo Heredia",4400,12.1,2.8
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Geraldo Perdomo",5000,12.1,2.4
-"ARI","@WAS - Gray ( R )","Geraldo Perdomo","Jake McCarthy",4400,12.1,2.7
-"ARI","@WAS - Gray ( R )","Geraldo Perdomo","Jose Herrera",4400,12.1,2.7
 "CHC","TB - McClanahan ( L )","Seiya Suzuki","Yan Gomes",5300,12,2.3
 "SF","@NYM - Megill ( R )","Joey Bart","Mauricio Dubon",5200,12,2.3
 "BAL","@OAK - Montas ( R )","Anthony Bemboom","Robinson Chirinos",4200,12,2.9
@@ -1288,7 +1136,6 @@
 "OAK","BAL - Watkins ( R )","Cristian Pache","Stephen Vogt",4300,11.7,2.7
 "LAD","ATL - Ynoa ( R )","Gavin Lux","Hanser Alberto",5300,11.7,2.2
 "BAL","@OAK - Montas ( R )","Chris Owings","Rougned Odor",4200,11.7,2.8
-"ARI","@WAS - Gray ( R )","Geraldo Perdomo","Jordan Luplow",4400,11.7,2.7
 "HOU","LAA - Lorenzen ( R )","Jeremy Pena","Jose Siri",4600,11.6,2.5
 "OAK","BAL - Watkins ( R )","Cristian Pache","Drew Jackson",4300,11.6,2.7
 "BAL","@OAK - Montas ( R )","Ramon Urias","Ryan McKenna",4300,11.6,2.7
@@ -1404,9 +1251,6 @@
 "HOU","LAA - Lorenzen ( R )","Joe Perez","Niko Goodrum",4000,8.8,2.2
 "SD","CIN - Lodolo ( L )","Eric Hosmer","Jose Azocar",4800,8.7,1.8
 "PIT","@MIL - Lauer ( L )","Dan Vogelbach","Josh VanMeter",4700,8.7,1.8
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Yonny Hernandez",4600,8.7,1.9
-"ARI","@WAS - Gray ( R )","Jake McCarthy","Yonny Hernandez",4000,8.7,2.2
-"ARI","@WAS - Gray ( R )","Jose Herrera","Yonny Hernandez",4000,8.7,2.2
 "SD","CIN - Lodolo ( L )","Jose Azocar","Matt Beaty",4000,8.6,2.1
 "OAK","BAL - Watkins ( R )","Kevin Smith","Stephen Vogt",4100,8.6,2.1
 "PIT","@MIL - Lauer ( L )","Andrew Knapp","Dan Vogelbach",4700,8.5,1.8
@@ -1416,16 +1260,12 @@
 "OAK","BAL - Watkins ( R )","Kevin Smith","Stephen Piscotty",4300,8.4,2
 "PIT","@MIL - Lauer ( L )","Ben Gamel","Josh VanMeter",4900,8.4,1.7
 "ATL","@LAD - Kershaw ( L )","Guillermo Heredia","Manny Pina",4000,8.4,2.1
-"ARI","@WAS - Gray ( R )","Jordan Luplow","Yonny Hernandez",4000,8.3,2.1
 "SD","CIN - Lodolo ( L )","C.J. Abrams","Jose Azocar",4400,8.2,1.9
 "PIT","@MIL - Lauer ( L )","Andrew Knapp","Ben Gamel",4900,8.2,1.7
 "OAK","BAL - Watkins ( R )","Austin Allen","Kevin Smith",4100,8.1,2
 "PIT","@MIL - Lauer ( L )","Hoy Park","Josh VanMeter",4300,8,1.9
-"WSH","ARI - Bumgarner ( L )","Riley Adams","Yadiel Hernandez",4600,7.9,1.7
 "PIT","@MIL - Lauer ( L )","Andrew Knapp","Hoy Park",4300,7.8,1.8
 "COL","PHI - Nola ( R )","Alan Trejo","Yonathan Daza",5000,7.8,1.6
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Yadiel Hernandez",4600,7.5,1.6
-"WSH","ARI - Bumgarner ( L )","Lucius Fox","Yadiel Hernandez",4600,7.5,1.6
 "LAD","ATL - Ynoa ( R )","Austin Barnes","Hanser Alberto",4100,7.4,1.8
 "TB","@CHC - Hendricks ( R )","Brett Phillips","Harold Ramirez",4200,7.2,1.7
 "NYM","SF - Cobb ( R )","Brandon Nimmo","Tomas Nido",5500,7.2,1.3
@@ -1433,8 +1273,6 @@
 "NYM","SF - Cobb ( R )","Brandon Nimmo","Mark Canha",6400,7,1.1
 "BAL","@OAK - Montas ( R )","Anthony Bemboom","Ryan McKenna",4000,6.9,1.7
 "BAL","@OAK - Montas ( R )","Anthony Bemboom","Chris Owings",4000,6.9,1.7
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Riley Adams",4000,6.8,1.7
-"WSH","ARI - Bumgarner ( L )","Lucius Fox","Riley Adams",4000,6.8,1.7
 "CIN","@SD - Manaea ( L )","Aramis Garcia","Donovan Solano",4000,6.8,1.7
 "OAK","BAL - Watkins ( R )","Drew Jackson","Stephen Vogt",4000,6.8,1.7
 "NYM","SF - Cobb ( R )","J.D. Davis","Tomas Nido",4600,6.7,1.5
@@ -1453,11 +1291,7 @@
 "CIN","@SD - Manaea ( L )","Aramis Garcia","Colin Moran",4400,6.5,1.5
 "NYM","SF - Cobb ( R )","Brandon Nimmo","Luis Guillorme",5500,6.5,1.2
 "NYM","SF - Cobb ( R )","Luis Guillorme","Mark Canha",4900,6.5,1.3
-"WSH","ARI - Bumgarner ( L )","Donovan Casey","Lucius Fox",4000,6.4,1.6
 "OAK","BAL - Watkins ( R )","Austin Allen","Stephen Vogt",4000,6.4,1.6
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Jake McCarthy",4600,6.4,1.4
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Jose Herrera",4600,6.4,1.4
-"ARI","@WAS - Gray ( R )","Jake McCarthy","Jose Herrera",4000,6.4,1.6
 "MIL","PIT - Thompson ( R )","Keston Hiura","Mike Brosseau",4400,6.4,1.4
 "NYM","SF - Cobb ( R )","Brandon Nimmo","Nick Plummer",5500,6.4,1.2
 "NYM","SF - Cobb ( R )","Mark Canha","Nick Plummer",4900,6.4,1.3
@@ -1475,9 +1309,6 @@
 "SF","@NYM - Megill ( R )","Curt Casali","Tommy La Stella",4200,6,1.4
 "NYM","SF - Cobb ( R )","J.D. Davis","Luis Guillorme",4600,6,1.3
 "SF","@NYM - Megill ( R )","Austin Slater","Mauricio Dubon",4300,6,1.4
-"ARI","@WAS - Gray ( R )","Cooper Hummel","Jordan Luplow",4600,6,1.3
-"ARI","@WAS - Gray ( R )","Jake McCarthy","Jordan Luplow",4000,6,1.5
-"ARI","@WAS - Gray ( R )","Jordan Luplow","Jose Herrera",4000,6,1.5
 "NYM","SF - Cobb ( R )","J.D. Davis","Nick Plummer",4600,5.9,1.3
 "SF","@NYM - Megill ( R )","Luke Williams","Tommy La Stella",4200,5.9,1.4
 "NYM","SF - Cobb ( R )","J.D. Davis","Matt Reynolds",4600,5.9,1.3
@@ -1504,9 +1335,7 @@ NA,NA,NA,"Brandon Lowe",NA,NA,NA
 NA,NA,NA,"Andrew McCutchen",NA,NA,NA
 NA,NA,NA,"Adam Duvall",NA,NA,NA
 NA,NA,NA,"Austin Nola",NA,NA,NA
-NA,NA,NA,"Carson Kelly",NA,NA,NA
 NA,NA,NA,"Clint Frazier",NA,NA,NA
-NA,NA,NA,"Alcides Escobar",NA,NA,NA
 NA,NA,NA,"Andrew Velazquez",NA,NA,NA
 NA,NA,NA,"Alan Trejo",NA,NA,NA
 NA,NA,NA,"Austin Barnes",NA,NA,NA
