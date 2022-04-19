@@ -1,11 +1,25 @@
 "Player","Team","Opp","AB","XBH","HR","RBI","BB","K","AVG","OPS"
-"Jared Walsh","LAA","@HOU - Garcia ( R )",11,"4","2","6","3","1",".636",2.051
-"Shohei Ohtani","LAA","@HOU - Garcia ( R )",12,"2","2","2","2","4",".333",1.262
-"Robinson Cano","NYM","SF - Cobb ( R )",28,"5","4","7","2","4",".357",1.241
-"Rougned Odor","BAL","@OAK - Montas ( R )",13,"3","1","5","0","3",".385",1.154
-"Charlie Blackmon","COL","PHI - Nola ( R )",19,"4","1","2","0","7",".368",1.053
-"Kris Bryant","COL","PHI - Nola ( R )",13,"2","1","3","1","7",".308",0.949
-"Eduardo Escobar","NYM","SF - Cobb ( R )",11,"1","1","3","1","4",".273",0.879
-"Bryan Reynolds","PIT","@MIL - Lauer ( L )",15,"1","0","0","0","4",".267",0.6
-"Kyle Schwarber","PHI","@COL - Kuhl ( R )",17,"2","0","1","1","5",".176",0.516
-"Marcell Ozuna","ATL","@LAD - Kershaw ( L )",14,"1","0","2","0","7",".143",0.429
+"Mike Moustakas","CIN","@SD - Musgrove ( R )",10,"3","3","6","0","1",".400",1.755
+"Eugenio Suarez","SEA","TEX - Gray ( R )",11,"2","2","4","3","2",".364",1.442
+"Anthony Rendon","LAA","@HOU - Valdez ( L )",10,"2","1","3","0","1",".500",1.4
+"Justin Turner","LAD","ATL - Fried ( L )",10,"2","1","1","0","2",".500",1.4
+"Joey Votto","CIN","@SD - Musgrove ( R )",18,"5","2","4","2","2",".389",1.339
+"Maikel Franco","WSH","ARI - Gilbert ( L )",14,"3","1","3","0","3",".429",1.252
+"Lourdes Gurriel","TOR","@BOS - Eovaldi ( R )",10,"1","1","2","2","2",".400",1.2
+"Bo Bichette","TOR","@BOS - Eovaldi ( R )",12,"1","1","2","0","1",".417",1.083
+"Carlos Santana","KC","MIN - Archer ( R )",18,"2","0","3","5","4",".389",1.022
+"Trea Turner","LAD","ATL - Fried ( L )",21,"2","1","2","3","5",".333",0.94
+"Jo Adell","LAA","@HOU - Valdez ( L )",10,"2","0","0","0","3",".300",0.9
+"Andrew Benintendi","KC","MIN - Archer ( R )",14,"1","0","2","3","2",".357",0.899
+"C.J. Cron","COL","PHI - Gibson ( R )",14,"1","1","3","1","5",".286",0.875
+"Bryan Reynolds","PIT","@MIL - Burnes ( R )",11,"1","0","2","1","5",".364",0.871
+"Shohei Ohtani","LAA","@HOU - Valdez ( L )",15,"1","1","1","4","6",".133",0.649
+"Corey Seager","TEX","@SEA - Ray ( L )",35,"5","2","6","2","16",".171",0.645
+"Adam Frazier","SEA","TEX - Gray ( R )",12,"1","0","1","0","0",".167",0.5
+"Bryce Harper","PHI","@COL - Freeland ( L )",14,"0","0","2","1","3",".214",0.464
+"Vladimir Guerrero Jr.","TOR","@BOS - Eovaldi ( R )",11,"0","0","1","1","2",".182",0.432
+"Jose Iglesias","COL","PHI - Gibson ( R )",20,"1","0","1","2","1",".100",0.367
+"Alex Dickerson","ATL","@LAD - Buehler ( R )",20,"0","0","1","1","9",".150",0.34
+"Kevin Newman","PIT","@MIL - Burnes ( R )",13,"0","0","1","1","3",".077",0.22
+"Omar Narvaez","MIL","PIT - Brubaker ( R )",10,"0","0","1","0","3",".100",0.2
+"Jose Altuve","HOU","LAA - Sandoval ( L )",10,"0","0","0","1","2",".000",0.091
