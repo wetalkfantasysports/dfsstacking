@@ -1,39 +1,39 @@
 "Pos","Player","Team","Opp","Salary","Proj","Value"
-"QB","Jalen Hurts","PHI","SF",7200,23.08,3.2
-"QB","Joe Burrow","CIN","@KC",6800,21.22,3.1
-"QB","Patrick Mahomes","KC","CIN",7600,20.27,2.7
-"WR","Ja'Marr Chase","CIN","@KC",7600,19.78,2.6
-"TE","Travis Kelce","KC","CIN",7800,19.76,2.5
-"RB","Christian McCaffrey","SF","@PHI",8000,17.89,2.2
-"WR","A.J. Brown","PHI","SF",7000,15.81,2.3
-"QB","Brock Purdy","SF","@PHI",5300,15.69,3
-"RB","Joe Mixon","CIN","@KC",6500,15.57,2.4
-"WR","DeVonta Smith","PHI","SF",6800,15.34,2.3
-"WR","Deebo Samuel","SF","@PHI",5700,14.65,2.6
-"WR","Tee Higgins","CIN","@KC",5400,13.33,2.5
+"QB","Jalen Hurts","PHI","SF",7200,23.36,3.2
+"QB","Patrick Mahomes","KC","CIN",7600,21.27,2.8
+"QB","Joe Burrow","CIN","@KC",6800,21.21,3.1
+"WR","Ja'Marr Chase","CIN","@KC",7600,19.77,2.6
+"TE","Travis Kelce","KC","CIN",7800,19.73,2.5
+"RB","Christian McCaffrey","SF","@PHI",8000,17.82,2.2
+"WR","A.J. Brown","PHI","SF",7000,15.82,2.3
+"QB","Brock Purdy","SF","@PHI",5300,15.63,2.9
+"WR","DeVonta Smith","PHI","SF",6800,15.25,2.2
+"RB","Joe Mixon","CIN","@KC",6500,15.22,2.3
+"WR","Deebo Samuel","SF","@PHI",5700,14.5,2.5
+"WR","Tee Higgins","CIN","@KC",5400,13.34,2.5
 "RB","Jerick McKinnon","KC","CIN",5400,12.08,2.2
-"WR","Brandon Aiyuk","SF","@PHI",4400,11.78,2.7
-"TE","George Kittle","SF","@PHI",5200,11.22,2.2
-"TE","Dallas Goedert","PHI","SF",4100,11.21,2.7
-"RB","Miles Sanders","PHI","SF",5200,10.92,2.1
-"WR","JuJu Smith-Schuster","KC","CIN",4700,10.52,2.2
-"RB","Isiah Pacheco","KC","CIN",5300,10.28,1.9
-"TE","Hayden Hurst","CIN","@KC",3000,9.22,3.1
-"WR","Tyler Boyd","CIN","@KC",3800,8,2.1
-"WR","Kadarius Toney","KC","CIN",3700,7.82,2.1
-"WR","Marquez Valdes-Scantling","KC","CIN",3600,7.07,2
-"RB","Samaje Perine","CIN","@KC",4500,7.05,1.6
-"RB","Eli Mitchell","SF","@PHI",4900,6.77,1.4
-"D","Eagles","PHI","SF",2800,6.69,2.4
-"D","49ers","SF","@PHI",3000,6.52,2.2
+"WR","Brandon Aiyuk","SF","@PHI",4400,11.73,2.7
+"TE","George Kittle","SF","@PHI",5200,11.15,2.1
+"TE","Dallas Goedert","PHI","SF",4100,11.15,2.7
+"RB","Miles Sanders","PHI","SF",5200,10.79,2.1
+"WR","JuJu Smith-Schuster","KC","CIN",4700,10.68,2.3
+"RB","Isiah Pacheco","KC","CIN",5300,10.24,1.9
+"TE","Hayden Hurst","CIN","@KC",3000,9.26,3.1
+"WR","Tyler Boyd","CIN","@KC",3800,8.04,2.1
+"WR","Kadarius Toney","KC","CIN",3700,7.63,2.1
+"WR","Marquez Valdes-Scantling","KC","CIN",3600,7.22,2
+"RB","Samaje Perine","CIN","@KC",4500,6.99,1.6
+"D","Eagles","PHI","SF",2800,6.65,2.4
+"D","49ers","SF","@PHI",3000,6.49,2.2
+"RB","Eli Mitchell","SF","@PHI",4900,6.41,1.3
 "D","Chiefs","KC","CIN",2500,6.41,2.6
-"D","Bengals","CIN","@KC",2300,5.53,2.4
-"RB","Kenneth Gainwell","PHI","SF",4800,5.1,1.1
-"WR","Jauan Jennings","SF","@PHI",3300,4.86,1.5
-"WR","Quez Watkins","PHI","SF",3100,4.19,1.4
-"TE","Noah Gray","KC","CIN",2500,3.26,1.3
-"WR","Justin Watson","KC","CIN",3000,2.58,0.9
-"RB","Boston Scott","PHI","SF",4600,2.29,0.5
+"D","Bengals","CIN","@KC",2300,5.54,2.4
+"RB","Kenneth Gainwell","PHI","SF",4800,5.14,1.1
+"WR","Jauan Jennings","SF","@PHI",3300,4.82,1.5
+"WR","Quez Watkins","PHI","SF",3100,4.17,1.3
+"TE","Noah Gray","KC","CIN",2500,3.25,1.3
+"WR","Justin Watson","KC","CIN",3000,2.77,0.9
+"RB","Boston Scott","PHI","SF",4600,2.32,0.5
 "WR","Trenton Irwin","CIN","@KC",3000,2.1,0.7
-"WR","Skyy Moore","KC","CIN",3000,1.84,0.6
-"RB","Kyle Juszczyk","SF","@PHI",4000,1.76,0.4
+"WR","Skyy Moore","KC","CIN",3000,1.91,0.6
+"RB","Kyle Juszczyk","SF","@PHI",4000,1.85,0.5
