@@ -9,6 +9,7 @@ class Player {
     }
 }
 
+
 let isTableRendered = false;
 let globalData = new Array();
 let globalHeaders = [];
@@ -69,102 +70,130 @@ function buildStack(positionOne, positionTwo, positionThree, positionFour) {
     for (const [team_key, player_list] of player_teams_map.entries()) {
         var player_cache=[];
         player_list.forEach(playerOne => {
-            var player_two_list = this.playerMap.get(positionTwo).get(team_key);
-            if (player_two_list) {
+            var postitionTwoSplit = positionTwo.split(' ');
+            if (postitionTwoSplit[0] == 'Opp') {
+                var opponent = playerOne.opponent.indexOf('@') > -1 ? playerOne.opponent.substring(1) : playerOne.opponent;
+                var player_two_list = this.playerMap.get(postitionTwoSplit[1]).get(opponent);
                 for (let i = 0; i < player_two_list.length; i++) {
                     let playerTwo = player_two_list[i];
-                    if (!positionThree) {
-                        var sortedString = [playerOne.name, playerTwo.name].sort().join('');
-                        if (player_cache.includes(sortedString)) {
-                            continue;
-                        }
-                        player_cache.push(sortedString);
-                        if (playerOne.name === playerTwo.name) {
-                            continue;
-                        }
-                        let projections = Math.round((playerOne.projection + playerTwo.projection) * 100 / 100);
-                        let salaries = Math.round((playerOne.salary + playerTwo.salary) * 100 / 100);
-                        rows.push([
-                            team_key,
-                            playerOne.opponent,
-                            playerOne.name,
-                            playerTwo.name,
-                            projections,
-                            `${(salaries / 1000).toFixed(1)}k`,
-                            (Math.round(((projections / salaries) * 1000) * 100) / 100).toFixed(2)
-                        ]);
-                    } else if (positionThree === 'Opp') {
-                        var opponent = playerOne.opponent.indexOf('@') > -1 ? playerOne.opponent.substring(1) : playerOne.opponent;
-                        var t = playerTwo.position === 'RB' ? ['WR', 'TE'] : oppPositions;
-                        t.forEach(oppPos => {
-                            var player_list = this.playerMap.get(oppPos).get(opponent);
-                            if (player_list) {
-                                for (let o = 0; o < player_list.length; o++) {
-                                    let opp = player_list[o];
-                                    let projections = Math.round((playerOne.projection + playerTwo.projection + opp.projection) * 100 / 100);
-                                    let salaries = Math.round((playerOne.salary + playerTwo.salary + opp.salary) * 100 / 100);
-                                    rows.push([
-                                        team_key,
-                                        playerOne.opponent,
-                                        playerOne.name,
-                                        playerTwo.name,
-                                        opp.name,
-                                        projections,
-                                        `${(salaries / 1000).toFixed(1)}k`,
-                                        (Math.round(((projections / salaries) * 1000) * 100) / 100).toFixed(2)
-                                    ]);
-                                }
+                    var sortedString = [playerOne.name, playerTwo.name].sort().join('');
+                    if (player_cache.includes(sortedString)) {
+                        continue;
+                    }
+                    player_cache.push(sortedString);
+                    if (playerOne.name === playerTwo.name) {
+                        continue;
+                    }
+                    let projections = Math.round((playerOne.projection + playerTwo.projection) * 100 / 100);
+                    let salaries = Math.round((playerOne.salary + playerTwo.salary) * 100 / 100);
+                    rows.push([
+                        team_key,
+                        playerOne.opponent,
+                        playerOne.name,
+                        playerTwo.name,
+                        projections,
+                        `${(salaries / 1000).toFixed(1)}k`,
+                        (Math.round(((projections / salaries) * 1000) * 100) / 100).toFixed(2)
+                    ]);
+                }
+            } else {
+                var player_two_list = this.playerMap.get(positionTwo).get(team_key);
+                if (player_two_list) {
+                    for (let i = 0; i < player_two_list.length; i++) {
+                        let playerTwo = player_two_list[i];
+                        if (!positionThree) {
+                            var sortedString = [playerOne.name, playerTwo.name].sort().join('');
+                            if (player_cache.includes(sortedString)) {
+                                continue;
                             }
-                        });
-                    } else {
-                        positionThree.split('/').forEach(pos => {
-                            var player_three_list = this.playerMap.get(pos).get(team_key);
-                            if (player_three_list) {
-                                var startIndex = positionTwo === pos ? i + 1 : 0;
-                                for (let j = startIndex; j < player_three_list.length; j++) {
-                                    let playerThree = player_three_list[j];
-
-                                    if (!positionFour) {
-                                        let projections = Math.round((playerOne.projection + playerTwo.projection + playerThree.projection) * 100 / 100);
-                                        let salaries = Math.round((playerOne.salary + playerTwo.salary + playerThree.salary) * 100 / 100);
+                            player_cache.push(sortedString);
+                            if (playerOne.name === playerTwo.name) {
+                                continue;
+                            }
+                            let projections = Math.round((playerOne.projection + playerTwo.projection) * 100 / 100);
+                            let salaries = Math.round((playerOne.salary + playerTwo.salary) * 100 / 100);
+                            rows.push([
+                                team_key,
+                                playerOne.opponent,
+                                playerOne.name,
+                                playerTwo.name,
+                                projections,
+                                `${(salaries / 1000).toFixed(1)}k`,
+                                (Math.round(((projections / salaries) * 1000) * 100) / 100).toFixed(2)
+                            ]);
+                        } else if (positionThree === 'Opp') {
+                            var opponent = playerOne.opponent.indexOf('@') > -1 ? playerOne.opponent.substring(1) : playerOne.opponent;
+                            var t = playerTwo.position === 'RB' ? ['WR', 'TE'] : oppPositions;
+                            t.forEach(oppPos => {
+                                var player_list = this.playerMap.get(oppPos).get(opponent);
+                                if (player_list) {
+                                    for (let o = 0; o < player_list.length; o++) {
+                                        let opp = player_list[o];
+                                        let projections = Math.round((playerOne.projection + playerTwo.projection + opp.projection) * 100 / 100);
+                                        let salaries = Math.round((playerOne.salary + playerTwo.salary + opp.salary) * 100 / 100);
                                         rows.push([
                                             team_key,
                                             playerOne.opponent,
                                             playerOne.name,
                                             playerTwo.name,
-                                            playerThree.name,
+                                            opp.name,
                                             projections,
                                             `${(salaries / 1000).toFixed(1)}k`,
                                             (Math.round(((projections / salaries) * 1000) * 100) / 100).toFixed(2)
                                         ]);
-                                    } else {
-                                        var opponent = playerOne.opponent.indexOf('@') > -1 ? playerOne.opponent.substring(1) : playerOne.opponent;
-                                        var t = positionFour.indexOf('WR') > -1 ? ['WR'] : positionFour.indexOf('RB/TE') > -1 ? ['RB', 'TE'] : oppPositions;
-                                        t.forEach(oppPos => {
-                                            var player_list = this.playerMap.get(oppPos).get(opponent);
-                                            if (player_list) {
-                                                for (let o = 0; o < player_list.length; o++) {
-                                                    let opp = player_list[o];
-                                                    let projections = Math.round((playerOne.projection + playerTwo.projection + playerThree.projection + opp.projection) * 100 / 100);
-                                                    let salaries = Math.round((playerOne.salary + playerTwo.salary + playerThree.salary + opp.salary) * 100 / 100);
-                                                    rows.push([
-                                                        team_key,
-                                                        playerOne.opponent,
-                                                        playerOne.name,
-                                                        playerTwo.name,
-                                                        playerThree.name,
-                                                        opp.name,
-                                                        projections,
-                                                        `${(salaries / 1000).toFixed(1)}k`,
-                                                        (Math.round(((projections / salaries) * 1000) * 100) / 100).toFixed(2)
-                                                    ]);
-                                                }
-                                            }
-                                        });
                                     }
                                 }
-                            }
-                        })
+                            });
+                        } else {
+                            positionThree.split('/').forEach(pos => {
+                                var player_three_list = this.playerMap.get(pos).get(team_key);
+                                if (player_three_list) {
+                                    var startIndex = positionTwo === pos ? i + 1 : 0;
+                                    for (let j = startIndex; j < player_three_list.length; j++) {
+                                        let playerThree = player_three_list[j];
+
+                                        if (!positionFour) {
+                                            let projections = Math.round((playerOne.projection + playerTwo.projection + playerThree.projection) * 100 / 100);
+                                            let salaries = Math.round((playerOne.salary + playerTwo.salary + playerThree.salary) * 100 / 100);
+                                            rows.push([
+                                                team_key,
+                                                playerOne.opponent,
+                                                playerOne.name,
+                                                playerTwo.name,
+                                                playerThree.name,
+                                                projections,
+                                                `${(salaries / 1000).toFixed(1)}k`,
+                                                (Math.round(((projections / salaries) * 1000) * 100) / 100).toFixed(2)
+                                            ]);
+                                        } else {
+                                            var opponent = playerOne.opponent.indexOf('@') > -1 ? playerOne.opponent.substring(1) : playerOne.opponent;
+                                            var t = positionFour.indexOf('WR') > -1 ? ['WR'] : positionFour.indexOf('RB/TE') > -1 ? ['RB', 'TE'] : oppPositions;
+                                            t.forEach(oppPos => {
+                                                var player_list = this.playerMap.get(oppPos).get(opponent);
+                                                if (player_list) {
+                                                    for (let o = 0; o < player_list.length; o++) {
+                                                        let opp = player_list[o];
+                                                        let projections = Math.round((playerOne.projection + playerTwo.projection + playerThree.projection + opp.projection) * 100 / 100);
+                                                        let salaries = Math.round((playerOne.salary + playerTwo.salary + playerThree.salary + opp.salary) * 100 / 100);
+                                                        rows.push([
+                                                            team_key,
+                                                            playerOne.opponent,
+                                                            playerOne.name,
+                                                            playerTwo.name,
+                                                            playerThree.name,
+                                                            opp.name,
+                                                            projections,
+                                                            `${(salaries / 1000).toFixed(1)}k`,
+                                                            (Math.round(((projections / salaries) * 1000) * 100) / 100).toFixed(2)
+                                                        ]);
+                                                    }
+                                                }
+                                            });
+                                        }
+                                    }
+                                }
+                            })
+                        }
                     }
                 }
             }
