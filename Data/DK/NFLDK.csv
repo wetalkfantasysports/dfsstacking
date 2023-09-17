@@ -1,264 +1,247 @@
 Pos,Player,Team,Opp,Salary,Proj,Value
-QB,Josh Allen,BUF,LV,7900,24.67,3.1
-QB,Patrick Mahomes,KC,@JAX,8300,23.52,2.8
-QB,Joe Burrow,CIN,BAL,6900,20.92,3
-RB,Christian McCaffrey,SF,@LAR,8900,20.77,2.3
-QB,Justin Herbert,LAC,@TEN,7000,20.68,3
-QB,Lamar Jackson,BAL,@CIN,7700,20.26,2.6
-WR,Ja'Marr Chase,CIN,BAL,7900,19.83,2.5
-QB,Trevor Lawrence,JAX,KC,6700,19.56,2.9
+QB,Josh Allen,BUF,LV,7900,24.75,3.1
+QB,Patrick Mahomes,KC,@JAX,8300,23.84,2.9
+RB,Christian McCaffrey,SF,@LAR,8900,21.1,2.4
+QB,Joe Burrow,CIN,BAL,6900,20.86,3
+QB,Justin Herbert,LAC,@TEN,7000,20.8,3
+QB,Lamar Jackson,BAL,@CIN,7700,20.53,2.7
+QB,Trevor Lawrence,JAX,KC,6700,20.41,3
+WR,Ja'Marr Chase,CIN,BAL,7900,19.94,2.5
+QB,Justin Fields,CHI,@TB,7600,19.55,2.6
+TE,Travis Kelce,KC,@JAX,7600,19.34,2.5
+WR,Stefon Diggs,BUF,LV,8000,19.28,2.4
 QB,Daniel Jones,NYG,@ARI,6000,19.12,3.2
-TE,Travis Kelce,KC,@JAX,7600,18.91,2.5
-WR,Stefon Diggs,BUF,LV,8000,18.9,2.4
-QB,Justin Fields,CHI,@TB,7600,18.86,2.5
-QB,Geno Smith,SEA,@DET,5900,18.45,3.1
-QB,Jared Goff,DET,SEA,6200,18.18,2.9
-QB,Anthony Richardson,IND,@HOU,6300,18.07,2.9
-WR,Davante Adams,LV,@BUF,7600,17.82,2.3
-QB,Brock Purdy,SF,@LAR,5700,17.69,3.1
-QB,Dak Prescott,DAL,NYJ,6600,17.63,2.7
-RB,Derrick Henry,TEN,LAC,7400,17.61,2.4
-WR,Amon-Ra St. Brown,DET,SEA,7800,17.56,2.3
-RB,Saquon Barkley,NYG,@ARI,8000,17.39,2.2
-RB,Tony Pollard,DAL,NYJ,7500,17.32,2.3
-WR,Calvin Ridley,JAX,KC,7200,17.02,2.4
-WR,Keenan Allen,LAC,@TEN,7100,16.96,2.4
-WR,CeeDee Lamb,DAL,NYJ,7700,16.75,2.2
-QB,Russell Wilson,DEN,WAS,5800,16.33,2.8
-RB,Josh Jacobs,LV,@BUF,7100,16.08,2.3
-QB,Matthew Stafford,LAR,SF,5600,15.79,2.8
-RB,Joe Mixon,CIN,BAL,6500,15.75,2.4
-QB,Jordan Love,GB,@ATL,5500,15.73,2.9
-QB,Baker Mayfield,TB,CHI,5100,15.71,3.1
-QB,Ryan Tannehill,TEN,LAC,5000,15.63,3.1
-RB,Bijan Robinson,ATL,GB,7900,15.47,2
-QB,Jimmy Garoppolo,LV,@BUF,5300,15.4,2.9
-QB,C.J. Stroud,HOU,IND,5200,15.26,2.9
-WR,D.K. Metcalf,SEA,@DET,7000,15.25,2.2
-QB,Sam Howell,WAS,@DEN,5400,15.01,2.8
-RB,James Conner,ARI,NYG,6200,14.86,2.4
-WR,Tee Higgins,CIN,BAL,6400,14.43,2.3
-WR,Deebo Samuel,SF,@LAR,5600,14.35,2.6
-RB,Travis Etienne,JAX,KC,6900,14.35,2.1
-WR,Mike Williams,LAC,@TEN,5700,13.94,2.4
-RB,James Cook,BUF,LV,6100,13.62,2.2
-WR,Brandon Aiyuk,SF,@LAR,5800,13.51,2.3
-RB,Kenneth Walker,SEA,@DET,5800,13.47,2.3
-WR,Chris Godwin,TB,CHI,6000,13.38,2.2
-RB,David Montgomery,DET,SEA,5800,13.31,2.3
-QB,Joshua Dobbs,ARI,NYG,5000,13.29,2.7
-QB,Zach Wilson,NYJ,@DAL,4900,13.18,2.7
-RB,Rachaad White,TB,CHI,5500,13.16,2.4
-WR,Mike Evans,TB,CHI,6200,13.08,2.1
-TE,Mark Andrews,BAL,@CIN,6300,12.95,2.1
-QB,Desmond Ridder,ATL,GB,5000,12.89,2.6
-WR,Michael Pittman,IND,@HOU,6300,12.84,2
-RB,Dameon Pierce,HOU,IND,5600,12.67,2.3
-WR,Tyler Lockett,SEA,@DET,6100,12.62,2.1
-WR,Garrett Wilson,NYJ,@DAL,7500,12.62,1.7
-WR,Jerry Jeudy,DEN,WAS,6600,12.62,1.9
-RB,Joshua Kelley,LAC,@TEN,5000,12.55,2.5
-RB,AJ Dillon,GB,@ATL,5900,12.55,2.1
-RB,Javonte Williams,DEN,WAS,5600,12.53,2.2
-WR,Puka Nacua,LAR,SF,4900,12.47,2.5
-RB,Jahmyr Gibbs,DET,SEA,6300,11.85,1.9
-WR,Terry McLaurin,WAS,@DEN,5700,11.74,2.1
-WR,DeAndre Hopkins,TEN,LAC,6700,11.6,1.7
-RB,Breece Hall,NYJ,@DAL,5900,11.54,2
-WR,Zay Flowers,BAL,@CIN,5000,11.48,2.3
-WR,Christian Kirk,JAX,KC,5100,11.33,2.2
-WR,Drake London,ATL,GB,5000,11.27,2.3
-RB,Isiah Pacheco,KC,@JAX,5700,11.2,2
-TE,George Kittle,SF,@LAR,5300,11.04,2.1
-TE,Darren Waller,NYG,@ARI,5500,11.03,2
-WR,D.J. Moore,CHI,@TB,5500,11.02,2
-WR,Gabe Davis,BUF,LV,5800,10.93,1.9
-RB,Zack Moss,IND,@HOU,4700,10.84,2.3
-WR,Zay Jones,JAX,KC,4700,10.76,2.3
-WR,Nico Collins,HOU,IND,4800,10.75,2.2
-WR,Marquise Brown,ARI,NYG,4900,10.67,2.2
-RB,Brian Robinson,WAS,@DEN,5200,10.63,2
-WR,Jahan Dotson,WAS,@DEN,4900,10.6,2.2
-WR,Courtland Sutton,DEN,WAS,5400,10.21,1.9
-WR,Tutu Atwell,LAR,SF,4700,10.16,2.2
-WR,Treylon Burks,TEN,LAC,4500,10.01,2.2
-RB,Khalil Herbert,CHI,@TB,5400,9.87,1.8
-TE,Evan Engram,JAX,KC,4800,9.85,2.1
-WR,Romeo Doubs,GB,@ATL,4800,9.85,2.1
-TE,Tyler Higbee,LAR,SF,4600,9.76,2.1
-WR,Jaxon Smith-Njigba,SEA,@DET,4500,9.62,2.1
-RB,Tyler Allgeier,ATL,GB,5500,9.52,1.7
-WR,Van Jefferson,LAR,SF,4300,9.35,2.2
-RB,Samaje Perine,DEN,WAS,5100,9.26,1.8
-TE,Kyle Pitts,ATL,GB,4200,9.22,2.2
-WR,Odell Beckham,BAL,@CIN,4700,9.15,1.9
-RB,Cam Akers,LAR,SF,5700,9.06,1.6
-WR,Allen Lazard,NYJ,@DAL,5400,9.02,1.7
-D,Cowboys,DAL,NYJ,4000,9.01,2.3
-WR,Jayden Reed,GB,@ATL,3400,9.01,2.6
-WR,Robert Woods,HOU,IND,4600,8.98,2
-TE,Dalton Schultz,HOU,IND,4000,8.96,2.2
-WR,Tyler Boyd,CIN,BAL,3800,8.88,2.3
-WR,Rondale Moore,ARI,NYG,4000,8.87,2.2
-D,Bucs,TB,CHI,3200,8.81,2.8
-WR,Darnell Mooney,CHI,@TB,4400,8.77,2
-WR,Kadarius Toney,KC,@JAX,4600,8.7,1.9
-WR,Michael Gallup,DAL,NYJ,4200,8.61,2
-RB,Dalvin Cook,NYJ,@DAL,6000,8.57,1.4
-TE,Sam LaPorta,DET,SEA,3900,8.53,2.2
-RB,Kyren Williams,LAR,SF,5000,8.52,1.7
-WR,Josh Reynolds,DET,SEA,3700,8.44,2.3
-WR,Hunter Renfrow,LV,@BUF,3900,8.21,2.1
-RB,Antonio Gibson,WAS,@DEN,4800,8.15,1.7
-TE,Zach Ertz,ARI,NYG,3500,8.09,2.3
-D,Broncos,DEN,WAS,3900,8.05,2.1
+QB,Geno Smith,SEA,@DET,5900,18.94,3.2
+QB,Jared Goff,DET,SEA,6200,18.72,3
+QB,Anthony Richardson,IND,@HOU,6300,18.52,2.9
+WR,Davante Adams,LV,@BUF,7600,18.43,2.4
+QB,Brock Purdy,SF,@LAR,5700,18.34,3.2
+WR,Calvin Ridley,JAX,KC,7200,17.94,2.5
+RB,Derrick Henry,TEN,LAC,7400,17.91,2.4
+WR,Amon-Ra St. Brown,DET,SEA,7800,17.85,2.3
+WR,Keenan Allen,LAC,@TEN,7100,17.66,2.5
+QB,Dak Prescott,DAL,NYJ,6600,17.64,2.7
+RB,Saquon Barkley,NYG,@ARI,8000,17.47,2.2
+RB,Tony Pollard,DAL,NYJ,7500,17.3,2.3
+WR,CeeDee Lamb,DAL,NYJ,7700,16.92,2.2
+RB,Josh Jacobs,LV,@BUF,7100,16.53,2.3
+QB,Russell Wilson,DEN,WAS,5800,16.41,2.8
+RB,Joe Mixon,CIN,BAL,6500,15.89,2.4
+QB,Baker Mayfield,TB,CHI,5100,15.77,3.1
+QB,Ryan Tannehill,TEN,LAC,5000,15.76,3.2
+WR,D.K. Metcalf,SEA,@DET,7000,15.7,2.2
+QB,Jordan Love,GB,@ATL,5500,15.67,2.8
+QB,Jimmy Garoppolo,LV,@BUF,5300,15.66,3
+QB,Matthew Stafford,LAR,SF,5600,15.43,2.8
+QB,C.J. Stroud,HOU,IND,5200,15.31,2.9
+RB,James Conner,ARI,NYG,6200,15.24,2.5
+RB,Bijan Robinson,ATL,GB,7900,15.15,1.9
+QB,Sam Howell,WAS,@DEN,5400,14.91,2.8
+RB,Travis Etienne,JAX,KC,6900,14.63,2.1
+WR,Deebo Samuel,SF,@LAR,5600,14.53,2.6
+WR,Mike Williams,LAC,@TEN,5700,14.47,2.5
+WR,Tee Higgins,CIN,BAL,6400,14.46,2.3
+WR,Brandon Aiyuk,SF,@LAR,5800,13.97,2.4
+RB,James Cook,BUF,LV,6100,13.83,2.3
+WR,Chris Godwin,TB,CHI,6000,13.83,2.3
+WR,DeAndre Hopkins,TEN,LAC,6700,13.81,2.1
+RB,AJ Dillon,GB,@ATL,5900,13.76,2.3
+RB,Kenneth Walker,SEA,@DET,5800,13.75,2.4
+RB,David Montgomery,DET,SEA,5800,13.42,2.3
+WR,Mike Evans,TB,CHI,6200,13.42,2.2
+WR,Michael Pittman,IND,@HOU,6300,13.33,2.1
+QB,Joshua Dobbs,ARI,NYG,5000,13.31,2.7
+RB,Rachaad White,TB,CHI,5500,13.22,2.4
+QB,Desmond Ridder,ATL,GB,5000,12.97,2.6
+WR,Tyler Lockett,SEA,@DET,6100,12.93,2.1
+WR,Puka Nacua,LAR,SF,4900,12.91,2.6
+QB,Zach Wilson,NYJ,@DAL,4900,12.88,2.6
+TE,Mark Andrews,BAL,@CIN,6300,12.81,2
+RB,Javonte Williams,DEN,WAS,5600,12.76,2.3
+RB,Joshua Kelley,LAC,@TEN,5000,12.54,2.5
+WR,Garrett Wilson,NYJ,@DAL,7500,12.5,1.7
+RB,Jahmyr Gibbs,DET,SEA,6300,12.39,2
+RB,Dameon Pierce,HOU,IND,5600,12.33,2.2
+WR,Jerry Jeudy,DEN,WAS,6600,12.14,1.8
+WR,Zay Flowers,BAL,@CIN,5000,11.91,2.4
+WR,Terry McLaurin,WAS,@DEN,5700,11.73,2.1
+WR,Christian Kirk,JAX,KC,5100,11.5,2.3
+RB,Breece Hall,NYJ,@DAL,5900,11.35,1.9
+RB,Isiah Pacheco,KC,@JAX,5700,11.32,2
+WR,D.J. Moore,CHI,@TB,5500,11.28,2.1
+WR,Gabe Davis,BUF,LV,5800,11.26,1.9
+WR,Zay Jones,JAX,KC,4700,11.18,2.4
+WR,Drake London,ATL,GB,5000,11.17,2.2
+TE,George Kittle,SF,@LAR,5300,11.17,2.1
+TE,Darren Waller,NYG,@ARI,5500,11.11,2
+WR,Nico Collins,HOU,IND,4800,11.08,2.3
+RB,Brian Robinson,WAS,@DEN,5200,11.01,2.1
+WR,Romeo Doubs,GB,@ATL,4800,10.89,2.3
+WR,Jahan Dotson,WAS,@DEN,4900,10.78,2.2
+RB,Khalil Herbert,CHI,@TB,5400,10.55,2
+WR,Marquise Brown,ARI,NYG,4900,10.5,2.1
+WR,Courtland Sutton,DEN,WAS,5400,10.45,1.9
+RB,Zack Moss,IND,@HOU,4700,10.35,2.2
+WR,Jayden Reed,GB,@ATL,3400,10.09,3
+TE,Evan Engram,JAX,KC,4800,10.08,2.1
+WR,Tutu Atwell,LAR,SF,4700,10.03,2.1
+TE,Tyler Higbee,LAR,SF,4600,9.95,2.2
+RB,Tyler Allgeier,ATL,GB,5500,9.92,1.8
+WR,Jaxon Smith-Njigba,SEA,@DET,4500,9.82,2.2
+WR,Odell Beckham,BAL,@CIN,4700,9.52,2
+WR,Treylon Burks,TEN,LAC,4500,9.45,2.1
+WR,Robert Woods,HOU,IND,4600,9.36,2
+RB,Samaje Perine,DEN,WAS,5100,9.29,1.8
+D,Cowboys,DAL,NYJ,4000,9.27,2.3
+WR,Darnell Mooney,CHI,@TB,4400,9.16,2.1
+TE,Dalton Schultz,HOU,IND,4000,9.11,2.3
+TE,Kyle Pitts,ATL,GB,4200,9.08,2.2
+WR,Van Jefferson,LAR,SF,4300,9.06,2.1
+WR,Rondale Moore,ARI,NYG,4000,8.99,2.2
+WR,Allen Lazard,NYJ,@DAL,5400,8.96,1.7
+WR,Tyler Boyd,CIN,BAL,3800,8.95,2.4
+RB,Cam Akers,LAR,SF,5700,8.95,1.6
+RB,Dalvin Cook,NYJ,@DAL,6000,8.94,1.5
+WR,Michael Gallup,DAL,NYJ,4200,8.8,2.1
+WR,Josh Reynolds,DET,SEA,3700,8.63,2.3
+D,Bucs,TB,CHI,3200,8.62,2.7
+TE,Sam LaPorta,DET,SEA,3900,8.62,2.2
+RB,Kyren Williams,LAR,SF,5000,8.56,1.7
+WR,Kadarius Toney,KC,@JAX,4600,8.52,1.9
+TE,Zach Ertz,ARI,NYG,3500,8.47,2.4
+WR,Josh Downs,IND,@HOU,3400,8.19,2.4
+WR,Marquez Valdes-Scantling,KC,@JAX,4500,8.17,1.8
+D,Broncos,DEN,WAS,3900,8.08,2.1
+TE,Cole Kmet,CHI,@TB,4400,8.01,1.8
 RB,Jerick McKinnon,KC,@JAX,4600,8,1.7
-D,Giants,NYG,@ARI,3800,7.97,2.1
-WR,Marquez Valdes-Scantling,KC,@JAX,4500,7.91,1.8
-TE,Chig Okonkwo,TEN,LAC,3300,7.9,2.4
-WR,Josh Downs,IND,@HOU,3400,7.87,2.3
-TE,Dalton Kincaid,BUF,LV,3300,7.84,2.4
-TE,Cole Kmet,CHI,@TB,4400,7.79,1.8
-D,49ers,SF,@LAR,4100,7.77,1.9
-WR,Darius Slayton,NYG,@ARI,4400,7.7,1.8
-RB,Gus Edwards,BAL,@CIN,5300,7.62,1.4
-TE,Gerald Everett,LAC,@TEN,4100,7.61,1.9
-WR,Marvin Jones,DET,SEA,3600,7.5,2.1
-WR,Curtis Samuel,WAS,@DEN,4000,7.49,1.9
-D,Bills,BUF,LV,3700,7.48,2
-TE,Irv Smith,CIN,BAL,3200,7.44,2.3
-TE,Dawson Knox,BUF,LV,3100,7.43,2.4
-TE,Luke Musgrave,GB,@ATL,3200,7.38,2.3
-WR,Isaiah Hodgins,NYG,@ARI,5000,7.33,1.5
-TE,Logan Thomas,WAS,@DEN,3100,7.32,2.4
-D,Texans,HOU,IND,3600,7.27,2
-WR,Skyy Moore,KC,@JAX,4100,7.23,1.8
-RB,Deon Jackson,IND,@HOU,4900,7.23,1.5
-D,Colts,IND,@HOU,3400,7.13,2.1
-D,Bengals,CIN,BAL,3300,7.13,2.2
-D,Commanders,WAS,@DEN,3100,7.09,2.3
-WR,Parris Campbell,NYG,@ARI,3500,7.07,2
+D,Giants,NYG,@ARI,3800,7.94,2.1
+RB,Antonio Gibson,WAS,@DEN,4800,7.92,1.7
+WR,Darius Slayton,NYG,@ARI,4400,7.88,1.8
+WR,Hunter Renfrow,LV,@BUF,3900,7.83,2
+TE,Luke Musgrave,GB,@ATL,3200,7.8,2.4
+D,49ers,SF,@LAR,4100,7.79,1.9
+TE,Gerald Everett,LAC,@TEN,4100,7.72,1.9
+RB,Gus Edwards,BAL,@CIN,5300,7.71,1.5
+TE,Dawson Knox,BUF,LV,3100,7.69,2.5
+TE,Dalton Kincaid,BUF,LV,3300,7.63,2.3
+WR,Marvin Jones,DET,SEA,3600,7.6,2.1
+TE,Logan Thomas,WAS,@DEN,3100,7.6,2.5
+D,Bills,BUF,LV,3700,7.58,2
+TE,Irv Smith,CIN,BAL,3200,7.57,2.4
+WR,Curtis Samuel,WAS,@DEN,4000,7.57,1.9
+TE,Chig Okonkwo,TEN,LAC,3300,7.53,2.3
+D,Commanders,WAS,@DEN,3100,7.39,2.4
+D,Texans,HOU,IND,3600,7.24,2
+WR,Isaiah Hodgins,NYG,@ARI,5000,7.24,1.4
+RB,Deon Jackson,IND,@HOU,4900,7.1,1.4
+D,Bengals,CIN,BAL,3300,7.03,2.1
+D,Colts,IND,@HOU,3400,7.02,2.1
+WR,Skyy Moore,KC,@JAX,4100,7.02,1.7
+WR,Parris Campbell,NYG,@ARI,3500,6.96,2
+WR,Mack Hollins,ATL,GB,3700,6.92,1.9
+D,Bears,CHI,@TB,2800,6.88,2.5
+D,Chargers,LAC,@TEN,3500,6.86,2
 WR,Alec Pierce,IND,@HOU,3500,6.85,2
-D,Lions,DET,SEA,3000,6.84,2.3
-RB,Devin Singletary,HOU,IND,4700,6.84,1.5
-D,Bears,CHI,@TB,2800,6.81,2.4
-WR,Josh Palmer,LAC,@TEN,3400,6.76,2
-WR,Mack Hollins,ATL,GB,3700,6.73,1.8
-D,Chargers,LAC,@TEN,3500,6.7,1.9
-RB,Justice Hill,BAL,@CIN,4900,6.67,1.4
-WR,Michael Wilson,ARI,NYG,3300,6.63,2
-WR,Tank Dell,HOU,IND,3200,6.61,2.1
-D,Falcons,ATL,GB,2900,6.59,2.3
-TE,Jake Ferguson,DAL,NYJ,3300,6.52,2
-TE,Adam Trautman,DEN,WAS,3000,6.5,2.2
-WR,Nick Westbrook-Ikhine,TEN,LAC,3300,6.48,2
-D,Packers,GB,@ATL,3000,6.43,2.1
-WR,Rashod Bateman,BAL,@CIN,5100,6.36,1.2
-TE,Cade Otton,TB,CHI,3100,6.26,2
-D,Chiefs,KC,@JAX,3100,6.24,2
-D,Cardinals,ARI,NYG,2600,6.23,2.4
-RB,Tyjae Spears,TEN,LAC,4600,6.17,1.3
-D,Ravens,BAL,@CIN,2800,6.05,2.2
-RB,Eli Mitchell,SF,@LAR,4600,6.03,1.3
-D,Titans,TEN,LAC,2400,6.02,2.5
-TE,Austin Hooper,LV,@BUF,2800,5.94,2.1
-WR,Rashee Rice,KC,@JAX,3800,5.9,1.6
-D,Jets,NYJ,@DAL,2700,5.87,2.2
-WR,Quentin Johnston,LAC,@TEN,3900,5.75,1.5
-TE,Tyler Conklin,NYJ,@DAL,3400,5.55,1.6
-WR,Trey Palmer,TB,CHI,3400,5.49,1.6
-D,Rams,LAR,SF,2300,5.42,2.4
-WR,Mecole Hardman,NYJ,@DAL,4000,5.38,1.3
-D,Raiders,LV,@BUF,2200,5.24,2.4
-D,Seahawks,SEA,@DET,2900,5.23,1.8
-RB,D'Onta Foreman,CHI,@TB,4600,5.19,1.1
-TE,Kylen Granson,IND,@HOU,3000,5.13,1.7
-RB,Sean Tucker,TB,CHI,4300,5.12,1.2
-WR,Richie James,KC,@JAX,3400,5.05,1.5
-RB,Tank Bigsby,JAX,KC,4700,5.02,1.1
-D,Jaguars,JAX,KC,2500,4.97,2
-WR,Chase Claypool,CHI,@TB,3200,4.95,1.5
-RB,Zach Charbonnet,SEA,@DET,4500,4.93,1.1
-WR,Deonte Harty,BUF,LV,3300,4.92,1.5
-RB,Cordarrelle Patterson,ATL,GB,4500,4.83,1.1
-TE,Noah Fant,SEA,@DET,2900,4.51,1.6
-RB,Damien Harris,BUF,LV,5400,4.49,0.8
-WR,Kalif Raymond,DET,SEA,3200,4.49,1.4
-WR,Sterling Shepard,NYG,@ARI,3000,4.48,1.5
-WR,Marvin Mims,DEN,WAS,3500,4.43,1.3
-WR,DeAndre Carter,LV,@BUF,3400,4.39,1.3
-WR,Jauan Jennings,SF,@LAR,3200,4.36,1.4
-WR,Chris Moore,TEN,LAC,3000,4.36,1.5
-TE,Donald Parham,LAC,@TEN,2900,4.34,1.5
-RB,Roschon Johnson,CHI,@TB,4900,4.34,0.9
-TE,Trey McBride,ARI,NYG,2800,4.11,1.5
-WR,Randall Cobb,NYJ,@DAL,3400,4.02,1.2
-TE,Michael Mayer,LV,@BUF,2700,4,1.5
-WR,Jalen Tolbert,DAL,NYJ,3000,3.98,1.3
-RB,Keaontay Ingram,ARI,NYG,4300,3.95,0.9
-RB,Isaiah Spiller,LAC,@TEN,4000,3.93,1
-WR,John Metchie,HOU,IND,3600,3.86,1.1
-WR,Dontayvion Wicks,GB,@ATL,3000,3.79,1.3
-RB,Clyde Edwards-Helaire,KC,@JAX,4300,3.72,0.9
-RB,Melvin Gordon,BAL,@CIN,4400,3.72,0.8
-RB,Latavius Murray,BUF,LV,4500,3.71,0.8
-TE,Colby Parkinson,SEA,@DET,2500,3.7,1.5
-WR,Jalin Hyatt,NYG,@ARI,3900,3.65,0.9
-RB,Trayveon Williams,CIN,BAL,4300,3.63,0.8
-RB,Chase Edmonds,TB,CHI,4100,3.63,0.9
-RB,Matt Breida,NYG,@ARI,5000,3.61,0.7
-TE,Isaiah Likely,BAL,@CIN,3200,3.59,1.1
-WR,Kristian Wilkerson,LV,@BUF,3000,3.59,1.2
-TE,Noah Gray,KC,@JAX,3400,3.57,1.1
-RB,Rico Dowdle,DAL,NYJ,4800,3.55,0.7
-RB,Elijah Dotson,LAC,@TEN,4000,3.53,0.9
-WR,Deven Thompkins,TB,CHI,3000,3.52,1.2
-TE,Will Dissly,SEA,@DET,2800,3.35,1.2
-RB,Emanuel Wilson,GB,@ATL,4000,3.34,0.8
-RB,Deuce Vaughn,DAL,NYJ,4700,3.3,0.7
-RB,Zamir White,LV,@BUF,4400,3.27,0.7
-RB,Patrick Taylor,GB,@ATL,4800,3.22,0.7
-WR,Ben Skowronek,LAR,SF,3000,3.18,1.1
-RB,Chris Evans,CIN,BAL,4100,3.04,0.7
-RB,Michael Carter,NYJ,@DAL,4800,3.03,0.6
-TE,Mo Alie-Cox,IND,@HOU,2500,2.92,1.2
-TE,C.J. Uzomah,NYJ,@DAL,2800,2.87,1
-WR,KaVontae Turpin,DAL,NYJ,3000,2.86,1
-RB,DeeJay Dallas,SEA,@DET,4100,2.83,0.7
-WR,Samori Toure,GB,@ATL,3000,2.83,0.9
-WR,Trent Sherfield,BUF,LV,3000,2.82,0.9
-TE,Brycen Hopkins,LAR,SF,2600,2.79,1.1
-WR,Jamal Agnew,JAX,KC,3000,2.75,0.9
-WR,Justin Watson,KC,@JAX,3300,2.73,0.8
-WR,Lil'Jordan Humphrey,DEN,WAS,3100,2.73,0.9
-WR,Nelson Agholor,BAL,@CIN,3000,2.69,0.9
-WR,Brandon Johnson,DEN,WAS,3000,2.67,0.9
-TE,Peyton Hendershot,DAL,NYJ,2600,2.64,1
-WR,Greg Dortch,ARI,NYG,3100,2.62,0.8
-RB,Mike Boone,HOU,IND,4200,2.57,0.6
-TE,Brock Wright,DET,SEA,2700,2.46,0.9
-RB,Jake Funk,IND,@HOU,4300,2.44,0.6
-WR,Malik Heath,GB,@ATL,3000,2.41,0.8
-WR,Isaiah McKenzie,IND,@HOU,3000,2.38,0.8
+RB,Devin Singletary,HOU,IND,4700,6.67,1.4
+D,Lions,DET,SEA,3000,6.65,2.2
+TE,Jake Ferguson,DAL,NYJ,3300,6.63,2
+D,Packers,GB,@ATL,3000,6.62,2.2
+RB,Justice Hill,BAL,@CIN,4900,6.58,1.3
+WR,Tank Dell,HOU,IND,3200,6.56,2
+TE,Cade Otton,TB,CHI,3100,6.44,2.1
+D,Falcons,ATL,GB,2900,6.43,2.2
+WR,Michael Wilson,ARI,NYG,3300,6.41,1.9
+TE,Adam Trautman,DEN,WAS,3000,6.37,2.1
+RB,Roschon Johnson,CHI,@TB,4900,6.32,1.3
+D,Cardinals,ARI,NYG,2600,6.31,2.4
+WR,Josh Palmer,LAC,@TEN,3400,6.25,1.8
+WR,Rashod Bateman,BAL,@CIN,5100,6.17,1.2
+D,Ravens,BAL,@CIN,2800,6.13,2.2
+D,Chiefs,KC,@JAX,3100,6.12,2
+TE,Austin Hooper,LV,@BUF,2800,6.11,2.2
+RB,Eli Mitchell,SF,@LAR,4600,6.11,1.3
+WR,Rashee Rice,KC,@JAX,3800,6,1.6
+D,Titans,TEN,LAC,2400,5.99,2.5
+WR,Nick Westbrook-Ikhine,TEN,LAC,3300,5.97,1.8
+D,Jets,NYJ,@DAL,2700,5.93,2.2
+WR,Richie James,KC,@JAX,3400,5.68,1.7
+RB,Tyjae Spears,TEN,LAC,4600,5.67,1.2
+TE,Tyler Conklin,NYJ,@DAL,3400,5.5,1.6
+D,Rams,LAR,SF,2300,5.47,2.4
+WR,Quentin Johnston,LAC,@TEN,3900,5.36,1.4
+D,Seahawks,SEA,@DET,2900,5.26,1.8
+D,Raiders,LV,@BUF,2200,5.25,2.4
+WR,Trey Palmer,TB,CHI,3400,5.19,1.5
+D,Jaguars,JAX,KC,2500,5.14,2.1
+RB,Cordarrelle Patterson,ATL,GB,4500,5.09,1.1
+WR,Chase Claypool,CHI,@TB,3200,4.98,1.6
+RB,Tank Bigsby,JAX,KC,4700,4.94,1.1
+TE,Kylen Granson,IND,@HOU,3000,4.7,1.6
+WR,Deonte Harty,BUF,LV,3300,4.69,1.4
+TE,Donald Parham,LAC,@TEN,2900,4.57,1.6
+RB,Sean Tucker,TB,CHI,4300,4.57,1.1
+WR,Sterling Shepard,NYG,@ARI,3000,4.57,1.5
+RB,Zach Charbonnet,SEA,@DET,4500,4.54,1
+WR,DeAndre Carter,LV,@BUF,3400,4.52,1.3
+WR,Kalif Raymond,DET,SEA,3200,4.33,1.4
+RB,Melvin Gordon,BAL,@CIN,4400,4.25,1
+WR,Dontayvion Wicks,GB,@ATL,3000,4.23,1.4
+TE,Noah Fant,SEA,@DET,2900,4.21,1.5
+RB,Latavius Murray,BUF,LV,4500,4.18,0.9
+WR,Chris Moore,TEN,LAC,3000,4.14,1.4
+RB,Damien Harris,BUF,LV,5400,4.1,0.8
+WR,Jauan Jennings,SF,@LAR,3200,4.1,1.3
+WR,Randall Cobb,NYJ,@DAL,3400,4.08,1.2
+TE,Trey McBride,ARI,NYG,2800,4.04,1.4
+WR,Jalen Tolbert,DAL,NYJ,3000,4.01,1.3
+RB,Patrick Taylor,GB,@ATL,4800,3.87,0.8
+RB,Clyde Edwards-Helaire,KC,@JAX,4300,3.81,0.9
+RB,Elijah Dotson,LAC,@TEN,4000,3.81,1
+TE,Colby Parkinson,SEA,@DET,2500,3.68,1.5
+RB,Keaontay Ingram,ARI,NYG,4300,3.64,0.8
+RB,Chase Edmonds,TB,CHI,4100,3.62,0.9
+TE,Michael Mayer,LV,@BUF,2700,3.55,1.3
+WR,Samori Toure,GB,@ATL,3000,3.54,1.2
+WR,John Metchie,HOU,IND,3600,3.53,1
+RB,Isaiah Spiller,LAC,@TEN,4000,3.52,0.9
+RB,Rico Dowdle,DAL,NYJ,4800,3.5,0.7
+WR,Jalin Hyatt,NYG,@ARI,3900,3.49,0.9
+RB,Emanuel Wilson,GB,@ATL,4000,3.39,0.8
+RB,Deuce Vaughn,DAL,NYJ,4700,3.38,0.7
+TE,Noah Gray,KC,@JAX,3400,3.38,1
+RB,Trayveon Williams,CIN,BAL,4300,3.34,0.8
+RB,Matt Breida,NYG,@ARI,5000,3.32,0.7
+RB,Michael Carter,NYJ,@DAL,4800,3.22,0.7
+WR,Deven Thompkins,TB,CHI,3000,3.22,1.1
+TE,Will Dissly,SEA,@DET,2800,3.2,1.1
+WR,Kristian Wilkerson,LV,@BUF,3000,3.11,1
+TE,Isaiah Likely,BAL,@CIN,3200,3.07,1
+WR,KaVontae Turpin,DAL,NYJ,3000,3.07,1
+TE,Mo Alie-Cox,IND,@HOU,2500,3.07,1.2
+RB,Chris Evans,CIN,BAL,4100,2.96,0.7
+WR,Malik Heath,GB,@ATL,3000,2.92,1
+TE,C.J. Uzomah,NYJ,@DAL,2800,2.91,1
+WR,Ben Skowronek,LAR,SF,3000,2.89,1
+RB,DeeJay Dallas,SEA,@DET,4100,2.84,0.7
+WR,Lil'Jordan Humphrey,DEN,WAS,3100,2.75,0.9
+RB,Zamir White,LV,@BUF,4400,2.74,0.6
+WR,Brandon Johnson,DEN,WAS,3000,2.72,0.9
+TE,Peyton Hendershot,DAL,NYJ,2600,2.7,1
+TE,Brycen Hopkins,LAR,SF,2600,2.67,1
+WR,Jamal Agnew,JAX,KC,3000,2.64,0.9
+TE,Brock Wright,DET,SEA,2700,2.64,1
+WR,Justin Watson,KC,@JAX,3300,2.6,0.8
+RB,Ameer Abdullah,LV,@BUF,4000,2.47,0.6
+TE,Teagan Quitoriano,HOU,IND,2500,2.44,1
+RB,Mike Boone,HOU,IND,4200,2.39,0.6
 TE,Ko Kieft,TB,CHI,2500,2.36,0.9
-RB,Ameer Abdullah,LV,@BUF,4000,2.34,0.6
-TE,Teagan Quitoriano,HOU,IND,2500,2.33,0.9
-WR,Tyler Scott,CHI,@TB,3000,2.27,0.8
-TE,Daniel Bellinger,NYG,@ARI,2800,2.26,0.8
-WR,Zach Pascal,ARI,NYG,3000,2.25,0.8
-WR,Demarcus Robinson,LAR,SF,3000,2.23,0.7
-TE,Jonnu Smith,ATL,GB,2500,2.22,0.9
-WR,Khalil Shakir,BUF,LV,3700,2.2,0.6
-RB,Jaleel McLaughlin,DEN,WAS,4000,2.08,0.5
-TE,Luke Schoonmaker,DAL,NYJ,2600,1.98,0.8
-WR,Trenton Irwin,CIN,BAL,3000,1.95,0.7
-TE,Josiah Deguara,GB,@ATL,2500,1.93,0.8
-TE,John Bates,WAS,@DEN,2500,1.93,0.8
-WR,Xavier Hutchinson,HOU,IND,3000,1.81,0.6
-TE,Josh Whyle,TEN,LAC,2500,1.76,0.7
+TE,Daniel Bellinger,NYG,@ARI,2800,2.28,0.8
+WR,Tyler Scott,CHI,@TB,3000,2.17,0.7
+TE,Jonnu Smith,ATL,GB,2500,2.08,0.8
+WR,Zach Pascal,ARI,NYG,3000,2.06,0.7
 RB,Gary Brightwell,NYG,@ARI,4500,1.73,0.4
-TE,Brenton Strange,JAX,KC,2500,1.71,0.7
-RB,Kyle Juszczyk,SF,@LAR,4000,1.66,0.4
-TE,Charlie Kolar,BAL,@CIN,2500,1.62,0.6
-RB,Chris Rodriguez,WAS,@DEN,4000,1.58,0.4
-TE,Cole Turner,WAS,@DEN,2500,1.54,0.6
+RB,Kyle Juszczyk,SF,@LAR,4000,1.65,0.4
+WR,Trenton Irwin,CIN,BAL,3000,1.64,0.5
+RB,Jake Funk,IND,@HOU,4300,1.63,0.4
+WR,Khalil Shakir,BUF,LV,3700,1.56,0.4
+RB,Chris Rodriguez,WAS,@DEN,4000,1.44,0.4
