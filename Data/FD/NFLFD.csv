@@ -1,42 +1,43 @@
 "Pos","Player","Team","Opp","Salary","Proj","Value","OU","SPRD","IMP","Roster"
-"QB","Josh Allen","BUF","KC",9400,21.98,2.3,45.5,-2.5,24,16.5
-"QB","Patrick Mahomes","KC","@BUF",7700,18.61,2.4,45.5,2.5,21.5,14.5
-"QB","Jared Goff","DET","TB",7600,18.34,2.4,49.5,-6,27.75,11.1
-"QB","Baker Mayfield","TB","@DET",7300,17.43,2.4,49.5,6,21.75,10.1
-"WR","Amon-Ra St. Brown","DET","TB",9200,17.34,1.9,49.5,-6,27.75,27.9
-"RB","Isiah Pacheco","KC","@BUF",7500,13.96,1.9,45.5,2.5,21.5,28.6
-"RB","Rachaad White","TB","@DET",6700,13.89,2.1,49.5,6,21.75,31.7
-"WR","Mike Evans","TB","@DET",7600,13.79,1.8,49.5,6,21.75,22
-"WR","Rashee Rice","KC","@BUF",7800,13.35,1.7,45.5,2.5,21.5,20.4
-"RB","James Cook","BUF","KC",6800,13.13,1.9,45.5,-2.5,24,29
-"RB","Jahmyr Gibbs","DET","TB",7300,12.65,1.7,49.5,-6,27.75,27.4
-"WR","Stefon Diggs","BUF","KC",7500,11.86,1.6,45.5,-2.5,24,24.3
-"RB","David Montgomery","DET","TB",7000,11.43,1.6,49.5,-6,27.75,27
-"WR","Chris Godwin","TB","@DET",6900,11.09,1.6,49.5,6,21.75,22
-"TE","Travis Kelce","KC","@BUF",7100,11.04,1.6,45.5,2.5,21.5,21.6
-"TE","Sam LaPorta","DET","TB",6600,9.59,1.5,49.5,-6,27.75,8.3
-"TE","Dalton Kincaid","BUF","KC",6200,8.57,1.4,45.5,-2.5,24,8.6
-"WR","Khalil Shakir","BUF","KC",5900,7.04,1.2,45.5,-2.5,24,7.8
-"D","Lions","DET","TB",4400,6.79,1.5,49.5,-6,27.75,5.1
-"WR","Josh Reynolds","DET","TB",6100,6.44,1.1,49.5,-6,27.75,15.2
-"D","Bills","BUF","KC",4000,6.42,1.6,45.5,-2.5,24,17.3
-"WR","Jameson Williams","DET","TB",5300,6.17,1.2,49.5,-6,27.75,21.3
-"D","Chiefs","KC","@BUF",3800,5.96,1.6,45.5,2.5,21.5,10.3
-"TE","Cade Otton","TB","@DET",5300,5.71,1.1,49.5,6,21.75,10.8
-"D","Bucs","TB","@DET",3500,5.18,1.5,49.5,6,21.75,11.7
-"WR","Trey Palmer","TB","@DET",5200,4.95,1,49.5,6,21.75,4.3
-"WR","Justin Watson","KC","@BUF",5000,4.8,1,45.5,2.5,21.5,4
-"RB","Clyde Edwards-Helaire","KC","@BUF",5000,3.95,0.8,45.5,2.5,21.5,1.3
-"TE","Dawson Knox","BUF","KC",5100,3.51,0.7,45.5,-2.5,24,2.8
-"RB","Chase Edmonds","TB","@DET",4900,3.5,0.7,49.5,6,21.75,2.8
-"WR","Mecole Hardman","KC","@BUF",4800,3.47,0.7,45.5,2.5,21.5,3
-"WR","Richie James","KC","@BUF",4400,3.35,0.8,45.5,2.5,21.5,NA
-"RB","Ty Johnson","BUF","KC",4800,3.15,0.7,45.5,-2.5,24,1.3
-"WR","David Moore","TB","@DET",4700,2.6,0.6,49.5,6,21.75,NA
-"WR","Deonte Harty","BUF","KC",4500,2.43,0.5,45.5,-2.5,24,NA
-"WR","Marquez Valdes-Scantling","KC","@BUF",4700,2.4,0.5,45.5,2.5,21.5,NA
-"TE","Noah Gray","KC","@BUF",4600,2.25,0.5,45.5,2.5,21.5,NA
-"WR","Trent Sherfield","BUF","KC",4600,2.09,0.5,45.5,-2.5,24,NA
-"WR","Deven Thompkins","TB","@DET",4400,1.8,0.4,49.5,6,21.75,NA
-"RB","Latavius Murray","BUF","KC",4400,1.71,0.4,45.5,-2.5,24,NA
-"TE","Brock Wright","DET","TB",4500,1.51,0.3,49.5,-6,27.75,NA
+"QB","Lamar Jackson","BAL","KC",8800,21.27,2.4,44.5,-3.5,24,NA
+"RB","Christian McCaffrey","SF","DET",11000,21.06,1.9,51,-7,29,NA
+"QB","Brock Purdy","SF","DET",7700,19.56,2.5,51,-7,29,NA
+"QB","Patrick Mahomes","KC","@BAL",7500,17.78,2.4,44.5,3.5,20.5,NA
+"QB","Jared Goff","DET","@SF",7200,16.35,2.3,51,7,22,NA
+"WR","Amon-Ra St. Brown","DET","@SF",9000,15.27,1.7,51,7,22,NA
+"RB","Isiah Pacheco","KC","@BAL",7800,13.28,1.7,44.5,3.5,20.5,NA
+"WR","Brandon Aiyuk","SF","DET",7800,12.65,1.6,51,-7,29,NA
+"WR","Rashee Rice","KC","@BAL",7100,11.99,1.7,44.5,3.5,20.5,NA
+"WR","Deebo Samuel","SF","DET",8000,11.94,1.5,51,-7,29,NA
+"RB","Jahmyr Gibbs","DET","@SF",7000,11.32,1.6,51,7,22,NA
+"TE","Travis Kelce","KC","@BAL",7200,11.21,1.6,44.5,3.5,20.5,NA
+"TE","George Kittle","SF","DET",6600,10.65,1.6,51,-7,29,NA
+"TE","Sam LaPorta","DET","@SF",6500,9.85,1.5,51,7,22,NA
+"WR","Zay Flowers","BAL","KC",6400,9.48,1.5,44.5,-3.5,24,NA
+"RB","David Montgomery","DET","@SF",6000,9.13,1.5,51,7,22,NA
+"TE","Mark Andrews","BAL","KC",5700,8.48,1.5,44.5,-3.5,24,NA
+"RB","Gus Edwards","BAL","KC",5800,7.88,1.4,44.5,-3.5,24,NA
+"RB","Justice Hill","BAL","KC",5500,7.44,1.4,44.5,-3.5,24,NA
+"D","49ers","SF","DET",4500,6.45,1.4,51,-7,29,NA
+"D","Chiefs","KC","@BAL",3800,6.39,1.7,44.5,3.5,20.5,NA
+"D","Ravens","BAL","KC",4200,6.36,1.5,44.5,-3.5,24,NA
+"WR","Josh Reynolds","DET","@SF",5600,5.84,1,51,7,22,NA
+"WR","Odell Beckham","BAL","KC",5200,5.62,1.1,44.5,-3.5,24,NA
+"WR","Jameson Williams","DET","@SF",5000,5.39,1.1,51,7,22,NA
+"WR","Rashod Bateman","BAL","KC",4900,5.25,1.1,44.5,-3.5,24,NA
+"D","Lions","DET","@SF",3300,5.03,1.5,51,7,22,NA
+"WR","Jauan Jennings","SF","DET",5300,4.52,0.9,51,-7,29,NA
+"TE","Isaiah Likely","BAL","KC",5400,4.25,0.8,44.5,-3.5,24,NA
+"WR","Justin Watson","KC","@BAL",4700,4.08,0.9,44.5,3.5,20.5,NA
+"WR","Nelson Agholor","BAL","KC",5100,3.51,0.7,44.5,-3.5,24,NA
+"RB","Clyde Edwards-Helaire","KC","@BAL",4600,3.45,0.8,44.5,3.5,20.5,NA
+"WR","Marquez Valdes-Scantling","KC","@BAL",4800,3.37,0.7,44.5,3.5,20.5,NA
+"WR","Kadarius Toney","KC","@BAL",4500,2.98,0.7,44.5,3.5,20.5,NA
+"WR","Mecole Hardman","KC","@BAL",4600,2.93,0.6,44.5,3.5,20.5,NA
+"TE","Noah Gray","KC","@BAL",4600,2.72,0.6,44.5,3.5,20.5,NA
+"RB","Dalvin Cook","BAL","KC",4500,2.29,0.5,44.5,-3.5,24,NA
+"WR","Ray-Ray McCloud","SF","DET",4400,2.09,0.5,51,-7,29,NA
+"RB","Eli Mitchell","SF","DET",4400,2,0.5,51,-7,29,NA
+"RB","Kyle Juszczyk","SF","DET",4100,1.81,0.4,51,-7,29,NA
+"WR","Richie James","KC","@BAL",4300,1.69,0.4,44.5,3.5,20.5,NA
+"RB","Craig Reynolds","DET","@SF",4500,1.42,0.3,51,7,22,NA
