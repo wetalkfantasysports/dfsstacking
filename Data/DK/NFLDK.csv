@@ -1,45 +1,45 @@
 "Pos","Player","Team","Opp","Salary","Proj","Value","OU","SPRD","IMP","Roster"
-"QB","Lamar Jackson","BAL","PIT",8000,21.73,2.7,43.5,-9.5,26.5,44.7
-"RB","Derrick Henry","BAL","PIT",8200,18.98,2.3,43.5,-9.5,26.5,91.4
-"WR","Nico Collins","HOU","LAC",7800,17.21,2.2,42.5,2.5,20,84.7
-"QB","Justin Herbert","LAC","@HOU",6000,16.95,2.8,42.5,-2.5,22.5,23.2
-"RB","Joe Mixon","HOU","LAC",7200,16.2,2.2,42.5,2.5,20,51.4
-"QB","C.J. Stroud","HOU","LAC",5500,14.86,2.7,42.5,2.5,20,17.3
-"WR","Ladd McConkey","LAC","@HOU",6800,14.8,2.2,42.5,-2.5,22.5,68
-"RB","J.K. Dobbins","LAC","@HOU",6200,14.78,2.4,42.5,-2.5,22.5,44.3
-"QB","Russell Wilson","PIT","@BAL",5300,14.51,2.7,43.5,9.5,17,14.7
-"WR","George Pickens","PIT","@BAL",6300,12.15,1.9,43.5,9.5,17,19.8
-"RB","Jaylen Warren","PIT","@BAL",5200,11.78,2.3,43.5,9.5,17,39
-"TE","Mark Andrews","BAL","PIT",4700,11.1,2.4,43.5,-9.5,26.5,39.7
-"WR","Rashod Bateman","BAL","PIT",5000,10.93,2.2,43.5,-9.5,26.5,79.7
-"WR","Quentin Johnston","LAC","@HOU",4800,10.16,2.1,42.5,-2.5,22.5,42.7
-"RB","Najee Harris","PIT","@BAL",5000,10.04,2,43.5,9.5,17,13.1
-"TE","Dalton Schultz","HOU","LAC",3600,8.65,2.4,42.5,2.5,20,16
-"TE","Pat Freiermuth","PIT","@BAL",4400,8.38,1.9,43.5,9.5,17,17.3
-"D","Ravens","BAL","PIT",3700,7.88,2.1,43.5,-9.5,26.5,4.5
-"WR","Calvin Austin III","PIT","@BAL",4000,7.58,1.9,43.5,9.5,17,16.8
-"D","Chargers","LAC","@HOU",3200,7.33,2.3,42.5,-2.5,22.5,86.6
-"TE","Will Dissly","LAC","@HOU",3400,7.32,2.2,42.5,-2.5,22.5,16.1
-"TE","Isaiah Likely","BAL","PIT",3200,7.22,2.3,43.5,-9.5,26.5,18
-"WR","Josh Palmer","LAC","@HOU",4300,6.39,1.5,42.5,-2.5,22.5,5.8
-"RB","Justice Hill","BAL","PIT",4500,6.17,1.4,43.5,-9.5,26.5,2.7
-"WR","John Metchie","HOU","LAC",3900,5.81,1.5,42.5,2.5,20,14.3
-"D","Texans","HOU","LAC",2700,5.79,2.1,42.5,2.5,20,0.5
-"WR","Diontae Johnson","HOU","LAC",3500,5.3,1.5,42.5,2.5,20,1.9
-"RB","Gus Edwards","LAC","@HOU",4300,4.55,1.1,42.5,-2.5,22.5,0.2
-"D","Steelers","PIT","@BAL",2200,4.55,2.1,43.5,9.5,17,8.4
-"WR","Nelson Agholor","BAL","PIT",3400,4.11,1.2,43.5,-9.5,26.5,4.6
-"WR","Mike Williams","PIT","@BAL",3300,4.08,1.2,43.5,9.5,17,0.6
-"WR","Van Jefferson","PIT","@BAL",3200,3.98,1.2,43.5,9.5,17,0.8
-"WR","Tylan Wallace","BAL","PIT",3100,3.91,1.3,43.5,-9.5,26.5,1.9
-"WR","Derius Davis","LAC","@HOU",3300,3.66,1.1,42.5,-2.5,22.5,0.7
-"WR","Robert Woods","HOU","LAC",3700,3.46,0.9,42.5,2.5,20,1.7
+"QB","Lamar Jackson","BAL","PIT",8000,22.28,2.8,43.5,-9.5,26.5,44.5
+"RB","Derrick Henry","BAL","PIT",8200,19.03,2.3,43.5,-9.5,26.5,92
+"WR","Nico Collins","HOU","LAC",7800,17.37,2.2,42.5,3,19.75,73.7
+"QB","Justin Herbert","LAC","@HOU",6000,17.28,2.9,42.5,-3,22.75,23.7
+"RB","Joe Mixon","HOU","LAC",7200,16.6,2.3,42.5,3,19.75,43
+"QB","C.J. Stroud","HOU","LAC",5500,15.23,2.8,42.5,3,19.75,17.2
+"WR","Ladd McConkey","LAC","@HOU",6800,15.1,2.2,42.5,-3,22.75,72.9
+"RB","J.K. Dobbins","LAC","@HOU",6200,14.58,2.4,42.5,-3,22.75,37
+"QB","Russell Wilson","PIT","@BAL",5300,14.55,2.7,43.5,9.5,17,14.6
+"WR","George Pickens","PIT","@BAL",6300,12.22,1.9,43.5,9.5,17,17.8
+"TE","Mark Andrews","BAL","PIT",4700,11.7,2.5,43.5,-9.5,26.5,37.5
+"RB","Jaylen Warren","PIT","@BAL",5200,11.39,2.2,43.5,9.5,17,35
+"WR","Rashod Bateman","BAL","PIT",5000,11.3,2.3,43.5,-9.5,26.5,58.1
+"WR","Quentin Johnston","LAC","@HOU",4800,10.63,2.2,42.5,-3,22.75,74
+"RB","Najee Harris","PIT","@BAL",5000,10.09,2,43.5,9.5,17,10.2
+"TE","Dalton Schultz","HOU","LAC",3600,8.9,2.5,42.5,3,19.75,15.9
+"TE","Pat Freiermuth","PIT","@BAL",4400,8.75,2,43.5,9.5,17,18.2
+"D","Ravens","BAL","PIT",3700,8.06,2.2,43.5,-9.5,26.5,4.5
+"TE","Will Dissly","LAC","@HOU",3400,7.63,2.2,42.5,-3,22.75,16.3
+"TE","Isaiah Likely","BAL","PIT",3200,7.62,2.4,43.5,-9.5,26.5,19
+"WR","Calvin Austin III","PIT","@BAL",4000,7.42,1.9,43.5,9.5,17,15.1
+"D","Chargers","LAC","@HOU",3200,7.41,2.3,42.5,-3,22.75,86.6
+"RB","Justice Hill","BAL","PIT",4500,6.66,1.5,43.5,-9.5,26.5,2.4
+"WR","Josh Palmer","LAC","@HOU",4300,6.39,1.5,42.5,-3,22.75,0
+"WR","John Metchie","HOU","LAC",3900,6.13,1.6,42.5,3,19.75,14
+"D","Texans","HOU","LAC",2700,5.79,2.1,42.5,3,19.75,0.5
+"WR","Diontae Johnson","HOU","LAC",3500,5.3,1.5,42.5,3,19.75,2
+"WR","Nelson Agholor","BAL","PIT",3400,4.86,1.4,43.5,-9.5,26.5,4.8
+"RB","Gus Edwards","LAC","@HOU",4300,4.81,1.1,42.5,-3,22.75,0.1
+"D","Steelers","PIT","@BAL",2200,4.46,2,43.5,9.5,17,8.4
+"WR","Tylan Wallace","BAL","PIT",3100,4.45,1.4,43.5,-9.5,26.5,1.6
+"WR","Van Jefferson","PIT","@BAL",3200,3.82,1.2,43.5,9.5,17,0.8
+"WR","Mike Williams","PIT","@BAL",3300,3.76,1.1,43.5,9.5,17,0.7
+"WR","Derius Davis","LAC","@HOU",3300,3.63,1.1,42.5,-3,22.75,1.1
+"WR","Robert Woods","HOU","LAC",3700,3.33,0.9,42.5,3,19.75,1.8
+"WR","D.J. Chark","LAC","@HOU",3100,3.29,1.1,42.5,-3,22.75,5.8
 "RB","Keaton Mitchell","BAL","PIT",4200,3.04,0.7,43.5,-9.5,26.5,0
-"WR","D.J. Chark","LAC","@HOU",3100,3.01,1,42.5,-2.5,22.5,0.5
-"RB","Dare Ogunbowale","HOU","LAC",4100,2.75,0.7,42.5,2.5,20,0
-"TE","Stone Smartt","LAC","@HOU",2900,2.71,0.9,42.5,-2.5,22.5,1.8
-"WR","Devontez Walker","BAL","PIT",3000,2.61,0.9,43.5,-9.5,26.5,0.5
-"RB","Dameon Pierce","HOU","LAC",4700,2.42,0.5,42.5,2.5,20,0
-"WR","Xavier Hutchinson","HOU","LAC",3200,2.41,0.8,42.5,2.5,20,0.1
-"TE","Cade Stover","HOU","LAC",2600,2.19,0.8,42.5,2.5,20,0.3
+"TE","Stone Smartt","LAC","@HOU",2900,2.77,1,42.5,-3,22.75,2
+"RB","Dare Ogunbowale","HOU","LAC",4100,2.75,0.7,42.5,3,19.75,0
+"WR","Xavier Hutchinson","HOU","LAC",3200,2.65,0.8,42.5,3,19.75,0.2
+"RB","Dameon Pierce","HOU","LAC",4700,2.42,0.5,42.5,3,19.75,0
+"WR","Devontez Walker","BAL","PIT",3000,2.38,0.8,43.5,-9.5,26.5,0.6
+"TE","Cade Stover","HOU","LAC",2600,2.25,0.9,42.5,3,19.75,0.3
 "RB","Cordarrelle Patterson","PIT","@BAL",4000,1.96,0.5,43.5,9.5,17,0
