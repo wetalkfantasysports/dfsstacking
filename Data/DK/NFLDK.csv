@@ -1,42 +1,42 @@
 "Pos","Player","Team","Opp","Salary","Proj","Value","OU","SPRD","IMP","Roster"
-"RB","Saquon Barkley","PHI","WAS",8600,24.3,2.8,47.5,-6,26.75,91.1
-"QB","Josh Allen","BUF","@KC",7500,21.54,2.9,47.5,2,22.75,12.9
-"QB","Jalen Hurts","PHI","WAS",6500,20.9,3.2,47.5,-6,26.75,34.4
-"QB","Jayden Daniels","WAS","@PHI",7000,20.49,2.9,47.5,6,20.75,6.8
-"QB","Patrick Mahomes","KC","BUF",6000,20.11,3.4,47.5,-2,24.75,45.9
-"TE","Travis Kelce","KC","BUF",6000,15,2.5,47.5,-2,24.75,34.1
-"WR","Terry McLaurin","WAS","@PHI",6700,14.69,2.2,47.5,6,20.75,70.6
-"WR","A.J. Brown","PHI","WAS",6800,14.28,2.1,47.5,-6,26.75,38.6
-"WR","Xavier Worthy","KC","BUF",5500,13.85,2.5,47.5,-2,24.75,47.9
-"WR","DeVonta Smith","PHI","WAS",5800,12.74,2.2,47.5,-6,26.75,38.9
-"WR","Khalil Shakir","BUF","@KC",5700,12.45,2.2,47.5,2,22.75,39.4
-"RB","James Cook","BUF","@KC",6900,12.37,1.8,47.5,2,22.75,17
-"RB","Austin Ekeler","WAS","@PHI",5300,9.93,1.9,47.5,6,20.75,8
-"RB","Brian Robinson","WAS","@PHI",5600,9.85,1.8,47.5,6,20.75,13.7
-"TE","Dallas Goedert","PHI","WAS",4500,9.09,2,47.5,-6,26.75,24.7
-"WR","Dyami Brown","WAS","@PHI",4400,8.93,2,47.5,6,20.75,28.7
-"WR","Hollywood Brown","KC","BUF",4200,8.87,2.1,47.5,-2,24.75,21
-"RB","Kareem Hunt","KC","BUF",5400,8.82,1.6,47.5,-2,24.75,15.9
-"TE","Zach Ertz","WAS","@PHI",4300,8.44,2,47.5,6,20.75,17.8
-"WR","DeAndre Hopkins","KC","BUF",4700,8.29,1.8,47.5,-2,24.75,16.8
-"TE","Dalton Kincaid","BUF","@KC",3600,8.16,2.3,47.5,2,22.75,12.6
-"D","Eagles","PHI","WAS",3300,7.12,2.2,47.5,-6,26.75,0.1
-"RB","Isiah Pacheco","KC","BUF",5200,7.02,1.3,47.5,-2,24.75,6.1
-"WR","Olamide Zaccheaus","WAS","@PHI",3900,6.99,1.8,47.5,6,20.75,8.6
-"WR","Keon Coleman","BUF","@KC",3700,6.84,1.8,47.5,2,22.75,21.9
-"D","Chiefs","KC","BUF",3100,5.99,1.9,47.5,-2,24.75,80.7
-"WR","Amari Cooper","BUF","@KC",4100,5.75,1.4,47.5,2,22.75,2.6
-"D","Bills","BUF","@KC",2900,5.69,2,47.5,2,22.75,13.8
-"D","Commanders","WAS","@PHI",2700,5.5,2,47.5,6,20.75,5.4
-"TE","Noah Gray","KC","BUF",3000,5.17,1.7,47.5,-2,24.75,8.9
-"RB","Ty Johnson","BUF","@KC",4400,4.89,1.1,47.5,2,22.75,0.9
-"WR","Curtis Samuel","BUF","@KC",3500,4.14,1.2,47.5,2,22.75,3.6
-"RB","Samaje Perine","KC","BUF",4200,3.92,0.9,47.5,-2,24.75,0.4
-"WR","Mack Hollins","BUF","@KC",3300,3.91,1.2,47.5,2,22.75,2.8
-"TE","Dawson Knox","BUF","@KC",2600,3.82,1.5,47.5,2,22.75,9.8
-"RB","Ray Davis","BUF","@KC",4300,3.77,0.9,47.5,2,22.75,0.4
-"RB","Kenneth Gainwell","PHI","WAS",4600,3.13,0.7,47.5,-6,26.75,1.4
-"WR","Jamison Crowder","WAS","@PHI",3100,2.96,1,47.5,6,20.75,0.7
-"WR","Jahan Dotson","PHI","WAS",3400,2.44,0.7,47.5,-6,26.75,1.6
-"WR","JuJu Smith-Schuster","KC","BUF",3200,2.2,0.7,47.5,-2,24.75,0.9
-"WR","Justin Watson","KC","BUF",3000,1.88,0.6,47.5,-2,24.75,0.2
+"RB","Saquon Barkley","PHI","WAS",8600,24.45,2.8,47,-6,26.5,88.3
+"QB","Josh Allen","BUF","@KC",7500,21.6,2.9,49,2,23.5,26.9
+"QB","Jalen Hurts","PHI","WAS",6500,21.09,3.2,47,-6,26.5,12.6
+"QB","Patrick Mahomes","KC","BUF",6000,20.58,3.4,49,-2,25.5,45.8
+"QB","Jayden Daniels","WAS","@PHI",7000,20.48,2.9,47,6,20.5,13.5
+"TE","Travis Kelce","KC","BUF",6000,16.2,2.7,49,-2,25.5,42.8
+"WR","A.J. Brown","PHI","WAS",6800,14.76,2.2,47,-6,26.5,47.9
+"WR","Terry McLaurin","WAS","@PHI",6700,14.55,2.2,47,6,20.5,53.4
+"WR","Xavier Worthy","KC","BUF",5500,14.09,2.6,49,-2,25.5,55.3
+"WR","DeVonta Smith","PHI","WAS",5800,12.74,2.2,47,-6,26.5,35.7
+"WR","Khalil Shakir","BUF","@KC",5700,12.68,2.2,49,2,23.5,38.4
+"RB","James Cook","BUF","@KC",6900,12.52,1.8,49,2,23.5,31.5
+"RB","Austin Ekeler","WAS","@PHI",5300,9.89,1.9,47,6,20.5,18.5
+"RB","Brian Robinson","WAS","@PHI",5600,9.75,1.7,47,6,20.5,19.8
+"TE","Dallas Goedert","PHI","WAS",4500,9.16,2,47,-6,26.5,22.3
+"RB","Kareem Hunt","KC","BUF",5400,8.97,1.7,49,-2,25.5,26.5
+"WR","Hollywood Brown","KC","BUF",4200,8.91,2.1,49,-2,25.5,33.4
+"WR","Dyami Brown","WAS","@PHI",4400,8.85,2,47,6,20.5,29.4
+"TE","Zach Ertz","WAS","@PHI",4300,8.48,2,47,6,20.5,17.6
+"TE","Dalton Kincaid","BUF","@KC",3600,8.13,2.3,49,2,23.5,14.7
+"D","Eagles","PHI","WAS",3300,7.17,2.2,47,-6,26.5,25.3
+"WR","DeAndre Hopkins","KC","BUF",4700,6.99,1.5,49,-2,25.5,11.4
+"WR","Olamide Zaccheaus","WAS","@PHI",3900,6.89,1.8,47,6,20.5,8
+"RB","Isiah Pacheco","KC","BUF",5200,6.86,1.3,49,-2,25.5,12.3
+"WR","Keon Coleman","BUF","@KC",3700,6.21,1.7,49,2,23.5,16.9
+"WR","Amari Cooper","BUF","@KC",4100,5.81,1.4,49,2,23.5,2.4
+"D","Chiefs","KC","BUF",3100,5.77,1.9,49,-2,25.5,21.4
+"D","Commanders","WAS","@PHI",2700,5.5,2,47,6,20.5,45.1
+"D","Bills","BUF","@KC",2900,5.46,1.9,49,2,23.5,8.2
+"TE","Noah Gray","KC","BUF",3000,5.18,1.7,49,-2,25.5,8.3
+"RB","Ty Johnson","BUF","@KC",4400,4.87,1.1,49,2,23.5,3.9
+"WR","Mack Hollins","BUF","@KC",3300,4.22,1.3,49,2,23.5,5.4
+"TE","Dawson Knox","BUF","@KC",2600,4.13,1.6,49,2,23.5,8.8
+"WR","Curtis Samuel","BUF","@KC",3500,4.1,1.2,49,2,23.5,3.5
+"RB","Samaje Perine","KC","BUF",4200,3.93,0.9,49,-2,25.5,0.2
+"RB","Ray Davis","BUF","@KC",4300,3.78,0.9,49,2,23.5,3.6
+"RB","Kenneth Gainwell","PHI","WAS",4600,3.23,0.7,47,-6,26.5,0.9
+"WR","Jamison Crowder","WAS","@PHI",3100,2.96,1,47,6,20.5,0.6
+"WR","Jahan Dotson","PHI","WAS",3400,2.35,0.7,47,-6,26.5,1.4
+"WR","JuJu Smith-Schuster","KC","BUF",3200,2.13,0.7,49,-2,25.5,1
+"WR","Justin Watson","KC","BUF",3000,1.9,0.6,49,-2,25.5,0.3
